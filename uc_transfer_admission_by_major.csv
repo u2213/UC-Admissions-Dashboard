@@ -1,0 +1,50 @@
+fall_term,campus,broad_discipline,major,applicants,admits,enrollees,admit_rate,yield_rate,admit_gpa_p25,admit_gpa_p75,enrollee_gpa_p25,enrollee_gpa_p75
+2025,Berkeley,Architecture,Architecture,294,54,44,0.18,0.81,3.73,3.94,3.73,3.94
+2025,Berkeley,Arts & Humanities,Art,240,55,32,0.23,0.58,3.8,4.0,3.79,4.0
+2025,Berkeley,Arts & Humanities,ChineseLanguage&Literature,39,20,16,0.51,0.8,3.53,4.0,3.44,3.94
+2025,Berkeley,Arts & Humanities,ComparativeLiterature,47,31,18,0.66,0.58,3.53,3.92,3.53,3.85
+2025,Berkeley,Arts & Humanities,"EastAsianReligion,Thought,andCulture",55,16,10,0.29,0.63,3.61,3.92,3.44,3.89
+2025,Berkeley,Arts & Humanities,English,478,373,208,0.78,0.56,3.41,3.9,3.38,3.85
+2025,Berkeley,Arts & Humanities,Film,365,217,104,0.59,0.48,3.46,3.9,3.34,3.85
+2025,Berkeley,Arts & Humanities,History,333,102,48,0.31,0.47,3.73,4.0,3.66,3.94
+2025,Berkeley,Arts & Humanities,HistoryofArt,147,111,41,0.76,0.37,3.36,3.93,3.25,3.84
+2025,Berkeley,Business,BusinessAdministration,2413,118,115,0.05,0.97,3.87,4.0,3.87,4.0
+2025,Berkeley,Computer Science,ComputerScience,1870,50,43,0.03,0.86,3.98,4.0,3.98,4.0
+2025,Berkeley,Computer Science,DataScience,752,105,94,0.14,0.9,3.8,4.0,3.8,4.0
+2025,Berkeley,Engineering,ChemicalEngineering,148,49,35,0.33,0.71,3.79,3.98,3.75,3.96
+2025,Berkeley,Engineering,AerospaceEngineering,229,37,28,0.16,0.76,3.86,4.0,3.87,4.0
+2025,Berkeley,Engineering,Bioengineering,176,38,25,0.22,0.66,3.83,4.0,3.82,4.0
+2025,Berkeley,Engineering,CivilEngineering,175,38,28,0.22,0.74,3.76,3.94,3.78,3.94
+2025,Berkeley,Engineering,ElectricalEngineering-ComputerScience,1171,133,121,0.11,0.91,3.95,4.0,3.95,4.0
+2025,Berkeley,Engineering,MechanicalEngineering,698,93,74,0.13,0.8,3.9,4.0,3.89,4.0
+2025,Berkeley,Life Sciences,EnvironmentalEarthScience,30,17,10,0.57,0.59,3.49,3.79,3.27,3.72
+2025,Berkeley,Life Sciences,Geography,46,26,12,0.57,0.46,3.61,3.93,3.38,3.92
+2025,Berkeley,Life Sciences,IntegrativeBiology,230,95,49,0.41,0.52,3.65,3.95,3.62,3.9
+2025,Berkeley,Life Sciences,Molecular&CellBiology,764,240,109,0.31,0.45,3.69,3.96,3.58,3.92
+2025,Berkeley,Life Sciences,Neuroscience,195,61,27,0.31,0.44,3.7,3.98,3.68,3.98
+2025,Berkeley,Life Sciences,Conservation&ResourceStudies,51,25,15,0.49,0.6,3.53,3.86,3.19,3.78
+2025,Berkeley,Life Sciences,EnvironmentalEconomics&Policy,139,42,30,0.3,0.71,3.72,4.0,3.71,4.0
+2025,Berkeley,Other/Interdisciplinary,CognitiveScience,318,57,40,0.18,0.7,3.74,3.96,3.71,3.95
+2025,Berkeley,Other/Interdisciplinary,GlobalStudies,146,86,49,0.59,0.57,3.6,3.93,3.56,3.93
+2025,Berkeley,Other/Interdisciplinary,InterdisciplinaryStudies,150,42,27,0.28,0.64,3.66,3.96,3.64,3.96
+2025,Berkeley,Other/Interdisciplinary,LegalStudies,189,26,17,0.14,0.65,3.76,4.0,3.7,4.0
+2025,Berkeley,Other/Interdisciplinary,MediaStudies,467,110,70,0.24,0.64,3.64,3.98,3.6,3.91
+2025,Berkeley,Other/Interdisciplinary,NutritionalScience,102,8,5,0.08,0.63,3.47,3.85,3.51,3.83
+2025,Berkeley,Physical Sciences/Math,ChemicalBiology,184,52,20,0.28,0.38,3.78,3.96,3.75,3.93
+2025,Berkeley,Physical Sciences/Math,Chemistry,214,54,28,0.25,0.52,3.78,4.0,3.7,3.9
+2025,Berkeley,Physical Sciences/Math,Statistics,309,95,73,0.31,0.77,3.79,4.0,3.79,4.0
+2025,Berkeley,Physical Sciences/Math,MaterialsScience&Engineering,35,5,5,0.14,1.0,3.66,3.85,3.66,3.85
+2025,Berkeley,Physical Sciences/Math,AppliedMathematics,727,274,186,0.38,0.68,3.81,4.0,3.78,4.0
+2025,Berkeley,Physical Sciences/Math,Astrophysics,70,41,27,0.59,0.66,3.47,3.91,3.4,3.91
+2025,Berkeley,Physical Sciences/Math,Chemistry,15,7,5,0.47,0.71,3.86,3.98,3.94,3.98
+2025,Berkeley,Physical Sciences/Math,Geology,24,10,6,0.42,0.6,3.43,3.82,3.46,3.9
+2025,Berkeley,Public Admin,SocialWelfare,96,26,14,0.27,0.54,3.5,3.92,3.42,3.82
+2025,Berkeley,Public Health,PublicHealth,342,32,12,0.09,0.38,3.65,3.92,3.53,3.92
+2025,Berkeley,Social Sciences,UrbanStudies,58,19,10,0.33,0.53,3.42,3.88,3.39,3.89
+2025,Berkeley,Social Sciences,AmericanStudies,39,32,27,0.82,0.84,3.19,3.87,3.06,3.89
+2025,Berkeley,Social Sciences,Anthropology,297,115,58,0.39,0.5,3.68,3.94,3.67,3.93
+2025,Berkeley,Social Sciences,AsianAmericanandAsianDiasporaStudies,22,14,11,0.64,0.79,3.72,3.93,3.74,3.92
+2025,Berkeley,Social Sciences,Economics,1772,268,193,0.15,0.72,3.84,4.0,3.8,4.0
+2025,Berkeley,Social Sciences,EthnicStudies,29,16,12,0.55,0.75,3.51,3.93,3.49,3.94
+2025,Berkeley,Social Sciences,Gender&Women'sStudies,54,33,20,0.61,0.61,3.81,3.94,3.81,3.94
+2025,Berkeley,Undeclared,Undeclared,137,92,44,0.67,0.48,3.47,3.93,3.38,3.81

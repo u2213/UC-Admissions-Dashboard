@@ -1,0 +1,4240 @@
+entrant_level,campus,fall_term,count_type,ethnicity,n
+freshman,Systemwide,2017,App,African American,9664
+freshman,Systemwide,2018,App,African American,10294
+freshman,Systemwide,2019,App,African American,9866
+freshman,Systemwide,2020,App,African American,9513
+freshman,Systemwide,2021,App,African American,12771
+freshman,Systemwide,2022,App,African American,12990
+freshman,Systemwide,2023,App,African American,12435
+freshman,Systemwide,2024,App,African American,12895
+freshman,Systemwide,2025,App,African American,12167
+freshman,Systemwide,2017,App,American Indian,969
+freshman,Systemwide,2018,App,American Indian,902
+freshman,Systemwide,2019,App,American Indian,765
+freshman,Systemwide,2020,App,American Indian,744
+freshman,Systemwide,2021,App,American Indian,842
+freshman,Systemwide,2022,App,American Indian,1152
+freshman,Systemwide,2023,App,American Indian,1188
+freshman,Systemwide,2024,App,American Indian,1190
+freshman,Systemwide,2025,App,American Indian,1128
+freshman,Systemwide,2017,App,Asian,43485
+freshman,Systemwide,2018,App,Asian,48062
+freshman,Systemwide,2019,App,Asian,47698
+freshman,Systemwide,2020,App,Asian,47605
+freshman,Systemwide,2021,App,Asian,55046
+freshman,Systemwide,2022,App,Asian,59078
+freshman,Systemwide,2023,App,Asian,58903
+freshman,Systemwide,2024,App,Asian,58573
+freshman,Systemwide,2025,App,Asian,58987
+freshman,Systemwide,2017,App,Hispanic/Latino(a),45241
+freshman,Systemwide,2018,App,Hispanic/Latino(a),48478
+freshman,Systemwide,2019,App,Hispanic/Latino(a),47399
+freshman,Systemwide,2020,App,Hispanic/Latino(a),46633
+freshman,Systemwide,2021,App,Hispanic/Latino(a),54068
+freshman,Systemwide,2022,App,Hispanic/Latino(a),55705
+freshman,Systemwide,2023,App,Hispanic/Latino(a),56495
+freshman,Systemwide,2024,App,Hispanic/Latino(a),57598
+freshman,Systemwide,2025,App,Hispanic/Latino(a),55624
+freshman,Systemwide,2017,App,Pacific Islander,507
+freshman,Systemwide,2018,App,Pacific Islander,529
+freshman,Systemwide,2019,App,Pacific Islander,476
+freshman,Systemwide,2020,App,Pacific Islander,435
+freshman,Systemwide,2021,App,Pacific Islander,562
+freshman,Systemwide,2022,App,Pacific Islander,526
+freshman,Systemwide,2023,App,Pacific Islander,533
+freshman,Systemwide,2024,App,Pacific Islander,502
+freshman,Systemwide,2025,App,Pacific Islander,508
+freshman,Systemwide,2017,App,White,40187
+freshman,Systemwide,2018,App,White,40078
+freshman,Systemwide,2019,App,White,38235
+freshman,Systemwide,2020,App,White,35518
+freshman,Systemwide,2021,App,White,46256
+freshman,Systemwide,2022,App,White,45237
+freshman,Systemwide,2023,App,White,42733
+freshman,Systemwide,2024,App,White,40379
+freshman,Systemwide,2025,App,White,38390
+freshman,Systemwide,2017,App,Unknown,4612
+freshman,Systemwide,2018,App,Unknown,5220
+freshman,Systemwide,2019,App,Unknown,4507
+freshman,Systemwide,2020,App,Unknown,5151
+freshman,Systemwide,2021,App,Unknown,4908
+freshman,Systemwide,2022,App,Unknown,4996
+freshman,Systemwide,2023,App,Unknown,5135
+freshman,Systemwide,2024,App,Unknown,6446
+freshman,Systemwide,2025,App,Unknown,6498
+freshman,Systemwide,2017,App,International,27193
+freshman,Systemwide,2018,App,International,28566
+freshman,Systemwide,2019,App,International,27770
+freshman,Systemwide,2020,App,International,26709
+freshman,Systemwide,2021,App,International,29389
+freshman,Systemwide,2022,App,International,31326
+freshman,Systemwide,2023,App,International,29452
+freshman,Systemwide,2024,App,International,29548
+freshman,Systemwide,2025,App,International,32087
+freshman,Systemwide,2017,Adm,African American,4352
+freshman,Systemwide,2018,Adm,African American,4444
+freshman,Systemwide,2019,Adm,African American,4406
+freshman,Systemwide,2020,Adm,African American,5170
+freshman,Systemwide,2021,Adm,African American,6839
+freshman,Systemwide,2022,Adm,African American,6399
+freshman,Systemwide,2023,Adm,African American,6559
+freshman,Systemwide,2024,Adm,African American,7139
+freshman,Systemwide,2025,Adm,African American,7620
+freshman,Systemwide,2017,Adm,American Indian,561
+freshman,Systemwide,2018,Adm,American Indian,507
+freshman,Systemwide,2019,Adm,American Indian,439
+freshman,Systemwide,2020,Adm,American Indian,476
+freshman,Systemwide,2021,Adm,American Indian,560
+freshman,Systemwide,2022,Adm,American Indian,687
+freshman,Systemwide,2023,Adm,American Indian,766
+freshman,Systemwide,2024,Adm,American Indian,757
+freshman,Systemwide,2025,Adm,American Indian,788
+freshman,Systemwide,2017,Adm,Asian,30302
+freshman,Systemwide,2018,Adm,Asian,32138
+freshman,Systemwide,2019,Adm,Asian,32567
+freshman,Systemwide,2020,Adm,Asian,36034
+freshman,Systemwide,2021,Adm,Asian,38738
+freshman,Systemwide,2022,Adm,Asian,39264
+freshman,Systemwide,2023,Adm,Asian,40719
+freshman,Systemwide,2024,Adm,Asian,41519
+freshman,Systemwide,2025,Adm,Asian,45313
+freshman,Systemwide,2017,Adm,Hispanic/Latino(a),24414
+freshman,Systemwide,2018,Adm,Hispanic/Latino(a),25078
+freshman,Systemwide,2019,Adm,Hispanic/Latino(a),26247
+freshman,Systemwide,2020,Adm,Hispanic/Latino(a),30468
+freshman,Systemwide,2021,Adm,Hispanic/Latino(a),34279
+freshman,Systemwide,2022,Adm,Hispanic/Latino(a),34121
+freshman,Systemwide,2023,Adm,Hispanic/Latino(a),36381
+freshman,Systemwide,2024,Adm,Hispanic/Latino(a),38781
+freshman,Systemwide,2025,Adm,Hispanic/Latino(a),41458
+freshman,Systemwide,2017,Adm,Pacific Islander,257
+freshman,Systemwide,2018,Adm,Pacific Islander,265
+freshman,Systemwide,2019,Adm,Pacific Islander,259
+freshman,Systemwide,2020,Adm,Pacific Islander,265
+freshman,Systemwide,2021,Adm,Pacific Islander,341
+freshman,Systemwide,2022,Adm,Pacific Islander,296
+freshman,Systemwide,2023,Adm,Pacific Islander,321
+freshman,Systemwide,2024,Adm,Pacific Islander,304
+freshman,Systemwide,2025,Adm,Pacific Islander,374
+freshman,Systemwide,2017,Adm,White,23941
+freshman,Systemwide,2018,Adm,White,22874
+freshman,Systemwide,2019,Adm,White,22469
+freshman,Systemwide,2020,Adm,White,23503
+freshman,Systemwide,2021,Adm,White,27682
+freshman,Systemwide,2022,Adm,White,24079
+freshman,Systemwide,2023,Adm,White,25578
+freshman,Systemwide,2024,Adm,White,25099
+freshman,Systemwide,2025,Adm,White,26368
+freshman,Systemwide,2017,Adm,Unknown,2928
+freshman,Systemwide,2018,Adm,Unknown,3232
+freshman,Systemwide,2019,Adm,Unknown,2877
+freshman,Systemwide,2020,Adm,Unknown,3581
+freshman,Systemwide,2021,Adm,Unknown,3427
+freshman,Systemwide,2022,Adm,Unknown,3161
+freshman,Systemwide,2023,Adm,Unknown,3425
+freshman,Systemwide,2024,Adm,Unknown,4430
+freshman,Systemwide,2025,Adm,Unknown,4832
+freshman,Systemwide,2017,Adm,International,18067
+freshman,Systemwide,2018,Adm,International,18901
+freshman,Systemwide,2019,Adm,International,18404
+freshman,Systemwide,2020,Adm,International,18745
+freshman,Systemwide,2021,Adm,International,19796
+freshman,Systemwide,2022,Adm,International,17226
+freshman,Systemwide,2023,Adm,International,17418
+freshman,Systemwide,2024,Adm,International,18967
+freshman,Systemwide,2025,Adm,International,21923
+freshman,Systemwide,2017,Enr,African American,1873
+freshman,Systemwide,2018,Enr,African American,1915
+freshman,Systemwide,2019,Enr,African American,1778
+freshman,Systemwide,2020,Enr,African American,1916
+freshman,Systemwide,2021,Enr,African American,2298
+freshman,Systemwide,2022,Enr,African American,2274
+freshman,Systemwide,2023,Enr,African American,2404
+freshman,Systemwide,2024,Enr,African American,2492
+freshman,Systemwide,2025,Enr,African American,2468
+freshman,Systemwide,2017,Enr,American Indian,204
+freshman,Systemwide,2018,Enr,American Indian,223
+freshman,Systemwide,2019,Enr,American Indian,193
+freshman,Systemwide,2020,Enr,American Indian,184
+freshman,Systemwide,2021,Enr,American Indian,214
+freshman,Systemwide,2022,Enr,American Indian,310
+freshman,Systemwide,2023,Enr,American Indian,320
+freshman,Systemwide,2024,Enr,American Indian,346
+freshman,Systemwide,2025,Enr,American Indian,319
+freshman,Systemwide,2017,Enr,Asian,15390
+freshman,Systemwide,2018,Enr,Asian,16294
+freshman,Systemwide,2019,Enr,Asian,16246
+freshman,Systemwide,2020,Enr,Asian,17347
+freshman,Systemwide,2021,Enr,Asian,17990
+freshman,Systemwide,2022,Enr,Asian,18381
+freshman,Systemwide,2023,Enr,Asian,18670
+freshman,Systemwide,2024,Enr,Asian,18489
+freshman,Systemwide,2025,Enr,Asian,18678
+freshman,Systemwide,2017,Enr,Hispanic/Latino(a),11960
+freshman,Systemwide,2018,Enr,Hispanic/Latino(a),11678
+freshman,Systemwide,2019,Enr,Hispanic/Latino(a),11695
+freshman,Systemwide,2020,Enr,Hispanic/Latino(a),11916
+freshman,Systemwide,2021,Enr,Hispanic/Latino(a),13573
+freshman,Systemwide,2022,Enr,Hispanic/Latino(a),13065
+freshman,Systemwide,2023,Enr,Hispanic/Latino(a),14482
+freshman,Systemwide,2024,Enr,Hispanic/Latino(a),14103
+freshman,Systemwide,2025,Enr,Hispanic/Latino(a),14694
+freshman,Systemwide,2017,Enr,Pacific Islander,97
+freshman,Systemwide,2018,Enr,Pacific Islander,104
+freshman,Systemwide,2019,Enr,Pacific Islander,116
+freshman,Systemwide,2020,Enr,Pacific Islander,97
+freshman,Systemwide,2021,Enr,Pacific Islander,137
+freshman,Systemwide,2022,Enr,Pacific Islander,101
+freshman,Systemwide,2023,Enr,Pacific Islander,125
+freshman,Systemwide,2024,Enr,Pacific Islander,108
+freshman,Systemwide,2025,Enr,Pacific Islander,136
+freshman,Systemwide,2017,Enr,White,9314
+freshman,Systemwide,2018,Enr,White,8871
+freshman,Systemwide,2019,Enr,White,8867
+freshman,Systemwide,2020,Enr,White,8826
+freshman,Systemwide,2021,Enr,White,10152
+freshman,Systemwide,2022,Enr,White,8813
+freshman,Systemwide,2023,Enr,White,9030
+freshman,Systemwide,2024,Enr,White,8744
+freshman,Systemwide,2025,Enr,White,8856
+freshman,Systemwide,2017,Enr,Unknown,1214
+freshman,Systemwide,2018,Enr,Unknown,1327
+freshman,Systemwide,2019,Enr,Unknown,1128
+freshman,Systemwide,2020,Enr,Unknown,1334
+freshman,Systemwide,2021,Enr,Unknown,1355
+freshman,Systemwide,2022,Enr,Unknown,1187
+freshman,Systemwide,2023,Enr,Unknown,1349
+freshman,Systemwide,2024,Enr,Unknown,1544
+freshman,Systemwide,2025,Enr,Unknown,1592
+freshman,Systemwide,2017,Enr,International,5954
+freshman,Systemwide,2018,Enr,International,6265
+freshman,Systemwide,2019,Enr,International,5928
+freshman,Systemwide,2020,Enr,International,5089
+freshman,Systemwide,2021,Enr,International,6008
+freshman,Systemwide,2022,Enr,International,4457
+freshman,Systemwide,2023,Enr,International,4586
+freshman,Systemwide,2024,Enr,International,4796
+freshman,Systemwide,2025,Enr,International,5866
+freshman,Berkeley,2017,App,African American,4439
+freshman,Berkeley,2018,App,African American,4743
+freshman,Berkeley,2019,App,African American,4364
+freshman,Berkeley,2020,App,African American,4454
+freshman,Berkeley,2021,App,African American,6587
+freshman,Berkeley,2022,App,African American,7313
+freshman,Berkeley,2023,App,African American,6993
+freshman,Berkeley,2024,App,African American,6918
+freshman,Berkeley,2025,App,African American,6598
+freshman,Berkeley,2017,App,American Indian,427
+freshman,Berkeley,2018,App,American Indian,382
+freshman,Berkeley,2019,App,American Indian,338
+freshman,Berkeley,2020,App,American Indian,292
+freshman,Berkeley,2021,App,American Indian,365
+freshman,Berkeley,2022,App,American Indian,581
+freshman,Berkeley,2023,App,American Indian,588
+freshman,Berkeley,2024,App,American Indian,620
+freshman,Berkeley,2025,App,American Indian,535
+freshman,Berkeley,2017,App,Asian,25944
+freshman,Berkeley,2018,App,Asian,28946
+freshman,Berkeley,2019,App,Asian,28913
+freshman,Berkeley,2020,App,Asian,29789
+freshman,Berkeley,2021,App,Asian,36553
+freshman,Berkeley,2022,App,Asian,42488
+freshman,Berkeley,2023,App,Asian,42772
+freshman,Berkeley,2024,App,Asian,42207
+freshman,Berkeley,2025,App,Asian,43575
+freshman,Berkeley,2017,App,Hispanic/Latino(a),15883
+freshman,Berkeley,2018,App,Hispanic/Latino(a),16293
+freshman,Berkeley,2019,App,Hispanic/Latino(a),15877
+freshman,Berkeley,2020,App,Hispanic/Latino(a),15780
+freshman,Berkeley,2021,App,Hispanic/Latino(a),21484
+freshman,Berkeley,2022,App,Hispanic/Latino(a),25690
+freshman,Berkeley,2023,App,Hispanic/Latino(a),25706
+freshman,Berkeley,2024,App,Hispanic/Latino(a),25176
+freshman,Berkeley,2025,App,Hispanic/Latino(a),25084
+freshman,Berkeley,2017,App,Pacific Islander,222
+freshman,Berkeley,2018,App,Pacific Islander,224
+freshman,Berkeley,2019,App,Pacific Islander,203
+freshman,Berkeley,2020,App,Pacific Islander,198
+freshman,Berkeley,2021,App,Pacific Islander,274
+freshman,Berkeley,2022,App,Pacific Islander,267
+freshman,Berkeley,2023,App,Pacific Islander,282
+freshman,Berkeley,2024,App,Pacific Islander,247
+freshman,Berkeley,2025,App,Pacific Islander,280
+freshman,Berkeley,2017,App,White,20053
+freshman,Berkeley,2018,App,White,18911
+freshman,Berkeley,2019,App,White,18013
+freshman,Berkeley,2020,App,White,17440
+freshman,Berkeley,2021,App,White,23198
+freshman,Berkeley,2022,App,White,25181
+freshman,Berkeley,2023,App,White,23944
+freshman,Berkeley,2024,App,White,21980
+freshman,Berkeley,2025,App,White,21690
+freshman,Berkeley,2017,App,Unknown,2643
+freshman,Berkeley,2018,App,Unknown,3046
+freshman,Berkeley,2019,App,Unknown,2655
+freshman,Berkeley,2020,App,Unknown,3006
+freshman,Berkeley,2021,App,Unknown,3393
+freshman,Berkeley,2022,App,Unknown,3577
+freshman,Berkeley,2023,App,Unknown,3770
+freshman,Berkeley,2024,App,Unknown,4847
+freshman,Berkeley,2025,App,Unknown,5095
+freshman,Berkeley,2017,App,International,15434
+freshman,Berkeley,2018,App,International,17064
+freshman,Berkeley,2019,App,International,17035
+freshman,Berkeley,2020,App,International,17105
+freshman,Berkeley,2021,App,International,20981
+freshman,Berkeley,2022,App,International,23113
+freshman,Berkeley,2023,App,International,21855
+freshman,Berkeley,2024,App,International,22247
+freshman,Berkeley,2025,App,International,23973
+freshman,Berkeley,2017,Adm,African American,493
+freshman,Berkeley,2018,Adm,African American,523
+freshman,Berkeley,2019,Adm,African American,508
+freshman,Berkeley,2020,Adm,African American,733
+freshman,Berkeley,2021,Adm,African American,850
+freshman,Berkeley,2022,Adm,African American,724
+freshman,Berkeley,2023,Adm,African American,708
+freshman,Berkeley,2024,Adm,African American,683
+freshman,Berkeley,2025,Adm,African American,685
+freshman,Berkeley,2017,Adm,American Indian,92
+freshman,Berkeley,2018,Adm,American Indian,52
+freshman,Berkeley,2019,Adm,American Indian,82
+freshman,Berkeley,2020,Adm,American Indian,72
+freshman,Berkeley,2021,Adm,American Indian,116
+freshman,Berkeley,2022,Adm,American Indian,100
+freshman,Berkeley,2023,Adm,American Indian,113
+freshman,Berkeley,2024,Adm,American Indian,110
+freshman,Berkeley,2025,Adm,American Indian,132
+freshman,Berkeley,2017,Adm,Asian,5868
+freshman,Berkeley,2018,Adm,Asian,5359
+freshman,Berkeley,2019,Adm,Asian,5952
+freshman,Berkeley,2020,Adm,Asian,6209
+freshman,Berkeley,2021,Adm,Asian,6069
+freshman,Berkeley,2022,Adm,Asian,5653
+freshman,Berkeley,2023,Adm,Asian,5638
+freshman,Berkeley,2024,Adm,Asian,5511
+freshman,Berkeley,2025,Adm,Asian,5705
+freshman,Berkeley,2017,Adm,Hispanic/Latino(a),2117
+freshman,Berkeley,2018,Adm,Hispanic/Latino(a),2083
+freshman,Berkeley,2019,Adm,Hispanic/Latino(a),2282
+freshman,Berkeley,2020,Adm,Hispanic/Latino(a),3369
+freshman,Berkeley,2021,Adm,Hispanic/Latino(a),3595
+freshman,Berkeley,2022,Adm,Hispanic/Latino(a),3261
+freshman,Berkeley,2023,Adm,Hispanic/Latino(a),3556
+freshman,Berkeley,2024,Adm,Hispanic/Latino(a),3009
+freshman,Berkeley,2025,Adm,Hispanic/Latino(a),2962
+freshman,Berkeley,2017,Adm,Pacific Islander,27
+freshman,Berkeley,2018,Adm,Pacific Islander,19
+freshman,Berkeley,2019,Adm,Pacific Islander,26
+freshman,Berkeley,2020,Adm,Pacific Islander,26
+freshman,Berkeley,2021,Adm,Pacific Islander,44
+freshman,Berkeley,2022,Adm,Pacific Islander,22
+freshman,Berkeley,2023,Adm,Pacific Islander,38
+freshman,Berkeley,2024,Adm,Pacific Islander,33
+freshman,Berkeley,2025,Adm,Pacific Islander,25
+freshman,Berkeley,2017,Adm,White,3947
+freshman,Berkeley,2018,Adm,White,3115
+freshman,Berkeley,2019,Adm,White,3223
+freshman,Berkeley,2020,Adm,White,2809
+freshman,Berkeley,2021,Adm,White,3265
+freshman,Berkeley,2022,Adm,White,2950
+freshman,Berkeley,2023,Adm,White,2828
+freshman,Berkeley,2024,Adm,White,2700
+freshman,Berkeley,2025,Adm,White,2607
+freshman,Berkeley,2017,Adm,Unknown,706
+freshman,Berkeley,2018,Adm,Unknown,697
+freshman,Berkeley,2019,Adm,Unknown,661
+freshman,Berkeley,2020,Adm,Unknown,705
+freshman,Berkeley,2021,Adm,Unknown,665
+freshman,Berkeley,2022,Adm,Unknown,558
+freshman,Berkeley,2023,Adm,Unknown,629
+freshman,Berkeley,2024,Adm,Unknown,858
+freshman,Berkeley,2025,Adm,Unknown,853
+freshman,Berkeley,2017,Adm,International,1299
+freshman,Berkeley,2018,Adm,International,1453
+freshman,Berkeley,2019,Adm,International,1543
+freshman,Berkeley,2020,Adm,International,1467
+freshman,Berkeley,2021,Adm,International,1691
+freshman,Berkeley,2022,Adm,International,1254
+freshman,Berkeley,2023,Adm,International,1167
+freshman,Berkeley,2024,Adm,International,735
+freshman,Berkeley,2025,Adm,International,1391
+freshman,Berkeley,2017,Enr,African American,186
+freshman,Berkeley,2018,Enr,African American,189
+freshman,Berkeley,2019,Enr,African American,178
+freshman,Berkeley,2020,Enr,African American,229
+freshman,Berkeley,2021,Enr,African American,258
+freshman,Berkeley,2022,Enr,African American,228
+freshman,Berkeley,2023,Enr,African American,244
+freshman,Berkeley,2024,Enr,African American,253
+freshman,Berkeley,2025,Enr,African American,265
+freshman,Berkeley,2017,Enr,American Indian,24
+freshman,Berkeley,2018,Enr,American Indian,20
+freshman,Berkeley,2019,Enr,American Indian,24
+freshman,Berkeley,2020,Enr,American Indian,17
+freshman,Berkeley,2021,Enr,American Indian,27
+freshman,Berkeley,2023,Enr,American Indian,24
+freshman,Berkeley,2024,Enr,American Indian,38
+freshman,Berkeley,2025,Enr,American Indian,50
+freshman,Berkeley,2017,Enr,Asian,2673
+freshman,Berkeley,2018,Enr,Asian,2492
+freshman,Berkeley,2019,Enr,Asian,2764
+freshman,Berkeley,2020,Enr,Asian,2528
+freshman,Berkeley,2021,Enr,Asian,2830
+freshman,Berkeley,2022,Enr,Asian,2888
+freshman,Berkeley,2023,Enr,Asian,2796
+freshman,Berkeley,2024,Enr,Asian,2736
+freshman,Berkeley,2025,Enr,Asian,2784
+freshman,Berkeley,2017,Enr,Hispanic/Latino(a),922
+freshman,Berkeley,2018,Enr,Hispanic/Latino(a),936
+freshman,Berkeley,2019,Enr,Hispanic/Latino(a),972
+freshman,Berkeley,2020,Enr,Hispanic/Latino(a),1308
+freshman,Berkeley,2021,Enr,Hispanic/Latino(a),1312
+freshman,Berkeley,2022,Enr,Hispanic/Latino(a),1335
+freshman,Berkeley,2023,Enr,Hispanic/Latino(a),1462
+freshman,Berkeley,2024,Enr,Hispanic/Latino(a),1318
+freshman,Berkeley,2025,Enr,Hispanic/Latino(a),1349
+freshman,Berkeley,2017,Enr,Pacific Islander,11
+freshman,Berkeley,2018,Enr,Pacific Islander,11
+freshman,Berkeley,2019,Enr,Pacific Islander,8
+freshman,Berkeley,2020,Enr,Pacific Islander,12
+freshman,Berkeley,2021,Enr,Pacific Islander,17
+freshman,Berkeley,2023,Enr,Pacific Islander,19
+freshman,Berkeley,2024,Enr,Pacific Islander,11
+freshman,Berkeley,2025,Enr,Pacific Islander,14
+freshman,Berkeley,2017,Enr,White,1565
+freshman,Berkeley,2018,Enr,White,1277
+freshman,Berkeley,2019,Enr,White,1359
+freshman,Berkeley,2020,Enr,White,1045
+freshman,Berkeley,2021,Enr,White,1314
+freshman,Berkeley,2022,Enr,White,1326
+freshman,Berkeley,2023,Enr,White,1196
+freshman,Berkeley,2024,Enr,White,1152
+freshman,Berkeley,2025,Enr,White,1112
+freshman,Berkeley,2017,Enr,Unknown,301
+freshman,Berkeley,2018,Enr,Unknown,288
+freshman,Berkeley,2019,Enr,Unknown,301
+freshman,Berkeley,2020,Enr,Unknown,258
+freshman,Berkeley,2021,Enr,Unknown,277
+freshman,Berkeley,2022,Enr,Unknown,233
+freshman,Berkeley,2023,Enr,Unknown,285
+freshman,Berkeley,2024,Enr,Unknown,382
+freshman,Berkeley,2025,Enr,Unknown,349
+freshman,Berkeley,2017,Enr,International,697
+freshman,Berkeley,2018,Enr,International,799
+freshman,Berkeley,2019,Enr,International,848
+freshman,Berkeley,2020,Enr,International,720
+freshman,Berkeley,2021,Enr,International,896
+freshman,Berkeley,2022,Enr,International,674
+freshman,Berkeley,2023,Enr,International,615
+freshman,Berkeley,2024,Enr,International,382
+freshman,Berkeley,2025,Enr,International,765
+freshman,Davis,2017,App,African American,3240
+freshman,Davis,2018,App,African American,3535
+freshman,Davis,2019,App,African American,3425
+freshman,Davis,2020,App,African American,3347
+freshman,Davis,2021,App,African American,4308
+freshman,Davis,2022,App,African American,4531
+freshman,Davis,2023,App,African American,4405
+freshman,Davis,2024,App,African American,4718
+freshman,Davis,2025,App,African American,4774
+freshman,Davis,2017,App,American Indian,332
+freshman,Davis,2018,App,American Indian,334
+freshman,Davis,2019,App,American Indian,277
+freshman,Davis,2020,App,American Indian,256
+freshman,Davis,2021,App,American Indian,288
+freshman,Davis,2022,App,American Indian,423
+freshman,Davis,2023,App,American Indian,472
+freshman,Davis,2024,App,American Indian,523
+freshman,Davis,2025,App,American Indian,491
+freshman,Davis,2017,App,Asian,21039
+freshman,Davis,2018,App,Asian,23661
+freshman,Davis,2019,App,Asian,23804
+freshman,Davis,2020,App,Asian,24136
+freshman,Davis,2021,App,Asian,27350
+freshman,Davis,2022,App,Asian,31064
+freshman,Davis,2023,App,Asian,31732
+freshman,Davis,2024,App,Asian,33192
+freshman,Davis,2025,App,Asian,34183
+freshman,Davis,2017,App,Hispanic/Latino(a),15972
+freshman,Davis,2018,App,Hispanic/Latino(a),17741
+freshman,Davis,2019,App,Hispanic/Latino(a),17526
+freshman,Davis,2020,App,Hispanic/Latino(a),17206
+freshman,Davis,2021,App,Hispanic/Latino(a),19543
+freshman,Davis,2022,App,Hispanic/Latino(a),20586
+freshman,Davis,2023,App,Hispanic/Latino(a),20530
+freshman,Davis,2024,App,Hispanic/Latino(a),21546
+freshman,Davis,2025,App,Hispanic/Latino(a),22248
+freshman,Davis,2017,App,Pacific Islander,223
+freshman,Davis,2018,App,Pacific Islander,241
+freshman,Davis,2019,App,Pacific Islander,220
+freshman,Davis,2020,App,Pacific Islander,202
+freshman,Davis,2021,App,Pacific Islander,259
+freshman,Davis,2022,App,Pacific Islander,238
+freshman,Davis,2023,App,Pacific Islander,257
+freshman,Davis,2024,App,Pacific Islander,225
+freshman,Davis,2025,App,Pacific Islander,242
+freshman,Davis,2017,App,White,14399
+freshman,Davis,2018,App,White,14797
+freshman,Davis,2019,App,White,14360
+freshman,Davis,2020,App,White,13693
+freshman,Davis,2021,App,White,16505
+freshman,Davis,2022,App,White,16975
+freshman,Davis,2023,App,White,16699
+freshman,Davis,2024,App,White,16675
+freshman,Davis,2025,App,White,16660
+freshman,Davis,2017,App,Unknown,1824
+freshman,Davis,2018,App,Unknown,2208
+freshman,Davis,2019,App,Unknown,1959
+freshman,Davis,2020,App,Unknown,2308
+freshman,Davis,2021,App,Unknown,2265
+freshman,Davis,2022,App,Unknown,2379
+freshman,Davis,2023,App,Unknown,2502
+freshman,Davis,2024,App,Unknown,3403
+freshman,Davis,2025,App,Unknown,3546
+freshman,Davis,2017,App,International,13926
+freshman,Davis,2018,App,International,15507
+freshman,Davis,2019,App,International,16522
+freshman,Davis,2020,App,International,15755
+freshman,Davis,2021,App,International,16618
+freshman,Davis,2022,App,International,18552
+freshman,Davis,2023,App,International,18041
+freshman,Davis,2024,App,International,18582
+freshman,Davis,2025,App,International,20844
+freshman,Davis,2017,Adm,African American,895
+freshman,Davis,2018,Adm,African American,971
+freshman,Davis,2019,Adm,African American,962
+freshman,Davis,2020,Adm,African American,1050
+freshman,Davis,2021,Adm,African American,1536
+freshman,Davis,2022,Adm,African American,1174
+freshman,Davis,2023,Adm,African American,1327
+freshman,Davis,2024,Adm,African American,1468
+freshman,Davis,2025,Adm,African American,1526
+freshman,Davis,2017,Adm,American Indian,143
+freshman,Davis,2018,Adm,American Indian,134
+freshman,Davis,2019,Adm,American Indian,120
+freshman,Davis,2020,Adm,American Indian,138
+freshman,Davis,2021,Adm,American Indian,159
+freshman,Davis,2022,Adm,American Indian,168
+freshman,Davis,2023,Adm,American Indian,192
+freshman,Davis,2024,Adm,American Indian,212
+freshman,Davis,2025,Adm,American Indian,206
+freshman,Davis,2017,Adm,Asian,8832
+freshman,Davis,2018,Adm,Asian,9310
+freshman,Davis,2019,Adm,Asian,9635
+freshman,Davis,2020,Adm,Asian,11150
+freshman,Davis,2021,Adm,Asian,12805
+freshman,Davis,2022,Adm,Asian,12056
+freshman,Davis,2023,Adm,Asian,13254
+freshman,Davis,2024,Adm,Asian,13733
+freshman,Davis,2025,Adm,Asian,14967
+freshman,Davis,2017,Adm,Hispanic/Latino(a),5234
+freshman,Davis,2018,Adm,Hispanic/Latino(a),5616
+freshman,Davis,2019,Adm,Hispanic/Latino(a),5604
+freshman,Davis,2020,Adm,Hispanic/Latino(a),6124
+freshman,Davis,2021,Adm,Hispanic/Latino(a),7256
+freshman,Davis,2022,Adm,Hispanic/Latino(a),6273
+freshman,Davis,2023,Adm,Hispanic/Latino(a),7576
+freshman,Davis,2024,Adm,Hispanic/Latino(a),8132
+freshman,Davis,2025,Adm,Hispanic/Latino(a),7980
+freshman,Davis,2017,Adm,Pacific Islander,83
+freshman,Davis,2018,Adm,Pacific Islander,68
+freshman,Davis,2019,Adm,Pacific Islander,82
+freshman,Davis,2020,Adm,Pacific Islander,80
+freshman,Davis,2021,Adm,Pacific Islander,104
+freshman,Davis,2022,Adm,Pacific Islander,78
+freshman,Davis,2023,Adm,Pacific Islander,80
+freshman,Davis,2024,Adm,Pacific Islander,70
+freshman,Davis,2025,Adm,Pacific Islander,81
+freshman,Davis,2017,Adm,White,6417
+freshman,Davis,2018,Adm,White,6335
+freshman,Davis,2019,Adm,White,6225
+freshman,Davis,2020,Adm,White,6645
+freshman,Davis,2021,Adm,White,8329
+freshman,Davis,2022,Adm,White,6693
+freshman,Davis,2023,Adm,White,7015
+freshman,Davis,2024,Adm,White,6795
+freshman,Davis,2025,Adm,White,7503
+freshman,Davis,2017,Adm,Unknown,863
+freshman,Davis,2018,Adm,Unknown,966
+freshman,Davis,2019,Adm,Unknown,842
+freshman,Davis,2020,Adm,Unknown,1121
+freshman,Davis,2021,Adm,Unknown,1173
+freshman,Davis,2022,Adm,Unknown,1086
+freshman,Davis,2023,Adm,Unknown,1117
+freshman,Davis,2024,Adm,Unknown,1524
+freshman,Davis,2025,Adm,Unknown,1710
+freshman,Davis,2017,Adm,International,8295
+freshman,Davis,2018,Adm,International,8646
+freshman,Davis,2019,Adm,International,6888
+freshman,Davis,2020,Adm,International,9337
+freshman,Davis,2021,Adm,International,11112
+freshman,Davis,2022,Adm,International,7849
+freshman,Davis,2023,Adm,International,8839
+freshman,Davis,2024,Adm,International,9419
+freshman,Davis,2025,Adm,International,11700
+freshman,Davis,2017,Enr,African American,190
+freshman,Davis,2018,Enr,African American,221
+freshman,Davis,2019,Enr,African American,209
+freshman,Davis,2020,Enr,African American,207
+freshman,Davis,2021,Enr,African American,230
+freshman,Davis,2022,Enr,African American,165
+freshman,Davis,2023,Enr,African American,234
+freshman,Davis,2024,Enr,African American,274
+freshman,Davis,2025,Enr,African American,273
+freshman,Davis,2017,Enr,American Indian,24
+freshman,Davis,2018,Enr,American Indian,28
+freshman,Davis,2019,Enr,American Indian,22
+freshman,Davis,2020,Enr,American Indian,23
+freshman,Davis,2021,Enr,American Indian,17
+freshman,Davis,2022,Enr,American Indian,29
+freshman,Davis,2023,Enr,American Indian,30
+freshman,Davis,2024,Enr,American Indian,38
+freshman,Davis,2025,Enr,American Indian,37
+freshman,Davis,2017,Enr,Asian,1640
+freshman,Davis,2018,Enr,Asian,1974
+freshman,Davis,2019,Enr,Asian,2095
+freshman,Davis,2020,Enr,Asian,2056
+freshman,Davis,2021,Enr,Asian,2534
+freshman,Davis,2022,Enr,Asian,2441
+freshman,Davis,2023,Enr,Asian,2349
+freshman,Davis,2024,Enr,Asian,2350
+freshman,Davis,2025,Enr,Asian,2298
+freshman,Davis,2017,Enr,Hispanic/Latino(a),1415
+freshman,Davis,2018,Enr,Hispanic/Latino(a),1549
+freshman,Davis,2019,Enr,Hispanic/Latino(a),1465
+freshman,Davis,2020,Enr,Hispanic/Latino(a),1470
+freshman,Davis,2021,Enr,Hispanic/Latino(a),1639
+freshman,Davis,2022,Enr,Hispanic/Latino(a),1311
+freshman,Davis,2023,Enr,Hispanic/Latino(a),1663
+freshman,Davis,2024,Enr,Hispanic/Latino(a),1769
+freshman,Davis,2025,Enr,Hispanic/Latino(a),1860
+freshman,Davis,2017,Enr,Pacific Islander,20
+freshman,Davis,2018,Enr,Pacific Islander,21
+freshman,Davis,2019,Enr,Pacific Islander,30
+freshman,Davis,2020,Enr,Pacific Islander,19
+freshman,Davis,2021,Enr,Pacific Islander,24
+freshman,Davis,2022,Enr,Pacific Islander,19
+freshman,Davis,2023,Enr,Pacific Islander,18
+freshman,Davis,2024,Enr,Pacific Islander,16
+freshman,Davis,2025,Enr,Pacific Islander,20
+freshman,Davis,2017,Enr,White,1168
+freshman,Davis,2018,Enr,White,1231
+freshman,Davis,2019,Enr,White,1230
+freshman,Davis,2020,Enr,White,1145
+freshman,Davis,2021,Enr,White,1429
+freshman,Davis,2022,Enr,White,1196
+freshman,Davis,2023,Enr,White,1171
+freshman,Davis,2024,Enr,White,1095
+freshman,Davis,2025,Enr,White,1200
+freshman,Davis,2017,Enr,Unknown,118
+freshman,Davis,2018,Enr,Unknown,139
+freshman,Davis,2019,Enr,Unknown,127
+freshman,Davis,2020,Enr,Unknown,146
+freshman,Davis,2021,Enr,Unknown,188
+freshman,Davis,2022,Enr,Unknown,173
+freshman,Davis,2023,Enr,Unknown,143
+freshman,Davis,2024,Enr,Unknown,157
+freshman,Davis,2025,Enr,Unknown,165
+freshman,Davis,2017,Enr,International,1293
+freshman,Davis,2018,Enr,International,1230
+freshman,Davis,2019,Enr,International,779
+freshman,Davis,2020,Enr,International,1078
+freshman,Davis,2021,Enr,International,1421
+freshman,Davis,2022,Enr,International,1065
+freshman,Davis,2023,Enr,International,970
+freshman,Davis,2024,Enr,International,1068
+freshman,Davis,2025,Enr,International,952
+freshman,Irvine,2017,App,African American,3641
+freshman,Irvine,2018,App,African American,4236
+freshman,Irvine,2019,App,African American,4052
+freshman,Irvine,2020,App,African American,4409
+freshman,Irvine,2021,App,African American,5310
+freshman,Irvine,2022,App,African American,5680
+freshman,Irvine,2023,App,African American,5740
+freshman,Irvine,2024,App,African American,5983
+freshman,Irvine,2025,App,African American,5723
+freshman,Irvine,2017,App,American Indian,318
+freshman,Irvine,2018,App,American Indian,337
+freshman,Irvine,2019,App,American Indian,272
+freshman,Irvine,2020,App,American Indian,327
+freshman,Irvine,2021,App,American Indian,308
+freshman,Irvine,2022,App,American Indian,452
+freshman,Irvine,2023,App,American Indian,486
+freshman,Irvine,2024,App,American Indian,517
+freshman,Irvine,2025,App,American Indian,468
+freshman,Irvine,2017,App,Asian,26630
+freshman,Irvine,2018,App,Asian,30657
+freshman,Irvine,2019,App,Asian,31119
+freshman,Irvine,2020,App,Asian,31849
+freshman,Irvine,2021,App,Asian,36001
+freshman,Irvine,2022,App,Asian,40621
+freshman,Irvine,2023,App,Asian,41582
+freshman,Irvine,2024,App,Asian,42066
+freshman,Irvine,2025,App,Asian,42962
+freshman,Irvine,2017,App,Hispanic/Latino(a),24073
+freshman,Irvine,2018,App,Hispanic/Latino(a),26673
+freshman,Irvine,2019,App,Hispanic/Latino(a),26542
+freshman,Irvine,2020,App,Hispanic/Latino(a),27766
+freshman,Irvine,2021,App,Hispanic/Latino(a),29046
+freshman,Irvine,2022,App,Hispanic/Latino(a),31966
+freshman,Irvine,2023,App,Hispanic/Latino(a),33262
+freshman,Irvine,2024,App,Hispanic/Latino(a),33618
+freshman,Irvine,2025,App,Hispanic/Latino(a),32887
+freshman,Irvine,2017,App,Pacific Islander,203
+freshman,Irvine,2018,App,Pacific Islander,218
+freshman,Irvine,2019,App,Pacific Islander,217
+freshman,Irvine,2020,App,Pacific Islander,222
+freshman,Irvine,2021,App,Pacific Islander,246
+freshman,Irvine,2022,App,Pacific Islander,256
+freshman,Irvine,2023,App,Pacific Islander,262
+freshman,Irvine,2024,App,Pacific Islander,240
+freshman,Irvine,2025,App,Pacific Islander,246
+freshman,Irvine,2017,App,White,12246
+freshman,Irvine,2018,App,White,13025
+freshman,Irvine,2019,App,White,13135
+freshman,Irvine,2020,App,White,13346
+freshman,Irvine,2021,App,White,16187
+freshman,Irvine,2022,App,White,17439
+freshman,Irvine,2023,App,White,17677
+freshman,Irvine,2024,App,White,17107
+freshman,Irvine,2025,App,White,16519
+freshman,Irvine,2017,App,Unknown,2029
+freshman,Irvine,2018,App,Unknown,2409
+freshman,Irvine,2019,App,Unknown,2158
+freshman,Irvine,2020,App,Unknown,2555
+freshman,Irvine,2021,App,Unknown,2628
+freshman,Irvine,2022,App,Unknown,2718
+freshman,Irvine,2023,App,Unknown,2907
+freshman,Irvine,2024,App,Unknown,3833
+freshman,Irvine,2025,App,Unknown,3831
+freshman,Irvine,2017,App,International,15952
+freshman,Irvine,2018,App,International,17504
+freshman,Irvine,2019,App,International,18070
+freshman,Irvine,2020,App,International,17464
+freshman,Irvine,2021,App,International,18217
+freshman,Irvine,2022,App,International,20062
+freshman,Irvine,2023,App,International,19185
+freshman,Irvine,2024,App,International,19335
+freshman,Irvine,2025,App,International,21587
+freshman,Irvine,2017,Adm,African American,876
+freshman,Irvine,2018,Adm,African American,998
+freshman,Irvine,2019,Adm,African American,769
+freshman,Irvine,2020,Adm,African American,828
+freshman,Irvine,2021,Adm,African American,1492
+freshman,Irvine,2022,Adm,African American,1178
+freshman,Irvine,2023,Adm,African American,1206
+freshman,Irvine,2024,Adm,African American,1234
+freshman,Irvine,2025,Adm,African American,1215
+freshman,Irvine,2017,Adm,American Indian,103
+freshman,Irvine,2018,Adm,American Indian,84
+freshman,Irvine,2019,Adm,American Indian,60
+freshman,Irvine,2020,Adm,American Indian,80
+freshman,Irvine,2021,Adm,American Indian,199
+freshman,Irvine,2022,Adm,American Indian,295
+freshman,Irvine,2023,Adm,American Indian,251
+freshman,Irvine,2024,Adm,American Indian,232
+freshman,Irvine,2025,Adm,American Indian,166
+freshman,Irvine,2017,Adm,Asian,11294
+freshman,Irvine,2018,Adm,Asian,9979
+freshman,Irvine,2019,Adm,Asian,8892
+freshman,Irvine,2020,Adm,Asian,11201
+freshman,Irvine,2021,Adm,Asian,10525
+freshman,Irvine,2022,Adm,Asian,9421
+freshman,Irvine,2023,Adm,Asian,11731
+freshman,Irvine,2024,Adm,Asian,12666
+freshman,Irvine,2025,Adm,Asian,13047
+freshman,Irvine,2017,Adm,Hispanic/Latino(a),5870
+freshman,Irvine,2018,Adm,Hispanic/Latino(a),4924
+freshman,Irvine,2019,Adm,Hispanic/Latino(a),4426
+freshman,Irvine,2020,Adm,Hispanic/Latino(a),4570
+freshman,Irvine,2021,Adm,Hispanic/Latino(a),6288
+freshman,Irvine,2022,Adm,Hispanic/Latino(a),5590
+freshman,Irvine,2023,Adm,Hispanic/Latino(a),6094
+freshman,Irvine,2024,Adm,Hispanic/Latino(a),6722
+freshman,Irvine,2025,Adm,Hispanic/Latino(a),6127
+freshman,Irvine,2017,Adm,Pacific Islander,60
+freshman,Irvine,2018,Adm,Pacific Islander,53
+freshman,Irvine,2019,Adm,Pacific Islander,46
+freshman,Irvine,2020,Adm,Pacific Islander,55
+freshman,Irvine,2021,Adm,Pacific Islander,68
+freshman,Irvine,2022,Adm,Pacific Islander,44
+freshman,Irvine,2023,Adm,Pacific Islander,52
+freshman,Irvine,2024,Adm,Pacific Islander,56
+freshman,Irvine,2025,Adm,Pacific Islander,72
+freshman,Irvine,2017,Adm,White,4805
+freshman,Irvine,2018,Adm,White,3714
+freshman,Irvine,2019,Adm,White,3201
+freshman,Irvine,2020,Adm,White,3966
+freshman,Irvine,2021,Adm,White,4866
+freshman,Irvine,2022,Adm,White,3729
+freshman,Irvine,2023,Adm,White,4585
+freshman,Irvine,2024,Adm,White,4633
+freshman,Irvine,2025,Adm,White,4540
+freshman,Irvine,2017,Adm,Unknown,867
+freshman,Irvine,2018,Adm,Unknown,831
+freshman,Irvine,2019,Adm,Unknown,657
+freshman,Irvine,2020,Adm,Unknown,887
+freshman,Irvine,2021,Adm,Unknown,858
+freshman,Irvine,2022,Adm,Unknown,707
+freshman,Irvine,2023,Adm,Unknown,940
+freshman,Irvine,2024,Adm,Unknown,1339
+freshman,Irvine,2025,Adm,Unknown,1470
+freshman,Irvine,2017,Adm,International,7188
+freshman,Irvine,2018,Adm,International,6752
+freshman,Irvine,2019,Adm,International,7309
+freshman,Irvine,2020,Adm,International,7714
+freshman,Irvine,2021,Adm,International,6813
+freshman,Irvine,2022,Adm,International,4244
+freshman,Irvine,2023,Adm,International,6097
+freshman,Irvine,2024,Adm,International,8163
+freshman,Irvine,2025,Adm,International,9021
+freshman,Irvine,2017,Enr,African American,212
+freshman,Irvine,2018,Enr,African American,260
+freshman,Irvine,2019,Enr,African American,181
+freshman,Irvine,2020,Enr,African American,157
+freshman,Irvine,2021,Enr,African American,332
+freshman,Irvine,2022,Enr,African American,263
+freshman,Irvine,2023,Enr,African American,254
+freshman,Irvine,2024,Enr,African American,240
+freshman,Irvine,2025,Enr,African American,261
+freshman,Irvine,2017,Enr,American Indian,9
+freshman,Irvine,2018,Enr,American Indian,16
+freshman,Irvine,2019,Enr,American Indian,12
+freshman,Irvine,2020,Enr,American Indian,15
+freshman,Irvine,2021,Enr,American Indian,52
+freshman,Irvine,2022,Enr,American Indian,98
+freshman,Irvine,2023,Enr,American Indian,60
+freshman,Irvine,2024,Enr,American Indian,52
+freshman,Irvine,2025,Enr,American Indian,29
+freshman,Irvine,2017,Enr,Asian,2622
+freshman,Irvine,2018,Enr,Asian,2335
+freshman,Irvine,2019,Enr,Asian,2370
+freshman,Irvine,2020,Enr,Asian,2657
+freshman,Irvine,2021,Enr,Asian,2384
+freshman,Irvine,2022,Enr,Asian,2394
+freshman,Irvine,2023,Enr,Asian,2918
+freshman,Irvine,2024,Enr,Asian,2729
+freshman,Irvine,2025,Enr,Asian,2722
+freshman,Irvine,2017,Enr,Hispanic/Latino(a),1671
+freshman,Irvine,2018,Enr,Hispanic/Latino(a),1330
+freshman,Irvine,2019,Enr,Hispanic/Latino(a),1577
+freshman,Irvine,2020,Enr,Hispanic/Latino(a),1190
+freshman,Irvine,2021,Enr,Hispanic/Latino(a),1935
+freshman,Irvine,2022,Enr,Hispanic/Latino(a),1612
+freshman,Irvine,2023,Enr,Hispanic/Latino(a),1681
+freshman,Irvine,2024,Enr,Hispanic/Latino(a),1692
+freshman,Irvine,2025,Enr,Hispanic/Latino(a),1450
+freshman,Irvine,2017,Enr,Pacific Islander,10
+freshman,Irvine,2018,Enr,Pacific Islander,13
+freshman,Irvine,2019,Enr,Pacific Islander,17
+freshman,Irvine,2020,Enr,Pacific Islander,11
+freshman,Irvine,2021,Enr,Pacific Islander,14
+freshman,Irvine,2022,Enr,Pacific Islander,7
+freshman,Irvine,2023,Enr,Pacific Islander,13
+freshman,Irvine,2024,Enr,Pacific Islander,6
+freshman,Irvine,2025,Enr,Pacific Islander,16
+freshman,Irvine,2017,Enr,White,732
+freshman,Irvine,2018,Enr,White,589
+freshman,Irvine,2019,Enr,White,642
+freshman,Irvine,2020,Enr,White,644
+freshman,Irvine,2021,Enr,White,742
+freshman,Irvine,2022,Enr,White,596
+freshman,Irvine,2023,Enr,White,759
+freshman,Irvine,2024,Enr,White,704
+freshman,Irvine,2025,Enr,White,672
+freshman,Irvine,2017,Enr,Unknown,119
+freshman,Irvine,2018,Enr,Unknown,131
+freshman,Irvine,2019,Enr,Unknown,96
+freshman,Irvine,2020,Enr,Unknown,112
+freshman,Irvine,2021,Enr,Unknown,113
+freshman,Irvine,2022,Enr,Unknown,96
+freshman,Irvine,2023,Enr,Unknown,171
+freshman,Irvine,2024,Enr,Unknown,164
+freshman,Irvine,2025,Enr,Unknown,177
+freshman,Irvine,2017,Enr,International,1170
+freshman,Irvine,2018,Enr,International,1119
+freshman,Irvine,2019,Enr,International,1174
+freshman,Irvine,2020,Enr,International,979
+freshman,Irvine,2021,Enr,International,917
+freshman,Irvine,2022,Enr,International,598
+freshman,Irvine,2023,Enr,International,940
+freshman,Irvine,2024,Enr,International,1149
+freshman,Irvine,2025,Enr,International,1096
+freshman,Los Angeles,2017,App,African American,5826
+freshman,Los Angeles,2018,App,African American,6658
+freshman,Los Angeles,2019,App,African American,6308
+freshman,Los Angeles,2020,App,African American,6119
+freshman,Los Angeles,2021,App,African American,9048
+freshman,Los Angeles,2022,App,African American,9417
+freshman,Los Angeles,2023,App,African American,8899
+freshman,Los Angeles,2024,App,African American,9078
+freshman,Los Angeles,2025,App,African American,8402
+freshman,Los Angeles,2017,App,American Indian,514
+freshman,Los Angeles,2018,App,American Indian,517
+freshman,Los Angeles,2019,App,American Indian,451
+freshman,Los Angeles,2020,App,American Indian,456
+freshman,Los Angeles,2021,App,American Indian,533
+freshman,Los Angeles,2022,App,American Indian,732
+freshman,Los Angeles,2023,App,American Indian,749
+freshman,Los Angeles,2024,App,American Indian,753
+freshman,Los Angeles,2025,App,American Indian,658
+freshman,Los Angeles,2017,App,Asian,29149
+freshman,Los Angeles,2018,App,Asian,33818
+freshman,Los Angeles,2019,App,Asian,34449
+freshman,Los Angeles,2020,App,Asian,34391
+freshman,Los Angeles,2021,App,Asian,41921
+freshman,Los Angeles,2022,App,Asian,46813
+freshman,Los Angeles,2023,App,Asian,46511
+freshman,Los Angeles,2024,App,Asian,46521
+freshman,Los Angeles,2025,App,Asian,47054
+freshman,Los Angeles,2017,App,Hispanic/Latino(a),23111
+freshman,Los Angeles,2018,App,Hispanic/Latino(a),25635
+freshman,Los Angeles,2019,App,Hispanic/Latino(a),24788
+freshman,Los Angeles,2020,App,Hispanic/Latino(a),24259
+freshman,Los Angeles,2021,App,Hispanic/Latino(a),32417
+freshman,Los Angeles,2022,App,Hispanic/Latino(a),35425
+freshman,Los Angeles,2023,App,Hispanic/Latino(a),35552
+freshman,Los Angeles,2024,App,Hispanic/Latino(a),36146
+freshman,Los Angeles,2025,App,Hispanic/Latino(a),34075
+freshman,Los Angeles,2017,App,Pacific Islander,270
+freshman,Los Angeles,2018,App,Pacific Islander,285
+freshman,Los Angeles,2019,App,Pacific Islander,258
+freshman,Los Angeles,2020,App,Pacific Islander,248
+freshman,Los Angeles,2021,App,Pacific Islander,335
+freshman,Los Angeles,2022,App,Pacific Islander,334
+freshman,Los Angeles,2023,App,Pacific Islander,312
+freshman,Los Angeles,2024,App,Pacific Islander,311
+freshman,Los Angeles,2025,App,Pacific Islander,325
+freshman,Los Angeles,2017,App,White,22578
+freshman,Los Angeles,2018,App,White,23908
+freshman,Los Angeles,2019,App,White,23286
+freshman,Los Angeles,2020,App,White,21941
+freshman,Los Angeles,2021,App,White,29520
+freshman,Los Angeles,2022,App,White,29590
+freshman,Los Angeles,2023,App,White,27765
+freshman,Los Angeles,2024,App,White,26146
+freshman,Los Angeles,2025,App,White,25094
+freshman,Los Angeles,2017,App,Unknown,2965
+freshman,Los Angeles,2018,App,Unknown,3515
+freshman,Los Angeles,2019,App,Unknown,3129
+freshman,Los Angeles,2020,App,Unknown,3567
+freshman,Los Angeles,2021,App,Unknown,3831
+freshman,Los Angeles,2022,App,Unknown,3963
+freshman,Los Angeles,2023,App,Unknown,4116
+freshman,Los Angeles,2024,App,Unknown,5276
+freshman,Los Angeles,2025,App,Unknown,5315
+freshman,Los Angeles,2017,App,International,17813
+freshman,Los Angeles,2018,App,International,19419
+freshman,Los Angeles,2019,App,International,18652
+freshman,Los Angeles,2020,App,International,17889
+freshman,Los Angeles,2021,App,International,21877
+freshman,Los Angeles,2022,App,International,23527
+freshman,Los Angeles,2023,App,International,21999
+freshman,Los Angeles,2024,App,International,22041
+freshman,Los Angeles,2025,App,International,24137
+freshman,Los Angeles,2017,Adm,African American,742
+freshman,Los Angeles,2018,Adm,African American,741
+freshman,Los Angeles,2019,Adm,African American,734
+freshman,Los Angeles,2020,Adm,African American,750
+freshman,Los Angeles,2021,Adm,African American,901
+freshman,Los Angeles,2022,Adm,African American,941
+freshman,Los Angeles,2023,Adm,African American,914
+freshman,Los Angeles,2024,Adm,African American,909
+freshman,Los Angeles,2025,Adm,African American,813
+freshman,Los Angeles,2017,Adm,American Indian,91
+freshman,Los Angeles,2018,Adm,American Indian,111
+freshman,Los Angeles,2019,Adm,American Indian,95
+freshman,Los Angeles,2020,Adm,American Indian,83
+freshman,Los Angeles,2021,Adm,American Indian,104
+freshman,Los Angeles,2022,Adm,American Indian,100
+freshman,Los Angeles,2023,Adm,American Indian,136
+freshman,Los Angeles,2024,Adm,American Indian,132
+freshman,Los Angeles,2025,Adm,American Indian,129
+freshman,Los Angeles,2017,Adm,Asian,5824
+freshman,Los Angeles,2018,Adm,Asian,5865
+freshman,Los Angeles,2019,Adm,Asian,5213
+freshman,Los Angeles,2020,Adm,Asian,6217
+freshman,Los Angeles,2021,Adm,Asian,5285
+freshman,Los Angeles,2022,Adm,Asian,4670
+freshman,Los Angeles,2023,Adm,Asian,4690
+freshman,Los Angeles,2024,Adm,Asian,4867
+freshman,Los Angeles,2025,Adm,Asian,5240
+freshman,Los Angeles,2017,Adm,Hispanic/Latino(a),2541
+freshman,Los Angeles,2018,Adm,Hispanic/Latino(a),2372
+freshman,Los Angeles,2019,Adm,Hispanic/Latino(a),2251
+freshman,Los Angeles,2020,Adm,Hispanic/Latino(a),2430
+freshman,Los Angeles,2021,Adm,Hispanic/Latino(a),2602
+freshman,Los Angeles,2022,Adm,Hispanic/Latino(a),2399
+freshman,Los Angeles,2023,Adm,Hispanic/Latino(a),2577
+freshman,Los Angeles,2024,Adm,Hispanic/Latino(a),2644
+freshman,Los Angeles,2025,Adm,Hispanic/Latino(a),2566
+freshman,Los Angeles,2017,Adm,Pacific Islander,27
+freshman,Los Angeles,2018,Adm,Pacific Islander,29
+freshman,Los Angeles,2019,Adm,Pacific Islander,36
+freshman,Los Angeles,2020,Adm,Pacific Islander,21
+freshman,Los Angeles,2021,Adm,Pacific Islander,46
+freshman,Los Angeles,2022,Adm,Pacific Islander,53
+freshman,Los Angeles,2023,Adm,Pacific Islander,53
+freshman,Los Angeles,2024,Adm,Pacific Islander,52
+freshman,Los Angeles,2025,Adm,Pacific Islander,44
+freshman,Los Angeles,2017,Adm,White,4223
+freshman,Los Angeles,2018,Adm,White,3908
+freshman,Los Angeles,2019,Adm,White,3266
+freshman,Los Angeles,2020,Adm,White,3691
+freshman,Los Angeles,2021,Adm,White,3471
+freshman,Los Angeles,2022,Adm,White,2840
+freshman,Los Angeles,2023,Adm,White,2556
+freshman,Los Angeles,2024,Adm,White,2436
+freshman,Los Angeles,2025,Adm,White,2509
+freshman,Los Angeles,2017,Adm,Unknown,704
+freshman,Los Angeles,2018,Adm,Unknown,731
+freshman,Los Angeles,2019,Adm,Unknown,560
+freshman,Los Angeles,2020,Adm,Unknown,756
+freshman,Los Angeles,2021,Adm,Unknown,646
+freshman,Los Angeles,2022,Adm,Unknown,506
+freshman,Los Angeles,2023,Adm,Unknown,501
+freshman,Los Angeles,2024,Adm,Unknown,696
+freshman,Los Angeles,2025,Adm,Unknown,832
+freshman,Los Angeles,2017,Adm,International,2304
+freshman,Los Angeles,2018,Adm,International,2213
+freshman,Los Angeles,2019,Adm,International,1565
+freshman,Los Angeles,2020,Adm,International,1654
+freshman,Los Angeles,2021,Adm,International,1973
+freshman,Los Angeles,2022,Adm,International,1335
+freshman,Los Angeles,2023,Adm,International,1309
+freshman,Los Angeles,2024,Adm,International,1378
+freshman,Los Angeles,2025,Adm,International,1526
+freshman,Los Angeles,2017,Enr,African American,333
+freshman,Los Angeles,2018,Enr,African American,363
+freshman,Los Angeles,2019,Enr,African American,354
+freshman,Los Angeles,2020,Enr,African American,328
+freshman,Los Angeles,2021,Enr,African American,414
+freshman,Los Angeles,2022,Enr,African American,480
+freshman,Los Angeles,2023,Enr,African American,462
+freshman,Los Angeles,2024,Enr,African American,485
+freshman,Los Angeles,2025,Enr,African American,442
+freshman,Los Angeles,2017,Enr,American Indian,30
+freshman,Los Angeles,2018,Enr,American Indian,48
+freshman,Los Angeles,2019,Enr,American Indian,40
+freshman,Los Angeles,2020,Enr,American Indian,28
+freshman,Los Angeles,2021,Enr,American Indian,46
+freshman,Los Angeles,2022,Enr,American Indian,38
+freshman,Los Angeles,2023,Enr,American Indian,72
+freshman,Los Angeles,2024,Enr,American Indian,71
+freshman,Los Angeles,2025,Enr,American Indian,60
+freshman,Los Angeles,2017,Enr,Asian,1902
+freshman,Los Angeles,2018,Enr,Asian,2138
+freshman,Los Angeles,2019,Enr,Asian,2079
+freshman,Los Angeles,2020,Enr,Asian,2472
+freshman,Los Angeles,2021,Enr,Asian,2219
+freshman,Los Angeles,2022,Enr,Asian,2281
+freshman,Los Angeles,2023,Enr,Asian,2344
+freshman,Los Angeles,2024,Enr,Asian,2353
+freshman,Los Angeles,2025,Enr,Asian,2368
+freshman,Los Angeles,2017,Enr,Hispanic/Latino(a),1307
+freshman,Los Angeles,2018,Enr,Hispanic/Latino(a),1187
+freshman,Los Angeles,2019,Enr,Hispanic/Latino(a),1221
+freshman,Los Angeles,2020,Enr,Hispanic/Latino(a),1228
+freshman,Los Angeles,2021,Enr,Hispanic/Latino(a),1279
+freshman,Los Angeles,2022,Enr,Hispanic/Latino(a),1338
+freshman,Los Angeles,2023,Enr,Hispanic/Latino(a),1517
+freshman,Los Angeles,2024,Enr,Hispanic/Latino(a),1583
+freshman,Los Angeles,2025,Enr,Hispanic/Latino(a),1481
+freshman,Los Angeles,2017,Enr,Pacific Islander,11
+freshman,Los Angeles,2018,Enr,Pacific Islander,14
+freshman,Los Angeles,2019,Enr,Pacific Islander,20
+freshman,Los Angeles,2020,Enr,Pacific Islander,5
+freshman,Los Angeles,2021,Enr,Pacific Islander,20
+freshman,Los Angeles,2022,Enr,Pacific Islander,30
+freshman,Los Angeles,2023,Enr,Pacific Islander,35
+freshman,Los Angeles,2024,Enr,Pacific Islander,26
+freshman,Los Angeles,2025,Enr,Pacific Islander,21
+freshman,Los Angeles,2017,Enr,White,1583
+freshman,Los Angeles,2018,Enr,White,1596
+freshman,Los Angeles,2019,Enr,White,1468
+freshman,Los Angeles,2020,Enr,White,1594
+freshman,Los Angeles,2021,Enr,White,1688
+freshman,Los Angeles,2022,Enr,White,1624
+freshman,Los Angeles,2023,Enr,White,1484
+freshman,Los Angeles,2024,Enr,White,1353
+freshman,Los Angeles,2025,Enr,White,1299
+freshman,Los Angeles,2017,Enr,Unknown,208
+freshman,Los Angeles,2018,Enr,Unknown,242
+freshman,Los Angeles,2019,Enr,Unknown,197
+freshman,Los Angeles,2020,Enr,Unknown,251
+freshman,Los Angeles,2021,Enr,Unknown,233
+freshman,Los Angeles,2022,Enr,Unknown,217
+freshman,Los Angeles,2023,Enr,Unknown,218
+freshman,Los Angeles,2024,Enr,Unknown,245
+freshman,Los Angeles,2025,Enr,Unknown,313
+freshman,Los Angeles,2017,Enr,International,664
+freshman,Los Angeles,2018,Enr,International,652
+freshman,Los Angeles,2019,Enr,International,541
+freshman,Los Angeles,2020,Enr,International,480
+freshman,Los Angeles,2021,Enr,International,685
+freshman,Los Angeles,2022,Enr,International,454
+freshman,Los Angeles,2023,Enr,International,453
+freshman,Los Angeles,2024,Enr,International,494
+freshman,Los Angeles,2025,Enr,International,567
+freshman,Merced,2017,App,African American,1557
+freshman,Merced,2018,App,African American,1669
+freshman,Merced,2019,App,African American,1644
+freshman,Merced,2020,App,African American,1704
+freshman,Merced,2021,App,African American,1941
+freshman,Merced,2022,App,African American,2082
+freshman,Merced,2023,App,African American,2025
+freshman,Merced,2024,App,African American,2082
+freshman,Merced,2025,App,African American,2948
+freshman,Merced,2017,App,American Indian,82
+freshman,Merced,2018,App,American Indian,78
+freshman,Merced,2019,App,American Indian,76
+freshman,Merced,2020,App,American Indian,79
+freshman,Merced,2021,App,American Indian,75
+freshman,Merced,2022,App,American Indian,111
+freshman,Merced,2023,App,American Indian,115
+freshman,Merced,2024,App,American Indian,132
+freshman,Merced,2025,App,American Indian,205
+freshman,Merced,2017,App,Asian,5441
+freshman,Merced,2018,App,Asian,6022
+freshman,Merced,2019,App,Asian,6380
+freshman,Merced,2020,App,Asian,6294
+freshman,Merced,2021,App,Asian,7624
+freshman,Merced,2022,App,Asian,8946
+freshman,Merced,2023,App,Asian,9269
+freshman,Merced,2024,App,Asian,9401
+freshman,Merced,2025,App,Asian,15808
+freshman,Merced,2017,App,Hispanic/Latino(a),11204
+freshman,Merced,2018,App,Hispanic/Latino(a),13028
+freshman,Merced,2019,App,Hispanic/Latino(a),12918
+freshman,Merced,2020,App,Hispanic/Latino(a),13231
+freshman,Merced,2021,App,Hispanic/Latino(a),12793
+freshman,Merced,2022,App,Hispanic/Latino(a),12407
+freshman,Merced,2023,App,Hispanic/Latino(a),12029
+freshman,Merced,2024,App,Hispanic/Latino(a),12223
+freshman,Merced,2025,App,Hispanic/Latino(a),19235
+freshman,Merced,2017,App,Pacific Islander,71
+freshman,Merced,2018,App,Pacific Islander,100
+freshman,Merced,2019,App,Pacific Islander,88
+freshman,Merced,2020,App,Pacific Islander,71
+freshman,Merced,2021,App,Pacific Islander,90
+freshman,Merced,2022,App,Pacific Islander,95
+freshman,Merced,2023,App,Pacific Islander,89
+freshman,Merced,2024,App,Pacific Islander,92
+freshman,Merced,2025,App,Pacific Islander,140
+freshman,Merced,2017,App,White,2400
+freshman,Merced,2018,App,White,2395
+freshman,Merced,2019,App,White,2347
+freshman,Merced,2020,App,White,2351
+freshman,Merced,2021,App,White,2876
+freshman,Merced,2022,App,White,3351
+freshman,Merced,2023,App,White,3247
+freshman,Merced,2024,App,White,3001
+freshman,Merced,2025,App,White,4925
+freshman,Merced,2017,App,Unknown,516
+freshman,Merced,2018,App,Unknown,631
+freshman,Merced,2019,App,Unknown,577
+freshman,Merced,2020,App,Unknown,656
+freshman,Merced,2021,App,Unknown,571
+freshman,Merced,2022,App,Unknown,612
+freshman,Merced,2023,App,Unknown,648
+freshman,Merced,2024,App,Unknown,883
+freshman,Merced,2025,App,Unknown,1262
+freshman,Merced,2017,App,International,1305
+freshman,Merced,2018,App,International,1208
+freshman,Merced,2019,App,International,1394
+freshman,Merced,2020,App,International,1537
+freshman,Merced,2021,App,International,1823
+freshman,Merced,2022,App,International,2316
+freshman,Merced,2023,App,International,2810
+freshman,Merced,2024,App,International,4114
+freshman,Merced,2025,App,International,4843
+freshman,Merced,2017,Adm,African American,888
+freshman,Merced,2018,Adm,African American,909
+freshman,Merced,2019,Adm,African American,1000
+freshman,Merced,2020,Adm,African American,1289
+freshman,Merced,2021,Adm,African American,1542
+freshman,Merced,2022,Adm,African American,1737
+freshman,Merced,2023,Adm,African American,1628
+freshman,Merced,2024,Adm,African American,1774
+freshman,Merced,2025,Adm,African American,2693
+freshman,Merced,2017,Adm,American Indian,62
+freshman,Merced,2018,Adm,American Indian,60
+freshman,Merced,2019,Adm,American Indian,57
+freshman,Merced,2020,Adm,American Indian,67
+freshman,Merced,2021,Adm,American Indian,67
+freshman,Merced,2022,Adm,American Indian,93
+freshman,Merced,2023,Adm,American Indian,97
+freshman,Merced,2024,Adm,American Indian,122
+freshman,Merced,2025,Adm,American Indian,198
+freshman,Merced,2017,Adm,Asian,4321
+freshman,Merced,2018,Adm,Asian,4579
+freshman,Merced,2019,Adm,Asian,5208
+freshman,Merced,2020,Adm,Asian,5713
+freshman,Merced,2021,Adm,Asian,6971
+freshman,Merced,2022,Adm,Asian,8410
+freshman,Merced,2023,Adm,Asian,8657
+freshman,Merced,2024,Adm,Asian,8844
+freshman,Merced,2025,Adm,Asian,15381
+freshman,Merced,2017,Adm,Hispanic/Latino(a),7452
+freshman,Merced,2018,Adm,Hispanic/Latino(a),8246
+freshman,Merced,2019,Adm,Hispanic/Latino(a),8893
+freshman,Merced,2020,Adm,Hispanic/Latino(a),11303
+freshman,Merced,2021,Adm,Hispanic/Latino(a),11165
+freshman,Merced,2022,Adm,Hispanic/Latino(a),11239
+freshman,Merced,2023,Adm,Hispanic/Latino(a),10743
+freshman,Merced,2024,Adm,Hispanic/Latino(a),11137
+freshman,Merced,2025,Adm,Hispanic/Latino(a),18289
+freshman,Merced,2017,Adm,Pacific Islander,49
+freshman,Merced,2018,Adm,Pacific Islander,65
+freshman,Merced,2019,Adm,Pacific Islander,55
+freshman,Merced,2020,Adm,Pacific Islander,60
+freshman,Merced,2021,Adm,Pacific Islander,75
+freshman,Merced,2022,Adm,Pacific Islander,86
+freshman,Merced,2023,Adm,Pacific Islander,70
+freshman,Merced,2024,Adm,Pacific Islander,83
+freshman,Merced,2025,Adm,Pacific Islander,133
+freshman,Merced,2017,Adm,White,1941
+freshman,Merced,2018,Adm,White,1813
+freshman,Merced,2019,Adm,White,1977
+freshman,Merced,2020,Adm,White,2119
+freshman,Merced,2021,Adm,White,2643
+freshman,Merced,2022,Adm,White,3148
+freshman,Merced,2023,Adm,White,3024
+freshman,Merced,2024,Adm,White,2808
+freshman,Merced,2025,Adm,White,4773
+freshman,Merced,2017,Adm,Unknown,368
+freshman,Merced,2018,Adm,Unknown,409
+freshman,Merced,2019,Adm,Unknown,423
+freshman,Merced,2020,Adm,Unknown,563
+freshman,Merced,2021,Adm,Unknown,522
+freshman,Merced,2022,Adm,Unknown,568
+freshman,Merced,2023,Adm,Unknown,602
+freshman,Merced,2024,Adm,Unknown,832
+freshman,Merced,2025,Adm,Unknown,1225
+freshman,Merced,2017,Adm,International,581
+freshman,Merced,2018,Adm,International,547
+freshman,Merced,2019,Adm,International,681
+freshman,Merced,2020,Adm,International,868
+freshman,Merced,2021,Adm,International,1084
+freshman,Merced,2022,Adm,International,1485
+freshman,Merced,2023,Adm,International,1777
+freshman,Merced,2024,Adm,International,3306
+freshman,Merced,2025,Adm,International,3873
+freshman,Merced,2017,Enr,African American,160
+freshman,Merced,2018,Enr,African American,147
+freshman,Merced,2019,Enr,African American,134
+freshman,Merced,2020,Enr,African American,150
+freshman,Merced,2021,Enr,African American,188
+freshman,Merced,2022,Enr,African American,197
+freshman,Merced,2023,Enr,African American,213
+freshman,Merced,2024,Enr,African American,205
+freshman,Merced,2025,Enr,African American,170
+freshman,Merced,2017,Enr,American Indian,13
+freshman,Merced,2018,Enr,American Indian,10
+freshman,Merced,2019,Enr,American Indian,5
+freshman,Merced,2020,Enr,American Indian,9
+freshman,Merced,2022,Enr,American Indian,6
+freshman,Merced,2023,Enr,American Indian,14
+freshman,Merced,2024,Enr,American Indian,16
+freshman,Merced,2025,Enr,American Indian,16
+freshman,Merced,2017,Enr,Asian,432
+freshman,Merced,2018,Enr,Asian,452
+freshman,Merced,2019,Enr,Asian,438
+freshman,Merced,2020,Enr,Asian,311
+freshman,Merced,2021,Enr,Asian,588
+freshman,Merced,2022,Enr,Asian,686
+freshman,Merced,2023,Enr,Asian,646
+freshman,Merced,2024,Enr,Asian,549
+freshman,Merced,2025,Enr,Asian,443
+freshman,Merced,2017,Enr,Hispanic/Latino(a),1441
+freshman,Merced,2018,Enr,Hispanic/Latino(a),1380
+freshman,Merced,2019,Enr,Hispanic/Latino(a),1328
+freshman,Merced,2020,Enr,Hispanic/Latino(a),1308
+freshman,Merced,2021,Enr,Hispanic/Latino(a),1358
+freshman,Merced,2022,Enr,Hispanic/Latino(a),1231
+freshman,Merced,2023,Enr,Hispanic/Latino(a),1298
+freshman,Merced,2024,Enr,Hispanic/Latino(a),1088
+freshman,Merced,2025,Enr,Hispanic/Latino(a),1136
+freshman,Merced,2017,Enr,Pacific Islander,6
+freshman,Merced,2018,Enr,Pacific Islander,8
+freshman,Merced,2019,Enr,Pacific Islander,7
+freshman,Merced,2021,Enr,Pacific Islander,9
+freshman,Merced,2022,Enr,Pacific Islander,6
+freshman,Merced,2024,Enr,Pacific Islander,10
+freshman,Merced,2025,Enr,Pacific Islander,6
+freshman,Merced,2017,Enr,White,193
+freshman,Merced,2018,Enr,White,169
+freshman,Merced,2019,Enr,White,145
+freshman,Merced,2020,Enr,White,129
+freshman,Merced,2021,Enr,White,213
+freshman,Merced,2022,Enr,White,225
+freshman,Merced,2023,Enr,White,211
+freshman,Merced,2024,Enr,White,173
+freshman,Merced,2025,Enr,White,166
+freshman,Merced,2017,Enr,Unknown,39
+freshman,Merced,2018,Enr,Unknown,40
+freshman,Merced,2019,Enr,Unknown,36
+freshman,Merced,2020,Enr,Unknown,33
+freshman,Merced,2021,Enr,Unknown,43
+freshman,Merced,2022,Enr,Unknown,31
+freshman,Merced,2023,Enr,Unknown,26
+freshman,Merced,2024,Enr,Unknown,30
+freshman,Merced,2025,Enr,Unknown,22
+freshman,Merced,2017,Enr,International,8
+freshman,Merced,2018,Enr,International,8
+freshman,Merced,2019,Enr,International,12
+freshman,Merced,2022,Enr,International,10
+freshman,Merced,2024,Enr,International,22
+freshman,Merced,2025,Enr,International,23
+freshman,Riverside,2017,App,African American,2835
+freshman,Riverside,2018,App,African American,3248
+freshman,Riverside,2019,App,African American,3032
+freshman,Riverside,2020,App,African American,2995
+freshman,Riverside,2021,App,African American,3446
+freshman,Riverside,2022,App,African American,3274
+freshman,Riverside,2023,App,African American,3304
+freshman,Riverside,2024,App,African American,3564
+freshman,Riverside,2025,App,African American,4383
+freshman,Riverside,2017,App,American Indian,166
+freshman,Riverside,2018,App,American Indian,151
+freshman,Riverside,2019,App,American Indian,136
+freshman,Riverside,2020,App,American Indian,145
+freshman,Riverside,2021,App,American Indian,113
+freshman,Riverside,2022,App,American Indian,159
+freshman,Riverside,2023,App,American Indian,200
+freshman,Riverside,2024,App,American Indian,209
+freshman,Riverside,2025,App,American Indian,269
+freshman,Riverside,2017,App,Asian,12835
+freshman,Riverside,2018,App,Asian,14741
+freshman,Riverside,2019,App,Asian,14931
+freshman,Riverside,2020,App,Asian,15322
+freshman,Riverside,2021,App,Asian,16855
+freshman,Riverside,2022,App,Asian,18685
+freshman,Riverside,2023,App,Asian,20038
+freshman,Riverside,2024,App,Asian,19730
+freshman,Riverside,2025,App,Asian,24768
+freshman,Riverside,2017,App,Hispanic/Latino(a),18296
+freshman,Riverside,2018,App,Hispanic/Latino(a),20874
+freshman,Riverside,2019,App,Hispanic/Latino(a),20396
+freshman,Riverside,2020,App,Hispanic/Latino(a),20163
+freshman,Riverside,2021,App,Hispanic/Latino(a),20511
+freshman,Riverside,2022,App,Hispanic/Latino(a),19849
+freshman,Riverside,2023,App,Hispanic/Latino(a),19995
+freshman,Riverside,2024,App,Hispanic/Latino(a),21034
+freshman,Riverside,2025,App,Hispanic/Latino(a),25827
+freshman,Riverside,2017,App,Pacific Islander,97
+freshman,Riverside,2018,App,Pacific Islander,114
+freshman,Riverside,2019,App,Pacific Islander,121
+freshman,Riverside,2020,App,Pacific Islander,96
+freshman,Riverside,2021,App,Pacific Islander,116
+freshman,Riverside,2022,App,Pacific Islander,117
+freshman,Riverside,2023,App,Pacific Islander,118
+freshman,Riverside,2024,App,Pacific Islander,104
+freshman,Riverside,2025,App,Pacific Islander,150
+freshman,Riverside,2017,App,White,4692
+freshman,Riverside,2018,App,White,4955
+freshman,Riverside,2019,App,White,4946
+freshman,Riverside,2020,App,White,4840
+freshman,Riverside,2021,App,White,5651
+freshman,Riverside,2022,App,White,5899
+freshman,Riverside,2023,App,White,5988
+freshman,Riverside,2024,App,White,5830
+freshman,Riverside,2025,App,White,7233
+freshman,Riverside,2017,App,Unknown,1015
+freshman,Riverside,2018,App,Unknown,1214
+freshman,Riverside,2019,App,Unknown,1046
+freshman,Riverside,2020,App,Unknown,1186
+freshman,Riverside,2021,App,Unknown,1142
+freshman,Riverside,2022,App,Unknown,1096
+freshman,Riverside,2023,App,Unknown,1313
+freshman,Riverside,2024,App,Unknown,1571
+freshman,Riverside,2025,App,Unknown,1856
+freshman,Riverside,2017,App,International,3736
+freshman,Riverside,2018,App,International,3782
+freshman,Riverside,2019,App,International,4908
+freshman,Riverside,2020,App,International,4695
+freshman,Riverside,2021,App,International,4843
+freshman,Riverside,2022,App,International,5605
+freshman,Riverside,2023,App,International,5987
+freshman,Riverside,2024,App,International,6006
+freshman,Riverside,2025,App,International,6377
+freshman,Riverside,2017,Adm,African American,1195
+freshman,Riverside,2018,Adm,African American,1178
+freshman,Riverside,2019,Adm,African American,1174
+freshman,Riverside,2020,Adm,African American,1484
+freshman,Riverside,2021,Adm,African American,1714
+freshman,Riverside,2022,Adm,African American,1759
+freshman,Riverside,2023,Adm,African American,1874
+freshman,Riverside,2024,Adm,African American,2297
+freshman,Riverside,2025,Adm,African American,3413
+freshman,Riverside,2017,Adm,American Indian,93
+freshman,Riverside,2018,Adm,American Indian,83
+freshman,Riverside,2019,Adm,American Indian,76
+freshman,Riverside,2020,Adm,American Indian,86
+freshman,Riverside,2021,Adm,American Indian,66
+freshman,Riverside,2022,Adm,American Indian,102
+freshman,Riverside,2023,Adm,American Indian,123
+freshman,Riverside,2024,Adm,American Indian,172
+freshman,Riverside,2025,Adm,American Indian,243
+freshman,Riverside,2017,Adm,Asian,9369
+freshman,Riverside,2018,Adm,Asian,10054
+freshman,Riverside,2019,Adm,Asian,11078
+freshman,Riverside,2020,Adm,Asian,12603
+freshman,Riverside,2021,Adm,Asian,12722
+freshman,Riverside,2022,Adm,Asian,14496
+freshman,Riverside,2023,Adm,Asian,15349
+freshman,Riverside,2024,Adm,Asian,16359
+freshman,Riverside,2025,Adm,Asian,22547
+freshman,Riverside,2017,Adm,Hispanic/Latino(a),7962
+freshman,Riverside,2018,Adm,Hispanic/Latino(a),7696
+freshman,Riverside,2019,Adm,Hispanic/Latino(a),8709
+freshman,Riverside,2020,Adm,Hispanic/Latino(a),10435
+freshman,Riverside,2021,Adm,Hispanic/Latino(a),11437
+freshman,Riverside,2022,Adm,Hispanic/Latino(a),11735
+freshman,Riverside,2023,Adm,Hispanic/Latino(a),12330
+freshman,Riverside,2024,Adm,Hispanic/Latino(a),14412
+freshman,Riverside,2025,Adm,Hispanic/Latino(a),21505
+freshman,Riverside,2017,Adm,Pacific Islander,45
+freshman,Riverside,2018,Adm,Pacific Islander,47
+freshman,Riverside,2019,Adm,Pacific Islander,58
+freshman,Riverside,2020,Adm,Pacific Islander,60
+freshman,Riverside,2021,Adm,Pacific Islander,66
+freshman,Riverside,2022,Adm,Pacific Islander,77
+freshman,Riverside,2023,Adm,Pacific Islander,79
+freshman,Riverside,2024,Adm,Pacific Islander,80
+freshman,Riverside,2025,Adm,Pacific Islander,129
+freshman,Riverside,2017,Adm,White,3327
+freshman,Riverside,2018,Adm,White,3157
+freshman,Riverside,2019,Adm,White,3449
+freshman,Riverside,2020,Adm,White,3764
+freshman,Riverside,2021,Adm,White,3955
+freshman,Riverside,2022,Adm,White,4250
+freshman,Riverside,2023,Adm,White,4343
+freshman,Riverside,2024,Adm,White,4661
+freshman,Riverside,2025,Adm,White,6526
+freshman,Riverside,2017,Adm,Unknown,645
+freshman,Riverside,2018,Adm,Unknown,664
+freshman,Riverside,2019,Adm,Unknown,661
+freshman,Riverside,2020,Adm,Unknown,835
+freshman,Riverside,2021,Adm,Unknown,901
+freshman,Riverside,2022,Adm,Unknown,846
+freshman,Riverside,2023,Adm,Unknown,1009
+freshman,Riverside,2024,Adm,Unknown,1326
+freshman,Riverside,2025,Adm,Unknown,1714
+freshman,Riverside,2017,Adm,International,2038
+freshman,Riverside,2018,Adm,International,1941
+freshman,Riverside,2019,Adm,International,2779
+freshman,Riverside,2020,Adm,International,3255
+freshman,Riverside,2021,Adm,International,3576
+freshman,Riverside,2022,Adm,International,4298
+freshman,Riverside,2023,Adm,International,4651
+freshman,Riverside,2024,Adm,International,5036
+freshman,Riverside,2025,Adm,International,5235
+freshman,Riverside,2017,Enr,African American,244
+freshman,Riverside,2018,Enr,African American,223
+freshman,Riverside,2019,Enr,African American,229
+freshman,Riverside,2020,Enr,African American,276
+freshman,Riverside,2021,Enr,African American,259
+freshman,Riverside,2022,Enr,African American,295
+freshman,Riverside,2023,Enr,African American,322
+freshman,Riverside,2024,Enr,African American,363
+freshman,Riverside,2025,Enr,African American,472
+freshman,Riverside,2018,Enr,American Indian,14
+freshman,Riverside,2019,Enr,American Indian,9
+freshman,Riverside,2020,Enr,American Indian,11
+freshman,Riverside,2021,Enr,American Indian,7
+freshman,Riverside,2022,Enr,American Indian,7
+freshman,Riverside,2023,Enr,American Indian,11
+freshman,Riverside,2024,Enr,American Indian,25
+freshman,Riverside,2025,Enr,American Indian,30
+freshman,Riverside,2017,Enr,Asian,1814
+freshman,Riverside,2018,Enr,Asian,1927
+freshman,Riverside,2019,Enr,Asian,2122
+freshman,Riverside,2020,Enr,Asian,1908
+freshman,Riverside,2021,Enr,Asian,2193
+freshman,Riverside,2022,Enr,Asian,2448
+freshman,Riverside,2023,Enr,Asian,2138
+freshman,Riverside,2024,Enr,Asian,2176
+freshman,Riverside,2025,Enr,Asian,2484
+freshman,Riverside,2017,Enr,Hispanic/Latino(a),1797
+freshman,Riverside,2018,Enr,Hispanic/Latino(a),1680
+freshman,Riverside,2019,Enr,Hispanic/Latino(a),1685
+freshman,Riverside,2020,Enr,Hispanic/Latino(a),1980
+freshman,Riverside,2021,Enr,Hispanic/Latino(a),1970
+freshman,Riverside,2022,Enr,Hispanic/Latino(a),1922
+freshman,Riverside,2023,Enr,Hispanic/Latino(a),2213
+freshman,Riverside,2024,Enr,Hispanic/Latino(a),2048
+freshman,Riverside,2025,Enr,Hispanic/Latino(a),2877
+freshman,Riverside,2018,Enr,Pacific Islander,6
+freshman,Riverside,2019,Enr,Pacific Islander,7
+freshman,Riverside,2020,Enr,Pacific Islander,14
+freshman,Riverside,2021,Enr,Pacific Islander,14
+freshman,Riverside,2022,Enr,Pacific Islander,11
+freshman,Riverside,2023,Enr,Pacific Islander,13
+freshman,Riverside,2024,Enr,Pacific Islander,9
+freshman,Riverside,2025,Enr,Pacific Islander,10
+freshman,Riverside,2017,Enr,White,492
+freshman,Riverside,2018,Enr,White,453
+freshman,Riverside,2019,Enr,White,487
+freshman,Riverside,2020,Enr,White,463
+freshman,Riverside,2021,Enr,White,517
+freshman,Riverside,2022,Enr,White,501
+freshman,Riverside,2023,Enr,White,470
+freshman,Riverside,2024,Enr,White,500
+freshman,Riverside,2025,Enr,White,505
+freshman,Riverside,2017,Enr,Unknown,101
+freshman,Riverside,2018,Enr,Unknown,95
+freshman,Riverside,2019,Enr,Unknown,81
+freshman,Riverside,2020,Enr,Unknown,77
+freshman,Riverside,2021,Enr,Unknown,78
+freshman,Riverside,2022,Enr,Unknown,82
+freshman,Riverside,2023,Enr,Unknown,96
+freshman,Riverside,2024,Enr,Unknown,104
+freshman,Riverside,2025,Enr,Unknown,87
+freshman,Riverside,2017,Enr,International,135
+freshman,Riverside,2018,Enr,International,131
+freshman,Riverside,2019,Enr,International,157
+freshman,Riverside,2020,Enr,International,128
+freshman,Riverside,2021,Enr,International,165
+freshman,Riverside,2022,Enr,International,307
+freshman,Riverside,2023,Enr,International,258
+freshman,Riverside,2024,Enr,International,197
+freshman,Riverside,2025,Enr,International,217
+freshman,San Diego,2017,App,African American,3989
+freshman,San Diego,2018,App,African American,4327
+freshman,San Diego,2019,App,African American,4554
+freshman,San Diego,2020,App,African American,4806
+freshman,San Diego,2021,App,African American,6187
+freshman,San Diego,2022,App,African American,6794
+freshman,San Diego,2023,App,African American,6672
+freshman,San Diego,2024,App,African American,7023
+freshman,San Diego,2025,App,African American,6906
+freshman,San Diego,2017,App,American Indian,382
+freshman,San Diego,2018,App,American Indian,412
+freshman,San Diego,2019,App,American Indian,349
+freshman,San Diego,2020,App,American Indian,387
+freshman,San Diego,2021,App,American Indian,437
+freshman,San Diego,2022,App,American Indian,615
+freshman,San Diego,2023,App,American Indian,664
+freshman,San Diego,2024,App,American Indian,685
+freshman,San Diego,2025,App,American Indian,679
+freshman,San Diego,2017,App,Asian,26712
+freshman,San Diego,2018,App,Asian,30404
+freshman,San Diego,2019,App,Asian,31070
+freshman,San Diego,2020,App,Asian,31723
+freshman,San Diego,2021,App,Asian,36659
+freshman,San Diego,2022,App,Asian,41978
+freshman,San Diego,2023,App,Asian,42938
+freshman,San Diego,2024,App,Asian,44080
+freshman,San Diego,2025,App,Asian,45168
+freshman,San Diego,2017,App,Hispanic/Latino(a),18804
+freshman,San Diego,2018,App,Hispanic/Latino(a),20815
+freshman,San Diego,2019,App,Hispanic/Latino(a),21299
+freshman,San Diego,2020,App,Hispanic/Latino(a),21961
+freshman,San Diego,2021,App,Hispanic/Latino(a),25883
+freshman,San Diego,2022,App,Hispanic/Latino(a),29114
+freshman,San Diego,2023,App,Hispanic/Latino(a),29942
+freshman,San Diego,2024,App,Hispanic/Latino(a),31648
+freshman,San Diego,2025,App,Hispanic/Latino(a),31183
+freshman,San Diego,2017,App,Pacific Islander,248
+freshman,San Diego,2018,App,Pacific Islander,234
+freshman,San Diego,2019,App,Pacific Islander,229
+freshman,San Diego,2020,App,Pacific Islander,234
+freshman,San Diego,2021,App,Pacific Islander,292
+freshman,San Diego,2022,App,Pacific Islander,309
+freshman,San Diego,2023,App,Pacific Islander,316
+freshman,San Diego,2024,App,Pacific Islander,288
+freshman,San Diego,2025,App,Pacific Islander,296
+freshman,San Diego,2017,App,White,18033
+freshman,San Diego,2018,App,White,19098
+freshman,San Diego,2019,App,White,19210
+freshman,San Diego,2020,App,White,18572
+freshman,San Diego,2021,App,White,24571
+freshman,San Diego,2022,App,White,25962
+freshman,San Diego,2023,App,White,24856
+freshman,San Diego,2024,App,White,24211
+freshman,San Diego,2025,App,White,23497
+freshman,San Diego,2017,App,Unknown,2368
+freshman,San Diego,2018,App,Unknown,2859
+freshman,San Diego,2019,App,Unknown,2555
+freshman,San Diego,2020,App,Unknown,3105
+freshman,San Diego,2021,App,Unknown,3221
+freshman,San Diego,2022,App,Unknown,3398
+freshman,San Diego,2023,App,Unknown,3538
+freshman,San Diego,2024,App,Unknown,4715
+freshman,San Diego,2025,App,Unknown,4774
+freshman,San Diego,2017,App,International,17912
+freshman,San Diego,2018,App,International,19749
+freshman,San Diego,2019,App,International,19858
+freshman,San Diego,2020,App,International,19274
+freshman,San Diego,2021,App,International,21133
+freshman,San Diego,2022,App,International,23059
+freshman,San Diego,2023,App,International,21909
+freshman,San Diego,2024,App,International,21800
+freshman,San Diego,2025,App,International,24224
+freshman,San Diego,2017,Adm,African American,782
+freshman,San Diego,2018,Adm,African American,784
+freshman,San Diego,2019,Adm,African American,994
+freshman,San Diego,2020,Adm,African American,1099
+freshman,San Diego,2021,Adm,African American,1613
+freshman,San Diego,2022,Adm,African American,1237
+freshman,San Diego,2023,Adm,African American,1229
+freshman,San Diego,2024,Adm,African American,1369
+freshman,San Diego,2025,Adm,African American,1292
+freshman,San Diego,2017,Adm,American Indian,127
+freshman,San Diego,2018,Adm,American Indian,108
+freshman,San Diego,2019,Adm,American Indian,112
+freshman,San Diego,2020,Adm,American Indian,138
+freshman,San Diego,2021,Adm,American Indian,187
+freshman,San Diego,2022,Adm,American Indian,153
+freshman,San Diego,2023,Adm,American Indian,170
+freshman,San Diego,2024,Adm,American Indian,175
+freshman,San Diego,2025,Adm,American Indian,187
+freshman,San Diego,2017,Adm,Asian,10697
+freshman,San Diego,2018,Adm,Asian,10246
+freshman,San Diego,2019,Adm,Asian,11119
+freshman,San Diego,2020,Adm,Asian,14115
+freshman,San Diego,2021,Adm,Asian,13889
+freshman,San Diego,2022,Adm,Asian,11295
+freshman,San Diego,2023,Adm,Asian,11405
+freshman,San Diego,2024,Adm,Asian,12796
+freshman,San Diego,2025,Adm,Asian,13518
+freshman,San Diego,2017,Adm,Hispanic/Latino(a),4955
+freshman,San Diego,2018,Adm,Hispanic/Latino(a),5189
+freshman,San Diego,2019,Adm,Hispanic/Latino(a),5556
+freshman,San Diego,2020,Adm,Hispanic/Latino(a),5764
+freshman,San Diego,2021,Adm,Hispanic/Latino(a),7767
+freshman,San Diego,2022,Adm,Hispanic/Latino(a),8155
+freshman,San Diego,2023,Adm,Hispanic/Latino(a),8326
+freshman,San Diego,2024,Adm,Hispanic/Latino(a),8901
+freshman,San Diego,2025,Adm,Hispanic/Latino(a),8079
+freshman,San Diego,2017,Adm,Pacific Islander,61
+freshman,San Diego,2018,Adm,Pacific Islander,48
+freshman,San Diego,2019,Adm,Pacific Islander,50
+freshman,San Diego,2020,Adm,Pacific Islander,66
+freshman,San Diego,2021,Adm,Pacific Islander,97
+freshman,San Diego,2022,Adm,Pacific Islander,54
+freshman,San Diego,2023,Adm,Pacific Islander,50
+freshman,San Diego,2024,Adm,Pacific Islander,60
+freshman,San Diego,2025,Adm,Pacific Islander,67
+freshman,San Diego,2017,Adm,White,6650
+freshman,San Diego,2018,Adm,White,6345
+freshman,San Diego,2019,Adm,White,6677
+freshman,San Diego,2020,Adm,White,7597
+freshman,San Diego,2021,Adm,White,9062
+freshman,San Diego,2022,Adm,White,5726
+freshman,San Diego,2023,Adm,White,6105
+freshman,San Diego,2024,Adm,White,6274
+freshman,San Diego,2025,Adm,White,6566
+freshman,San Diego,2017,Adm,Unknown,1030
+freshman,San Diego,2018,Adm,Unknown,1021
+freshman,San Diego,2019,Adm,Unknown,1033
+freshman,San Diego,2020,Adm,Unknown,1475
+freshman,San Diego,2021,Adm,Unknown,1385
+freshman,San Diego,2022,Adm,Unknown,963
+freshman,San Diego,2023,Adm,Unknown,983
+freshman,San Diego,2024,Adm,Unknown,1479
+freshman,San Diego,2025,Adm,Unknown,1604
+freshman,San Diego,2017,Adm,International,5759
+freshman,San Diego,2018,Adm,International,5687
+freshman,San Diego,2019,Adm,International,5659
+freshman,San Diego,2020,Adm,International,6379
+freshman,San Diego,2021,Adm,International,6496
+freshman,San Diego,2022,Adm,International,3519
+freshman,San Diego,2023,Adm,International,3793
+freshman,San Diego,2024,Adm,International,4862
+freshman,San Diego,2025,Adm,International,7144
+freshman,San Diego,2017,Enr,African American,130
+freshman,San Diego,2018,Enr,African American,164
+freshman,San Diego,2019,Enr,African American,179
+freshman,San Diego,2020,Enr,African American,196
+freshman,San Diego,2021,Enr,African American,222
+freshman,San Diego,2022,Enr,African American,253
+freshman,San Diego,2023,Enr,African American,266
+freshman,San Diego,2024,Enr,African American,248
+freshman,San Diego,2025,Enr,African American,213
+freshman,San Diego,2017,Enr,American Indian,17
+freshman,San Diego,2018,Enr,American Indian,20
+freshman,San Diego,2019,Enr,American Indian,26
+freshman,San Diego,2020,Enr,American Indian,28
+freshman,San Diego,2021,Enr,American Indian,30
+freshman,San Diego,2022,Enr,American Indian,24
+freshman,San Diego,2023,Enr,American Indian,21
+freshman,San Diego,2024,Enr,American Indian,39
+freshman,San Diego,2025,Enr,American Indian,29
+freshman,San Diego,2017,Enr,Asian,2100
+freshman,San Diego,2018,Enr,Asian,2541
+freshman,San Diego,2019,Enr,Asian,2213
+freshman,San Diego,2020,Enr,Asian,2702
+freshman,San Diego,2021,Enr,Asian,2889
+freshman,San Diego,2022,Enr,Asian,2596
+freshman,San Diego,2023,Enr,Asian,2683
+freshman,San Diego,2024,Enr,Asian,2965
+freshman,San Diego,2025,Enr,Asian,3064
+freshman,San Diego,2017,Enr,Hispanic/Latino(a),1301
+freshman,San Diego,2018,Enr,Hispanic/Latino(a),1503
+freshman,San Diego,2019,Enr,Hispanic/Latino(a),1432
+freshman,San Diego,2020,Enr,Hispanic/Latino(a),1134
+freshman,San Diego,2021,Enr,Hispanic/Latino(a),1629
+freshman,San Diego,2022,Enr,Hispanic/Latino(a),1960
+freshman,San Diego,2023,Enr,Hispanic/Latino(a),2122
+freshman,San Diego,2024,Enr,Hispanic/Latino(a),2018
+freshman,San Diego,2025,Enr,Hispanic/Latino(a),1783
+freshman,San Diego,2017,Enr,Pacific Islander,9
+freshman,San Diego,2018,Enr,Pacific Islander,15
+freshman,San Diego,2019,Enr,Pacific Islander,6
+freshman,San Diego,2020,Enr,Pacific Islander,7
+freshman,San Diego,2021,Enr,Pacific Islander,14
+freshman,San Diego,2022,Enr,Pacific Islander,11
+freshman,San Diego,2023,Enr,Pacific Islander,8
+freshman,San Diego,2024,Enr,Pacific Islander,11
+freshman,San Diego,2025,Enr,Pacific Islander,15
+freshman,San Diego,2017,Enr,White,1024
+freshman,San Diego,2018,Enr,White,1179
+freshman,San Diego,2019,Enr,White,1053
+freshman,San Diego,2020,Enr,White,1080
+freshman,San Diego,2021,Enr,White,1457
+freshman,San Diego,2022,Enr,White,969
+freshman,San Diego,2023,Enr,White,1070
+freshman,San Diego,2024,Enr,White,1025
+freshman,San Diego,2025,Enr,White,1053
+freshman,San Diego,2017,Enr,Unknown,126
+freshman,San Diego,2018,Enr,Unknown,178
+freshman,San Diego,2019,Enr,Unknown,130
+freshman,San Diego,2020,Enr,Unknown,192
+freshman,San Diego,2021,Enr,Unknown,193
+freshman,San Diego,2022,Enr,Unknown,132
+freshman,San Diego,2023,Enr,Unknown,156
+freshman,San Diego,2024,Enr,Unknown,205
+freshman,San Diego,2025,Enr,Unknown,209
+freshman,San Diego,2017,Enr,International,992
+freshman,San Diego,2018,Enr,International,1107
+freshman,San Diego,2019,Enr,International,984
+freshman,San Diego,2020,Enr,International,1110
+freshman,San Diego,2021,Enr,International,1109
+freshman,San Diego,2022,Enr,International,602
+freshman,San Diego,2023,Enr,International,679
+freshman,San Diego,2024,Enr,International,820
+freshman,San Diego,2025,Enr,International,1435
+freshman,Santa Barbara,2017,App,African American,3658
+freshman,Santa Barbara,2018,App,African American,4168
+freshman,Santa Barbara,2019,App,African American,4148
+freshman,Santa Barbara,2020,App,African American,3962
+freshman,Santa Barbara,2021,App,African American,5093
+freshman,Santa Barbara,2022,App,African American,5063
+freshman,Santa Barbara,2023,App,African American,5080
+freshman,Santa Barbara,2024,App,African American,5346
+freshman,Santa Barbara,2025,App,African American,5199
+freshman,Santa Barbara,2017,App,American Indian,448
+freshman,Santa Barbara,2018,App,American Indian,447
+freshman,Santa Barbara,2019,App,American Indian,375
+freshman,Santa Barbara,2020,App,American Indian,399
+freshman,Santa Barbara,2021,App,American Indian,416
+freshman,Santa Barbara,2022,App,American Indian,606
+freshman,Santa Barbara,2023,App,American Indian,634
+freshman,Santa Barbara,2024,App,American Indian,662
+freshman,Santa Barbara,2025,App,American Indian,640
+freshman,Santa Barbara,2017,App,Asian,20426
+freshman,Santa Barbara,2018,App,Asian,24592
+freshman,Santa Barbara,2019,App,Asian,25670
+freshman,Santa Barbara,2020,App,Asian,25525
+freshman,Santa Barbara,2021,App,Asian,29157
+freshman,Santa Barbara,2022,App,Asian,32492
+freshman,Santa Barbara,2023,App,Asian,33304
+freshman,Santa Barbara,2024,App,Asian,33255
+freshman,Santa Barbara,2025,App,Asian,33094
+freshman,Santa Barbara,2017,App,Hispanic/Latino(a),20232
+freshman,Santa Barbara,2018,App,Hispanic/Latino(a),22783
+freshman,Santa Barbara,2019,App,Hispanic/Latino(a),22330
+freshman,Santa Barbara,2020,App,Hispanic/Latino(a),21195
+freshman,Santa Barbara,2021,App,Hispanic/Latino(a),23953
+freshman,Santa Barbara,2022,App,Hispanic/Latino(a),23836
+freshman,Santa Barbara,2023,App,Hispanic/Latino(a),25243
+freshman,Santa Barbara,2024,App,Hispanic/Latino(a),25117
+freshman,Santa Barbara,2025,App,Hispanic/Latino(a),24852
+freshman,Santa Barbara,2017,App,Pacific Islander,210
+freshman,Santa Barbara,2018,App,Pacific Islander,254
+freshman,Santa Barbara,2019,App,Pacific Islander,225
+freshman,Santa Barbara,2020,App,Pacific Islander,205
+freshman,Santa Barbara,2021,App,Pacific Islander,260
+freshman,Santa Barbara,2022,App,Pacific Islander,252
+freshman,Santa Barbara,2023,App,Pacific Islander,266
+freshman,Santa Barbara,2024,App,Pacific Islander,228
+freshman,Santa Barbara,2025,App,Pacific Islander,255
+freshman,Santa Barbara,2017,App,White,20075
+freshman,Santa Barbara,2018,App,White,21340
+freshman,Santa Barbara,2019,App,White,21185
+freshman,Santa Barbara,2020,App,White,20226
+freshman,Santa Barbara,2021,App,White,26333
+freshman,Santa Barbara,2022,App,White,26849
+freshman,Santa Barbara,2023,App,White,25681
+freshman,Santa Barbara,2024,App,White,24431
+freshman,Santa Barbara,2025,App,White,23501
+freshman,Santa Barbara,2017,App,Unknown,2234
+freshman,Santa Barbara,2018,App,Unknown,2671
+freshman,Santa Barbara,2019,App,Unknown,2435
+freshman,Santa Barbara,2020,App,Unknown,2801
+freshman,Santa Barbara,2021,App,Unknown,2860
+freshman,Santa Barbara,2022,App,Unknown,2963
+freshman,Santa Barbara,2023,App,Unknown,3148
+freshman,Santa Barbara,2024,App,Unknown,4037
+freshman,Santa Barbara,2025,App,Unknown,3988
+freshman,Santa Barbara,2017,App,International,14541
+freshman,Santa Barbara,2018,App,International,16051
+freshman,Santa Barbara,2019,App,International,17078
+freshman,Santa Barbara,2020,App,International,16648
+freshman,Santa Barbara,2021,App,International,17559
+freshman,Santa Barbara,2022,App,International,18934
+freshman,Santa Barbara,2023,App,International,17515
+freshman,Santa Barbara,2024,App,International,17183
+freshman,Santa Barbara,2025,App,International,18644
+freshman,Santa Barbara,2017,Adm,African American,1049
+freshman,Santa Barbara,2018,Adm,African American,997
+freshman,Santa Barbara,2019,Adm,African American,897
+freshman,Santa Barbara,2020,Adm,African American,1064
+freshman,Santa Barbara,2021,Adm,African American,1224
+freshman,Santa Barbara,2022,Adm,African American,1185
+freshman,Santa Barbara,2023,Adm,African American,1263
+freshman,Santa Barbara,2024,Adm,African American,1258
+freshman,Santa Barbara,2025,Adm,African American,1225
+freshman,Santa Barbara,2017,Adm,American Indian,190
+freshman,Santa Barbara,2018,Adm,American Indian,172
+freshman,Santa Barbara,2019,Adm,American Indian,132
+freshman,Santa Barbara,2020,Adm,American Indian,141
+freshman,Santa Barbara,2021,Adm,American Indian,106
+freshman,Santa Barbara,2022,Adm,American Indian,174
+freshman,Santa Barbara,2023,Adm,American Indian,224
+freshman,Santa Barbara,2024,Adm,American Indian,166
+freshman,Santa Barbara,2025,Adm,American Indian,208
+freshman,Santa Barbara,2017,Adm,Asian,7916
+freshman,Santa Barbara,2018,Adm,Asian,8955
+freshman,Santa Barbara,2019,Adm,Asian,8321
+freshman,Santa Barbara,2020,Adm,Asian,11268
+freshman,Santa Barbara,2021,Adm,Asian,9360
+freshman,Santa Barbara,2022,Adm,Asian,9677
+freshman,Santa Barbara,2023,Adm,Asian,10359
+freshman,Santa Barbara,2024,Adm,Asian,12026
+freshman,Santa Barbara,2025,Adm,Asian,13097
+freshman,Santa Barbara,2017,Adm,Hispanic/Latino(a),5099
+freshman,Santa Barbara,2018,Adm,Hispanic/Latino(a),5617
+freshman,Santa Barbara,2019,Adm,Hispanic/Latino(a),5253
+freshman,Santa Barbara,2020,Adm,Hispanic/Latino(a),5931
+freshman,Santa Barbara,2021,Adm,Hispanic/Latino(a),6596
+freshman,Santa Barbara,2022,Adm,Hispanic/Latino(a),6537
+freshman,Santa Barbara,2023,Adm,Hispanic/Latino(a),7217
+freshman,Santa Barbara,2024,Adm,Hispanic/Latino(a),7777
+freshman,Santa Barbara,2025,Adm,Hispanic/Latino(a),7667
+freshman,Santa Barbara,2017,Adm,Pacific Islander,58
+freshman,Santa Barbara,2018,Adm,Pacific Islander,59
+freshman,Santa Barbara,2019,Adm,Pacific Islander,57
+freshman,Santa Barbara,2020,Adm,Pacific Islander,56
+freshman,Santa Barbara,2021,Adm,Pacific Islander,62
+freshman,Santa Barbara,2022,Adm,Pacific Islander,50
+freshman,Santa Barbara,2023,Adm,Pacific Islander,59
+freshman,Santa Barbara,2024,Adm,Pacific Islander,52
+freshman,Santa Barbara,2025,Adm,Pacific Islander,91
+freshman,Santa Barbara,2017,Adm,White,7108
+freshman,Santa Barbara,2018,Adm,White,7409
+freshman,Santa Barbara,2019,Adm,White,6220
+freshman,Santa Barbara,2020,Adm,White,8366
+freshman,Santa Barbara,2021,Adm,White,7644
+freshman,Santa Barbara,2022,Adm,White,6396
+freshman,Santa Barbara,2023,Adm,White,6843
+freshman,Santa Barbara,2024,Adm,White,8175
+freshman,Santa Barbara,2025,Adm,White,8976
+freshman,Santa Barbara,2017,Adm,Unknown,922
+freshman,Santa Barbara,2018,Adm,Unknown,1043
+freshman,Santa Barbara,2019,Adm,Unknown,880
+freshman,Santa Barbara,2020,Adm,Unknown,1310
+freshman,Santa Barbara,2021,Adm,Unknown,1019
+freshman,Santa Barbara,2022,Adm,Unknown,942
+freshman,Santa Barbara,2023,Adm,Unknown,1070
+freshman,Santa Barbara,2024,Adm,Unknown,1706
+freshman,Santa Barbara,2025,Adm,Unknown,1945
+freshman,Santa Barbara,2017,Adm,International,4503
+freshman,Santa Barbara,2018,Adm,International,5472
+freshman,Santa Barbara,2019,Adm,International,5866
+freshman,Santa Barbara,2020,Adm,International,5248
+freshman,Santa Barbara,2021,Adm,International,4812
+freshman,Santa Barbara,2022,Adm,International,3727
+freshman,Santa Barbara,2023,Adm,International,3769
+freshman,Santa Barbara,2024,Adm,International,5187
+freshman,Santa Barbara,2025,Adm,International,8885
+freshman,Santa Barbara,2017,Enr,African American,244
+freshman,Santa Barbara,2018,Enr,African American,189
+freshman,Santa Barbara,2019,Enr,African American,185
+freshman,Santa Barbara,2020,Enr,African American,167
+freshman,Santa Barbara,2021,Enr,African American,177
+freshman,Santa Barbara,2022,Enr,African American,229
+freshman,Santa Barbara,2023,Enr,African American,218
+freshman,Santa Barbara,2024,Enr,African American,207
+freshman,Santa Barbara,2025,Enr,African American,150
+freshman,Santa Barbara,2017,Enr,American Indian,47
+freshman,Santa Barbara,2018,Enr,American Indian,46
+freshman,Santa Barbara,2019,Enr,American Indian,31
+freshman,Santa Barbara,2020,Enr,American Indian,29
+freshman,Santa Barbara,2021,Enr,American Indian,13
+freshman,Santa Barbara,2023,Enr,American Indian,49
+freshman,Santa Barbara,2024,Enr,American Indian,26
+freshman,Santa Barbara,2025,Enr,American Indian,27
+freshman,Santa Barbara,2017,Enr,Asian,1114
+freshman,Santa Barbara,2018,Enr,Asian,1352
+freshman,Santa Barbara,2019,Enr,Asian,1173
+freshman,Santa Barbara,2020,Enr,Asian,1353
+freshman,Santa Barbara,2021,Enr,Asian,1201
+freshman,Santa Barbara,2022,Enr,Asian,1409
+freshman,Santa Barbara,2023,Enr,Asian,1349
+freshman,Santa Barbara,2024,Enr,Asian,1305
+freshman,Santa Barbara,2025,Enr,Asian,1136
+freshman,Santa Barbara,2017,Enr,Hispanic/Latino(a),1086
+freshman,Santa Barbara,2018,Enr,Hispanic/Latino(a),1302
+freshman,Santa Barbara,2019,Enr,Hispanic/Latino(a),1177
+freshman,Santa Barbara,2020,Enr,Hispanic/Latino(a),1133
+freshman,Santa Barbara,2021,Enr,Hispanic/Latino(a),1179
+freshman,Santa Barbara,2022,Enr,Hispanic/Latino(a),1250
+freshman,Santa Barbara,2023,Enr,Hispanic/Latino(a),1364
+freshman,Santa Barbara,2024,Enr,Hispanic/Latino(a),1358
+freshman,Santa Barbara,2025,Enr,Hispanic/Latino(a),1391
+freshman,Santa Barbara,2017,Enr,Pacific Islander,17
+freshman,Santa Barbara,2018,Enr,Pacific Islander,9
+freshman,Santa Barbara,2019,Enr,Pacific Islander,14
+freshman,Santa Barbara,2020,Enr,Pacific Islander,10
+freshman,Santa Barbara,2021,Enr,Pacific Islander,10
+freshman,Santa Barbara,2023,Enr,Pacific Islander,9
+freshman,Santa Barbara,2024,Enr,Pacific Islander,5
+freshman,Santa Barbara,2025,Enr,Pacific Islander,21
+freshman,Santa Barbara,2017,Enr,White,1363
+freshman,Santa Barbara,2018,Enr,White,1360
+freshman,Santa Barbara,2019,Enr,White,1321
+freshman,Santa Barbara,2020,Enr,White,1570
+freshman,Santa Barbara,2021,Enr,White,1521
+freshman,Santa Barbara,2022,Enr,White,1299
+freshman,Santa Barbara,2023,Enr,White,1388
+freshman,Santa Barbara,2024,Enr,White,1489
+freshman,Santa Barbara,2025,Enr,White,1565
+freshman,Santa Barbara,2017,Enr,Unknown,115
+freshman,Santa Barbara,2018,Enr,Unknown,112
+freshman,Santa Barbara,2019,Enr,Unknown,86
+freshman,Santa Barbara,2020,Enr,Unknown,158
+freshman,Santa Barbara,2021,Enr,Unknown,143
+freshman,Santa Barbara,2022,Enr,Unknown,127
+freshman,Santa Barbara,2023,Enr,Unknown,122
+freshman,Santa Barbara,2024,Enr,Unknown,165
+freshman,Santa Barbara,2025,Enr,Unknown,153
+freshman,Santa Barbara,2017,Enr,International,553
+freshman,Santa Barbara,2018,Enr,International,724
+freshman,Santa Barbara,2019,Enr,International,948
+freshman,Santa Barbara,2020,Enr,International,427
+freshman,Santa Barbara,2021,Enr,International,654
+freshman,Santa Barbara,2022,Enr,International,596
+freshman,Santa Barbara,2023,Enr,International,545
+freshman,Santa Barbara,2024,Enr,International,453
+freshman,Santa Barbara,2025,Enr,International,638
+freshman,Santa Cruz,2017,App,African American,2562
+freshman,Santa Cruz,2018,App,African American,2683
+freshman,Santa Cruz,2019,App,African American,2598
+freshman,Santa Cruz,2020,App,African American,2595
+freshman,Santa Cruz,2021,App,African American,3308
+freshman,Santa Cruz,2022,App,African American,3351
+freshman,Santa Cruz,2023,App,African American,3342
+freshman,Santa Cruz,2024,App,African American,3858
+freshman,Santa Cruz,2025,App,African American,3424
+freshman,Santa Cruz,2017,App,American Indian,307
+freshman,Santa Cruz,2018,App,American Indian,285
+freshman,Santa Cruz,2019,App,American Indian,237
+freshman,Santa Cruz,2020,App,American Indian,248
+freshman,Santa Cruz,2021,App,American Indian,265
+freshman,Santa Cruz,2022,App,American Indian,407
+freshman,Santa Cruz,2023,App,American Indian,451
+freshman,Santa Cruz,2024,App,American Indian,467
+freshman,Santa Cruz,2025,App,American Indian,458
+freshman,Santa Cruz,2017,App,Asian,13391
+freshman,Santa Cruz,2018,App,Asian,15067
+freshman,Santa Cruz,2019,App,Asian,15133
+freshman,Santa Cruz,2020,App,Asian,15312
+freshman,Santa Cruz,2021,App,Asian,17512
+freshman,Santa Cruz,2022,App,Asian,19806
+freshman,Santa Cruz,2023,App,Asian,21152
+freshman,Santa Cruz,2024,App,Asian,21853
+freshman,Santa Cruz,2025,App,Asian,20581
+freshman,Santa Cruz,2017,App,Hispanic/Latino(a),16570
+freshman,Santa Cruz,2018,App,Hispanic/Latino(a),17298
+freshman,Santa Cruz,2019,App,Hispanic/Latino(a),16418
+freshman,Santa Cruz,2020,App,Hispanic/Latino(a),16122
+freshman,Santa Cruz,2021,App,Hispanic/Latino(a),17437
+freshman,Santa Cruz,2022,App,Hispanic/Latino(a),18313
+freshman,Santa Cruz,2023,App,Hispanic/Latino(a),19125
+freshman,Santa Cruz,2024,App,Hispanic/Latino(a),20623
+freshman,Santa Cruz,2025,App,Hispanic/Latino(a),18378
+freshman,Santa Cruz,2017,App,Pacific Islander,157
+freshman,Santa Cruz,2018,App,Pacific Islander,175
+freshman,Santa Cruz,2019,App,Pacific Islander,146
+freshman,Santa Cruz,2020,App,Pacific Islander,148
+freshman,Santa Cruz,2021,App,Pacific Islander,193
+freshman,Santa Cruz,2022,App,Pacific Islander,190
+freshman,Santa Cruz,2023,App,Pacific Islander,191
+freshman,Santa Cruz,2024,App,Pacific Islander,198
+freshman,Santa Cruz,2025,App,Pacific Islander,163
+freshman,Santa Cruz,2017,App,White,12061
+freshman,Santa Cruz,2018,App,White,12468
+freshman,Santa Cruz,2019,App,White,12181
+freshman,Santa Cruz,2020,App,White,11749
+freshman,Santa Cruz,2021,App,White,15237
+freshman,Santa Cruz,2022,App,White,16303
+freshman,Santa Cruz,2023,App,White,16171
+freshman,Santa Cruz,2024,App,White,15855
+freshman,Santa Cruz,2025,App,White,14453
+freshman,Santa Cruz,2017,App,Unknown,1363
+freshman,Santa Cruz,2018,App,Unknown,1622
+freshman,Santa Cruz,2019,App,Unknown,1390
+freshman,Santa Cruz,2020,App,Unknown,1680
+freshman,Santa Cruz,2021,App,Unknown,1637
+freshman,Santa Cruz,2022,App,Unknown,1681
+freshman,Santa Cruz,2023,App,Unknown,1865
+freshman,Santa Cruz,2024,App,Unknown,2407
+freshman,Santa Cruz,2025,App,Unknown,2250
+freshman,Santa Cruz,2017,App,International,6558
+freshman,Santa Cruz,2018,App,International,7027
+freshman,Santa Cruz,2019,App,International,7762
+freshman,Santa Cruz,2020,App,International,7214
+freshman,Santa Cruz,2021,App,International,6216
+freshman,Santa Cruz,2022,App,International,5963
+freshman,Santa Cruz,2023,App,International,6548
+freshman,Santa Cruz,2024,App,International,6461
+freshman,Santa Cruz,2025,App,International,6686
+freshman,Santa Cruz,2017,Adm,African American,1024
+freshman,Santa Cruz,2018,Adm,African American,964
+freshman,Santa Cruz,2019,Adm,African American,948
+freshman,Santa Cruz,2020,Adm,African American,1281
+freshman,Santa Cruz,2021,Adm,African American,1569
+freshman,Santa Cruz,2022,Adm,African American,1276
+freshman,Santa Cruz,2023,Adm,African American,1723
+freshman,Santa Cruz,2024,Adm,African American,2004
+freshman,Santa Cruz,2025,Adm,African American,2001
+freshman,Santa Cruz,2017,Adm,American Indian,169
+freshman,Santa Cruz,2018,Adm,American Indian,152
+freshman,Santa Cruz,2019,Adm,American Indian,132
+freshman,Santa Cruz,2020,Adm,American Indian,152
+freshman,Santa Cruz,2021,Adm,American Indian,156
+freshman,Santa Cruz,2022,Adm,American Indian,168
+freshman,Santa Cruz,2023,Adm,American Indian,284
+freshman,Santa Cruz,2024,Adm,American Indian,287
+freshman,Santa Cruz,2025,Adm,American Indian,324
+freshman,Santa Cruz,2017,Adm,Asian,7745
+freshman,Santa Cruz,2018,Adm,Asian,7935
+freshman,Santa Cruz,2019,Adm,Asian,8144
+freshman,Santa Cruz,2020,Adm,Asian,11195
+freshman,Santa Cruz,2021,Adm,Asian,10611
+freshman,Santa Cruz,2022,Adm,Asian,10105
+freshman,Santa Cruz,2023,Adm,Asian,14687
+freshman,Santa Cruz,2024,Adm,Asian,15007
+freshman,Santa Cruz,2025,Adm,Asian,16199
+freshman,Santa Cruz,2017,Adm,Hispanic/Latino(a),5005
+freshman,Santa Cruz,2018,Adm,Hispanic/Latino(a),4648
+freshman,Santa Cruz,2019,Adm,Hispanic/Latino(a),5507
+freshman,Santa Cruz,2020,Adm,Hispanic/Latino(a),7900
+freshman,Santa Cruz,2021,Adm,Hispanic/Latino(a),8952
+freshman,Santa Cruz,2022,Adm,Hispanic/Latino(a),7389
+freshman,Santa Cruz,2023,Adm,Hispanic/Latino(a),9930
+freshman,Santa Cruz,2024,Adm,Hispanic/Latino(a),11558
+freshman,Santa Cruz,2025,Adm,Hispanic/Latino(a),11379
+freshman,Santa Cruz,2017,Adm,Pacific Islander,69
+freshman,Santa Cruz,2018,Adm,Pacific Islander,57
+freshman,Santa Cruz,2019,Adm,Pacific Islander,62
+freshman,Santa Cruz,2020,Adm,Pacific Islander,74
+freshman,Santa Cruz,2021,Adm,Pacific Islander,110
+freshman,Santa Cruz,2022,Adm,Pacific Islander,73
+freshman,Santa Cruz,2023,Adm,Pacific Islander,106
+freshman,Santa Cruz,2024,Adm,Pacific Islander,113
+freshman,Santa Cruz,2025,Adm,Pacific Islander,115
+freshman,Santa Cruz,2017,Adm,White,7418
+freshman,Santa Cruz,2018,Adm,White,6938
+freshman,Santa Cruz,2019,Adm,White,7424
+freshman,Santa Cruz,2020,Adm,White,8395
+freshman,Santa Cruz,2021,Adm,White,9452
+freshman,Santa Cruz,2022,Adm,White,7752
+freshman,Santa Cruz,2023,Adm,White,10992
+freshman,Santa Cruz,2024,Adm,White,11170
+freshman,Santa Cruz,2025,Adm,White,11433
+freshman,Santa Cruz,2017,Adm,Unknown,775
+freshman,Santa Cruz,2018,Adm,Unknown,900
+freshman,Santa Cruz,2019,Adm,Unknown,764
+freshman,Santa Cruz,2020,Adm,Unknown,1180
+freshman,Santa Cruz,2021,Adm,Unknown,1045
+freshman,Santa Cruz,2022,Adm,Unknown,927
+freshman,Santa Cruz,2023,Adm,Unknown,1337
+freshman,Santa Cruz,2024,Adm,Unknown,1798
+freshman,Santa Cruz,2025,Adm,Unknown,1862
+freshman,Santa Cruz,2017,Adm,International,4778
+freshman,Santa Cruz,2018,Adm,International,5209
+freshman,Santa Cruz,2019,Adm,International,5647
+freshman,Santa Cruz,2020,Adm,International,5414
+freshman,Santa Cruz,2021,Adm,International,4357
+freshman,Santa Cruz,2022,Adm,International,3236
+freshman,Santa Cruz,2023,Adm,International,3995
+freshman,Santa Cruz,2024,Adm,International,5249
+freshman,Santa Cruz,2025,Adm,International,4809
+freshman,Santa Cruz,2017,Enr,African American,174
+freshman,Santa Cruz,2018,Enr,African American,159
+freshman,Santa Cruz,2019,Enr,African American,129
+freshman,Santa Cruz,2020,Enr,African American,206
+freshman,Santa Cruz,2021,Enr,African American,218
+freshman,Santa Cruz,2022,Enr,African American,164
+freshman,Santa Cruz,2023,Enr,African American,191
+freshman,Santa Cruz,2024,Enr,African American,217
+freshman,Santa Cruz,2025,Enr,African American,222
+freshman,Santa Cruz,2017,Enr,American Indian,27
+freshman,Santa Cruz,2018,Enr,American Indian,21
+freshman,Santa Cruz,2019,Enr,American Indian,24
+freshman,Santa Cruz,2020,Enr,American Indian,24
+freshman,Santa Cruz,2021,Enr,American Indian,19
+freshman,Santa Cruz,2022,Enr,American Indian,15
+freshman,Santa Cruz,2023,Enr,American Indian,39
+freshman,Santa Cruz,2024,Enr,American Indian,41
+freshman,Santa Cruz,2025,Enr,American Indian,41
+freshman,Santa Cruz,2017,Enr,Asian,1094
+freshman,Santa Cruz,2018,Enr,Asian,1083
+freshman,Santa Cruz,2019,Enr,Asian,992
+freshman,Santa Cruz,2020,Enr,Asian,1360
+freshman,Santa Cruz,2021,Enr,Asian,1152
+freshman,Santa Cruz,2022,Enr,Asian,1239
+freshman,Santa Cruz,2023,Enr,Asian,1447
+freshman,Santa Cruz,2024,Enr,Asian,1326
+freshman,Santa Cruz,2025,Enr,Asian,1380
+freshman,Santa Cruz,2017,Enr,Hispanic/Latino(a),1020
+freshman,Santa Cruz,2018,Enr,Hispanic/Latino(a),811
+freshman,Santa Cruz,2019,Enr,Hispanic/Latino(a),838
+freshman,Santa Cruz,2020,Enr,Hispanic/Latino(a),1165
+freshman,Santa Cruz,2021,Enr,Hispanic/Latino(a),1272
+freshman,Santa Cruz,2022,Enr,Hispanic/Latino(a),1106
+freshman,Santa Cruz,2023,Enr,Hispanic/Latino(a),1162
+freshman,Santa Cruz,2024,Enr,Hispanic/Latino(a),1229
+freshman,Santa Cruz,2025,Enr,Hispanic/Latino(a),1367
+freshman,Santa Cruz,2017,Enr,Pacific Islander,10
+freshman,Santa Cruz,2018,Enr,Pacific Islander,7
+freshman,Santa Cruz,2019,Enr,Pacific Islander,7
+freshman,Santa Cruz,2020,Enr,Pacific Islander,12
+freshman,Santa Cruz,2021,Enr,Pacific Islander,15
+freshman,Santa Cruz,2022,Enr,Pacific Islander,10
+freshman,Santa Cruz,2023,Enr,Pacific Islander,9
+freshman,Santa Cruz,2024,Enr,Pacific Islander,14
+freshman,Santa Cruz,2025,Enr,Pacific Islander,13
+freshman,Santa Cruz,2017,Enr,White,1194
+freshman,Santa Cruz,2018,Enr,White,1017
+freshman,Santa Cruz,2019,Enr,White,1163
+freshman,Santa Cruz,2020,Enr,White,1156
+freshman,Santa Cruz,2021,Enr,White,1271
+freshman,Santa Cruz,2022,Enr,White,1078
+freshman,Santa Cruz,2023,Enr,White,1282
+freshman,Santa Cruz,2024,Enr,White,1253
+freshman,Santa Cruz,2025,Enr,White,1284
+freshman,Santa Cruz,2017,Enr,Unknown,87
+freshman,Santa Cruz,2018,Enr,Unknown,102
+freshman,Santa Cruz,2019,Enr,Unknown,74
+freshman,Santa Cruz,2020,Enr,Unknown,107
+freshman,Santa Cruz,2021,Enr,Unknown,87
+freshman,Santa Cruz,2022,Enr,Unknown,96
+freshman,Santa Cruz,2023,Enr,Unknown,132
+freshman,Santa Cruz,2024,Enr,Unknown,92
+freshman,Santa Cruz,2025,Enr,Unknown,117
+freshman,Santa Cruz,2017,Enr,International,442
+freshman,Santa Cruz,2018,Enr,International,495
+freshman,Santa Cruz,2019,Enr,International,485
+freshman,Santa Cruz,2020,Enr,International,163
+freshman,Santa Cruz,2021,Enr,International,153
+freshman,Santa Cruz,2022,Enr,International,151
+freshman,Santa Cruz,2023,Enr,International,119
+freshman,Santa Cruz,2024,Enr,International,211
+freshman,Santa Cruz,2025,Enr,International,173
+transfer,Systemwide,2017,App,African American,2124
+transfer,Systemwide,2018,App,African American,2332
+transfer,Systemwide,2019,App,African American,2310
+transfer,Systemwide,2020,App,African American,2443
+transfer,Systemwide,2021,App,African American,2625
+transfer,Systemwide,2022,App,African American,2429
+transfer,Systemwide,2023,App,African American,2523
+transfer,Systemwide,2024,App,African American,2671
+transfer,Systemwide,2025,App,African American,2776
+transfer,Systemwide,2017,App,American Indian,268
+transfer,Systemwide,2018,App,American Indian,268
+transfer,Systemwide,2019,App,American Indian,250
+transfer,Systemwide,2020,App,American Indian,291
+transfer,Systemwide,2021,App,American Indian,235
+transfer,Systemwide,2022,App,American Indian,296
+transfer,Systemwide,2023,App,American Indian,373
+transfer,Systemwide,2024,App,American Indian,358
+transfer,Systemwide,2025,App,American Indian,358
+transfer,Systemwide,2017,App,Asian,9229
+transfer,Systemwide,2018,App,Asian,9632
+transfer,Systemwide,2019,App,Asian,9926
+transfer,Systemwide,2020,App,Asian,10690
+transfer,Systemwide,2021,App,Asian,12070
+transfer,Systemwide,2022,App,Asian,11147
+transfer,Systemwide,2023,App,Asian,11129
+transfer,Systemwide,2024,App,Asian,12334
+transfer,Systemwide,2025,App,Asian,12776
+transfer,Systemwide,2017,App,Hispanic/Latino(a),9536
+transfer,Systemwide,2018,App,Hispanic/Latino(a),10938
+transfer,Systemwide,2019,App,Hispanic/Latino(a),10906
+transfer,Systemwide,2020,App,Hispanic/Latino(a),11788
+transfer,Systemwide,2021,App,Hispanic/Latino(a),12855
+transfer,Systemwide,2022,App,Hispanic/Latino(a),11053
+transfer,Systemwide,2023,App,Hispanic/Latino(a),10670
+transfer,Systemwide,2024,App,Hispanic/Latino(a),11997
+transfer,Systemwide,2025,App,Hispanic/Latino(a),12361
+transfer,Systemwide,2017,App,Pacific Islander,151
+transfer,Systemwide,2018,App,Pacific Islander,146
+transfer,Systemwide,2019,App,Pacific Islander,122
+transfer,Systemwide,2020,App,Pacific Islander,147
+transfer,Systemwide,2021,App,Pacific Islander,150
+transfer,Systemwide,2022,App,Pacific Islander,136
+transfer,Systemwide,2023,App,Pacific Islander,104
+transfer,Systemwide,2024,App,Pacific Islander,130
+transfer,Systemwide,2025,App,Pacific Islander,132
+transfer,Systemwide,2017,App,White,10622
+transfer,Systemwide,2018,App,White,11243
+transfer,Systemwide,2019,App,White,11211
+transfer,Systemwide,2020,App,White,10782
+transfer,Systemwide,2021,App,White,12116
+transfer,Systemwide,2022,App,White,10911
+transfer,Systemwide,2023,App,White,10440
+transfer,Systemwide,2024,App,White,11018
+transfer,Systemwide,2025,App,White,11085
+transfer,Systemwide,2017,App,Unknown,1080
+transfer,Systemwide,2018,App,Unknown,1090
+transfer,Systemwide,2019,App,Unknown,1019
+transfer,Systemwide,2020,App,Unknown,1510
+transfer,Systemwide,2021,App,Unknown,861
+transfer,Systemwide,2022,App,Unknown,776
+transfer,Systemwide,2023,App,Unknown,927
+transfer,Systemwide,2024,App,Unknown,1059
+transfer,Systemwide,2025,App,Unknown,990
+transfer,Systemwide,2017,App,International,5463
+transfer,Systemwide,2018,App,International,5700
+transfer,Systemwide,2019,App,International,5524
+transfer,Systemwide,2020,App,International,5585
+transfer,Systemwide,2021,App,International,5401
+transfer,Systemwide,2022,App,International,3940
+transfer,Systemwide,2023,App,International,3629
+transfer,Systemwide,2024,App,International,4077
+transfer,Systemwide,2025,App,International,4422
+transfer,Systemwide,2017,Adm,African American,1256
+transfer,Systemwide,2018,Adm,African American,1393
+transfer,Systemwide,2019,Adm,African American,1363
+transfer,Systemwide,2020,Adm,African American,1472
+transfer,Systemwide,2021,Adm,African American,1469
+transfer,Systemwide,2022,Adm,African American,1446
+transfer,Systemwide,2023,Adm,African American,1471
+transfer,Systemwide,2024,Adm,African American,1545
+transfer,Systemwide,2025,Adm,African American,1641
+transfer,Systemwide,2017,Adm,American Indian,165
+transfer,Systemwide,2018,Adm,American Indian,175
+transfer,Systemwide,2019,Adm,American Indian,163
+transfer,Systemwide,2020,Adm,American Indian,191
+transfer,Systemwide,2021,Adm,American Indian,144
+transfer,Systemwide,2022,Adm,American Indian,205
+transfer,Systemwide,2023,Adm,American Indian,233
+transfer,Systemwide,2024,Adm,American Indian,225
+transfer,Systemwide,2025,Adm,American Indian,223
+transfer,Systemwide,2017,Adm,Asian,6699
+transfer,Systemwide,2018,Adm,Asian,6895
+transfer,Systemwide,2019,Adm,Asian,7115
+transfer,Systemwide,2020,Adm,Asian,7676
+transfer,Systemwide,2021,Adm,Asian,8365
+transfer,Systemwide,2022,Adm,Asian,8004
+transfer,Systemwide,2023,Adm,Asian,8209
+transfer,Systemwide,2024,Adm,Asian,8594
+transfer,Systemwide,2025,Adm,Asian,9120
+transfer,Systemwide,2017,Adm,Hispanic/Latino(a),6656
+transfer,Systemwide,2018,Adm,Hispanic/Latino(a),7629
+transfer,Systemwide,2019,Adm,Hispanic/Latino(a),7554
+transfer,Systemwide,2020,Adm,Hispanic/Latino(a),8217
+transfer,Systemwide,2021,Adm,Hispanic/Latino(a),8479
+transfer,Systemwide,2022,Adm,Hispanic/Latino(a),7559
+transfer,Systemwide,2023,Adm,Hispanic/Latino(a),7336
+transfer,Systemwide,2024,Adm,Hispanic/Latino(a),8154
+transfer,Systemwide,2025,Adm,Hispanic/Latino(a),8528
+transfer,Systemwide,2017,Adm,Pacific Islander,96
+transfer,Systemwide,2018,Adm,Pacific Islander,81
+transfer,Systemwide,2019,Adm,Pacific Islander,80
+transfer,Systemwide,2020,Adm,Pacific Islander,84
+transfer,Systemwide,2021,Adm,Pacific Islander,97
+transfer,Systemwide,2022,Adm,Pacific Islander,81
+transfer,Systemwide,2023,Adm,Pacific Islander,72
+transfer,Systemwide,2024,Adm,Pacific Islander,79
+transfer,Systemwide,2025,Adm,Pacific Islander,88
+transfer,Systemwide,2017,Adm,Unknown,733
+transfer,Systemwide,2018,Adm,Unknown,730
+transfer,Systemwide,2019,Adm,Unknown,687
+transfer,Systemwide,2020,Adm,Unknown,1060
+transfer,Systemwide,2021,Adm,Unknown,561
+transfer,Systemwide,2022,Adm,Unknown,537
+transfer,Systemwide,2023,Adm,Unknown,669
+transfer,Systemwide,2024,Adm,Unknown,698
+transfer,Systemwide,2025,Adm,Unknown,653
+transfer,Systemwide,2017,Adm,White,7376
+transfer,Systemwide,2018,Adm,White,7793
+transfer,Systemwide,2019,Adm,White,7737
+transfer,Systemwide,2020,Adm,White,7596
+transfer,Systemwide,2021,Adm,White,8060
+transfer,Systemwide,2022,Adm,White,7532
+transfer,Systemwide,2023,Adm,White,7390
+transfer,Systemwide,2024,Adm,White,7705
+transfer,Systemwide,2025,Adm,White,7842
+transfer,Systemwide,2017,Adm,International,3689
+transfer,Systemwide,2018,Adm,International,3837
+transfer,Systemwide,2019,Adm,International,3829
+transfer,Systemwide,2020,Adm,International,3771
+transfer,Systemwide,2021,Adm,International,3485
+transfer,Systemwide,2022,Adm,International,2310
+transfer,Systemwide,2023,Adm,International,2155
+transfer,Systemwide,2024,Adm,International,2393
+transfer,Systemwide,2025,Adm,International,2766
+transfer,Systemwide,2017,Enr,African American,919
+transfer,Systemwide,2018,Enr,African American,981
+transfer,Systemwide,2019,Enr,African American,960
+transfer,Systemwide,2020,Enr,African American,1030
+transfer,Systemwide,2021,Enr,African American,955
+transfer,Systemwide,2022,Enr,African American,952
+transfer,Systemwide,2023,Enr,African American,983
+transfer,Systemwide,2024,Enr,African American,1017
+transfer,Systemwide,2025,Enr,African American,1043
+transfer,Systemwide,2017,Enr,American Indian,126
+transfer,Systemwide,2018,Enr,American Indian,128
+transfer,Systemwide,2019,Enr,American Indian,122
+transfer,Systemwide,2020,Enr,American Indian,125
+transfer,Systemwide,2021,Enr,American Indian,93
+transfer,Systemwide,2022,Enr,American Indian,143
+transfer,Systemwide,2023,Enr,American Indian,169
+transfer,Systemwide,2024,Enr,American Indian,162
+transfer,Systemwide,2025,Enr,American Indian,146
+transfer,Systemwide,2017,Enr,Asian,5209
+transfer,Systemwide,2018,Enr,Asian,5282
+transfer,Systemwide,2019,Enr,Asian,5381
+transfer,Systemwide,2020,Enr,Asian,5923
+transfer,Systemwide,2021,Enr,Asian,6323
+transfer,Systemwide,2022,Enr,Asian,6078
+transfer,Systemwide,2023,Enr,Asian,6211
+transfer,Systemwide,2024,Enr,Asian,6440
+transfer,Systemwide,2025,Enr,Asian,6738
+transfer,Systemwide,2017,Enr,Hispanic/Latino(a),4833
+transfer,Systemwide,2018,Enr,Hispanic/Latino(a),5359
+transfer,Systemwide,2019,Enr,Hispanic/Latino(a),5265
+transfer,Systemwide,2020,Enr,Hispanic/Latino(a),5528
+transfer,Systemwide,2021,Enr,Hispanic/Latino(a),5545
+transfer,Systemwide,2022,Enr,Hispanic/Latino(a),4991
+transfer,Systemwide,2023,Enr,Hispanic/Latino(a),4923
+transfer,Systemwide,2024,Enr,Hispanic/Latino(a),5264
+transfer,Systemwide,2025,Enr,Hispanic/Latino(a),5386
+transfer,Systemwide,2017,Enr,Pacific Islander,64
+transfer,Systemwide,2018,Enr,Pacific Islander,58
+transfer,Systemwide,2019,Enr,Pacific Islander,59
+transfer,Systemwide,2020,Enr,Pacific Islander,56
+transfer,Systemwide,2021,Enr,Pacific Islander,66
+transfer,Systemwide,2022,Enr,Pacific Islander,53
+transfer,Systemwide,2023,Enr,Pacific Islander,39
+transfer,Systemwide,2024,Enr,Pacific Islander,49
+transfer,Systemwide,2025,Enr,Pacific Islander,54
+transfer,Systemwide,2017,Enr,Unknown,532
+transfer,Systemwide,2018,Enr,Unknown,518
+transfer,Systemwide,2019,Enr,Unknown,494
+transfer,Systemwide,2020,Enr,Unknown,752
+transfer,Systemwide,2021,Enr,Unknown,398
+transfer,Systemwide,2022,Enr,Unknown,377
+transfer,Systemwide,2023,Enr,Unknown,483
+transfer,Systemwide,2024,Enr,Unknown,476
+transfer,Systemwide,2025,Enr,Unknown,473
+transfer,Systemwide,2017,Enr,White,5569
+transfer,Systemwide,2018,Enr,White,5758
+transfer,Systemwide,2019,Enr,White,5711
+transfer,Systemwide,2020,Enr,White,5566
+transfer,Systemwide,2021,Enr,White,5599
+transfer,Systemwide,2022,Enr,White,5304
+transfer,Systemwide,2023,Enr,White,5244
+transfer,Systemwide,2024,Enr,White,5405
+transfer,Systemwide,2025,Enr,White,5429
+transfer,Systemwide,2017,Enr,International,2760
+transfer,Systemwide,2018,Enr,International,2931
+transfer,Systemwide,2019,Enr,International,2864
+transfer,Systemwide,2020,Enr,International,2765
+transfer,Systemwide,2021,Enr,International,2530
+transfer,Systemwide,2022,Enr,International,1663
+transfer,Systemwide,2023,Enr,International,1535
+transfer,Systemwide,2024,Enr,International,1658
+transfer,Systemwide,2025,Enr,International,1961
+transfer,Berkeley,2017,App,African American,983
+transfer,Berkeley,2018,App,African American,1013
+transfer,Berkeley,2019,App,African American,1001
+transfer,Berkeley,2020,App,African American,1103
+transfer,Berkeley,2021,App,African American,1130
+transfer,Berkeley,2022,App,African American,1060
+transfer,Berkeley,2023,App,African American,1098
+transfer,Berkeley,2024,App,African American,1183
+transfer,Berkeley,2025,App,African American,1259
+transfer,Berkeley,2017,App,American Indian,109
+transfer,Berkeley,2018,App,American Indian,107
+transfer,Berkeley,2019,App,American Indian,113
+transfer,Berkeley,2020,App,American Indian,126
+transfer,Berkeley,2021,App,American Indian,101
+transfer,Berkeley,2022,App,American Indian,119
+transfer,Berkeley,2023,App,American Indian,155
+transfer,Berkeley,2024,App,American Indian,149
+transfer,Berkeley,2025,App,American Indian,154
+transfer,Berkeley,2017,App,Asian,4683
+transfer,Berkeley,2018,App,Asian,4759
+transfer,Berkeley,2019,App,Asian,5008
+transfer,Berkeley,2020,App,Asian,5474
+transfer,Berkeley,2021,App,Asian,6470
+transfer,Berkeley,2022,App,Asian,5927
+transfer,Berkeley,2023,App,Asian,6182
+transfer,Berkeley,2024,App,Asian,6852
+transfer,Berkeley,2025,App,Asian,7620
+transfer,Berkeley,2017,App,Hispanic/Latino(a),3871
+transfer,Berkeley,2018,App,Hispanic/Latino(a),4192
+transfer,Berkeley,2019,App,Hispanic/Latino(a),4066
+transfer,Berkeley,2020,App,Hispanic/Latino(a),4548
+transfer,Berkeley,2021,App,Hispanic/Latino(a),4926
+transfer,Berkeley,2022,App,Hispanic/Latino(a),4373
+transfer,Berkeley,2023,App,Hispanic/Latino(a),4237
+transfer,Berkeley,2024,App,Hispanic/Latino(a),4894
+transfer,Berkeley,2025,App,Hispanic/Latino(a),5268
+transfer,Berkeley,2017,App,Pacific Islander,73
+transfer,Berkeley,2018,App,Pacific Islander,59
+transfer,Berkeley,2019,App,Pacific Islander,61
+transfer,Berkeley,2020,App,Pacific Islander,69
+transfer,Berkeley,2021,App,Pacific Islander,79
+transfer,Berkeley,2022,App,Pacific Islander,64
+transfer,Berkeley,2023,App,Pacific Islander,50
+transfer,Berkeley,2024,App,Pacific Islander,60
+transfer,Berkeley,2025,App,Pacific Islander,64
+transfer,Berkeley,2017,App,White,4947
+transfer,Berkeley,2018,App,White,4977
+transfer,Berkeley,2019,App,White,4819
+transfer,Berkeley,2020,App,White,4837
+transfer,Berkeley,2021,App,White,5333
+transfer,Berkeley,2022,App,White,4759
+transfer,Berkeley,2023,App,White,4561
+transfer,Berkeley,2024,App,White,4838
+transfer,Berkeley,2025,App,White,5130
+transfer,Berkeley,2017,App,Unknown,497
+transfer,Berkeley,2018,App,Unknown,490
+transfer,Berkeley,2019,App,Unknown,504
+transfer,Berkeley,2020,App,Unknown,700
+transfer,Berkeley,2021,App,Unknown,447
+transfer,Berkeley,2022,App,Unknown,407
+transfer,Berkeley,2023,App,Unknown,482
+transfer,Berkeley,2024,App,Unknown,598
+transfer,Berkeley,2025,App,Unknown,573
+transfer,Berkeley,2017,App,International,3455
+transfer,Berkeley,2018,App,International,3597
+transfer,Berkeley,2019,App,International,3481
+transfer,Berkeley,2020,App,International,3555
+transfer,Berkeley,2021,App,International,3696
+transfer,Berkeley,2022,App,International,2662
+transfer,Berkeley,2023,App,International,2577
+transfer,Berkeley,2024,App,International,2939
+transfer,Berkeley,2025,App,International,3277
+transfer,Berkeley,2017,Adm,African American,197
+transfer,Berkeley,2018,Adm,African American,180
+transfer,Berkeley,2019,Adm,African American,218
+transfer,Berkeley,2020,Adm,African American,204
+transfer,Berkeley,2021,Adm,African American,206
+transfer,Berkeley,2022,Adm,African American,235
+transfer,Berkeley,2023,Adm,African American,258
+transfer,Berkeley,2024,Adm,African American,256
+transfer,Berkeley,2025,Adm,African American,233
+transfer,Berkeley,2017,Adm,American Indian,19
+transfer,Berkeley,2018,Adm,American Indian,22
+transfer,Berkeley,2019,Adm,American Indian,28
+transfer,Berkeley,2020,Adm,American Indian,33
+transfer,Berkeley,2021,Adm,American Indian,31
+transfer,Berkeley,2022,Adm,American Indian,32
+transfer,Berkeley,2023,Adm,American Indian,44
+transfer,Berkeley,2024,Adm,American Indian,41
+transfer,Berkeley,2025,Adm,American Indian,38
+transfer,Berkeley,2017,Adm,Asian,1116
+transfer,Berkeley,2018,Adm,Asian,1067
+transfer,Berkeley,2019,Adm,Asian,1190
+transfer,Berkeley,2020,Adm,Asian,1129
+transfer,Berkeley,2021,Adm,Asian,1241
+transfer,Berkeley,2022,Adm,Asian,1370
+transfer,Berkeley,2023,Adm,Asian,1597
+transfer,Berkeley,2024,Adm,Asian,1512
+transfer,Berkeley,2025,Adm,Asian,1522
+transfer,Berkeley,2017,Adm,Hispanic/Latino(a),877
+transfer,Berkeley,2018,Adm,Hispanic/Latino(a),808
+transfer,Berkeley,2019,Adm,Hispanic/Latino(a),962
+transfer,Berkeley,2020,Adm,Hispanic/Latino(a),1040
+transfer,Berkeley,2021,Adm,Hispanic/Latino(a),1124
+transfer,Berkeley,2022,Adm,Hispanic/Latino(a),1118
+transfer,Berkeley,2023,Adm,Hispanic/Latino(a),1111
+transfer,Berkeley,2024,Adm,Hispanic/Latino(a),1223
+transfer,Berkeley,2025,Adm,Hispanic/Latino(a),1118
+transfer,Berkeley,2017,Adm,Pacific Islander,7
+transfer,Berkeley,2018,Adm,Pacific Islander,6
+transfer,Berkeley,2019,Adm,Pacific Islander,8
+transfer,Berkeley,2020,Adm,Pacific Islander,10
+transfer,Berkeley,2021,Adm,Pacific Islander,10
+transfer,Berkeley,2022,Adm,Pacific Islander,13
+transfer,Berkeley,2023,Adm,Pacific Islander,5
+transfer,Berkeley,2024,Adm,Pacific Islander,10
+transfer,Berkeley,2025,Adm,Pacific Islander,8
+transfer,Berkeley,2017,Adm,Unknown,114
+transfer,Berkeley,2018,Adm,Unknown,131
+transfer,Berkeley,2019,Adm,Unknown,145
+transfer,Berkeley,2020,Adm,Unknown,154
+transfer,Berkeley,2021,Adm,Unknown,90
+transfer,Berkeley,2022,Adm,Unknown,104
+transfer,Berkeley,2023,Adm,Unknown,149
+transfer,Berkeley,2024,Adm,Unknown,134
+transfer,Berkeley,2025,Adm,Unknown,134
+transfer,Berkeley,2017,Adm,White,1328
+transfer,Berkeley,2018,Adm,White,1259
+transfer,Berkeley,2019,Adm,White,1239
+transfer,Berkeley,2020,Adm,White,1104
+transfer,Berkeley,2021,Adm,White,1045
+transfer,Berkeley,2022,Adm,White,1145
+transfer,Berkeley,2023,Adm,White,1310
+transfer,Berkeley,2024,Adm,White,1279
+transfer,Berkeley,2025,Adm,White,1184
+transfer,Berkeley,2017,Adm,International,657
+transfer,Berkeley,2018,Adm,International,491
+transfer,Berkeley,2019,Adm,International,511
+transfer,Berkeley,2020,Adm,International,492
+transfer,Berkeley,2021,Adm,International,556
+transfer,Berkeley,2022,Adm,International,556
+transfer,Berkeley,2023,Adm,International,600
+transfer,Berkeley,2024,Adm,International,337
+transfer,Berkeley,2025,Adm,International,819
+transfer,Berkeley,2017,Enr,African American,127
+transfer,Berkeley,2018,Enr,African American,110
+transfer,Berkeley,2019,Enr,African American,139
+transfer,Berkeley,2020,Enr,African American,114
+transfer,Berkeley,2021,Enr,African American,122
+transfer,Berkeley,2022,Enr,African American,133
+transfer,Berkeley,2023,Enr,African American,146
+transfer,Berkeley,2024,Enr,African American,144
+transfer,Berkeley,2025,Enr,African American,144
+transfer,Berkeley,2017,Enr,American Indian,13
+transfer,Berkeley,2018,Enr,American Indian,12
+transfer,Berkeley,2020,Enr,American Indian,19
+transfer,Berkeley,2021,Enr,American Indian,15
+transfer,Berkeley,2022,Enr,American Indian,13
+transfer,Berkeley,2024,Enr,American Indian,19
+transfer,Berkeley,2017,Enr,Asian,737
+transfer,Berkeley,2018,Enr,Asian,620
+transfer,Berkeley,2019,Enr,Asian,772
+transfer,Berkeley,2020,Enr,Asian,695
+transfer,Berkeley,2021,Enr,Asian,840
+transfer,Berkeley,2022,Enr,Asian,829
+transfer,Berkeley,2023,Enr,Asian,897
+transfer,Berkeley,2024,Enr,Asian,895
+transfer,Berkeley,2025,Enr,Asian,970
+transfer,Berkeley,2017,Enr,Hispanic/Latino(a),515
+transfer,Berkeley,2018,Enr,Hispanic/Latino(a),447
+transfer,Berkeley,2019,Enr,Hispanic/Latino(a),517
+transfer,Berkeley,2020,Enr,Hispanic/Latino(a),570
+transfer,Berkeley,2021,Enr,Hispanic/Latino(a),602
+transfer,Berkeley,2022,Enr,Hispanic/Latino(a),588
+transfer,Berkeley,2023,Enr,Hispanic/Latino(a),553
+transfer,Berkeley,2024,Enr,Hispanic/Latino(a),639
+transfer,Berkeley,2025,Enr,Hispanic/Latino(a),617
+transfer,Berkeley,2017,Enr,Pacific Islander,5
+transfer,Berkeley,2018,Enr,Pacific Islander,5
+transfer,Berkeley,2020,Enr,Pacific Islander,5
+transfer,Berkeley,2021,Enr,Pacific Islander,7
+transfer,Berkeley,2022,Enr,Pacific Islander,11
+transfer,Berkeley,2024,Enr,Pacific Islander,7
+transfer,Berkeley,2017,Enr,Unknown,64
+transfer,Berkeley,2018,Enr,Unknown,82
+transfer,Berkeley,2019,Enr,Unknown,88
+transfer,Berkeley,2020,Enr,Unknown,97
+transfer,Berkeley,2021,Enr,Unknown,61
+transfer,Berkeley,2022,Enr,Unknown,62
+transfer,Berkeley,2023,Enr,Unknown,84
+transfer,Berkeley,2024,Enr,Unknown,74
+transfer,Berkeley,2025,Enr,Unknown,93
+transfer,Berkeley,2017,Enr,White,742
+transfer,Berkeley,2018,Enr,White,663
+transfer,Berkeley,2019,Enr,White,647
+transfer,Berkeley,2020,Enr,White,628
+transfer,Berkeley,2021,Enr,White,584
+transfer,Berkeley,2022,Enr,White,623
+transfer,Berkeley,2023,Enr,White,634
+transfer,Berkeley,2024,Enr,White,679
+transfer,Berkeley,2025,Enr,White,647
+transfer,Berkeley,2017,Enr,International,512
+transfer,Berkeley,2018,Enr,International,389
+transfer,Berkeley,2019,Enr,International,372
+transfer,Berkeley,2020,Enr,International,349
+transfer,Berkeley,2021,Enr,International,417
+transfer,Berkeley,2022,Enr,International,411
+transfer,Berkeley,2023,Enr,International,431
+transfer,Berkeley,2024,Enr,International,234
+transfer,Berkeley,2025,Enr,International,561
+transfer,Davis,2017,App,African American,830
+transfer,Davis,2018,App,African American,868
+transfer,Davis,2019,App,African American,860
+transfer,Davis,2020,App,African American,912
+transfer,Davis,2021,App,African American,975
+transfer,Davis,2022,App,African American,828
+transfer,Davis,2023,App,African American,830
+transfer,Davis,2024,App,African American,914
+transfer,Davis,2025,App,African American,1026
+transfer,Davis,2017,App,American Indian,118
+transfer,Davis,2018,App,American Indian,101
+transfer,Davis,2019,App,American Indian,103
+transfer,Davis,2020,App,American Indian,104
+transfer,Davis,2021,App,American Indian,85
+transfer,Davis,2022,App,American Indian,113
+transfer,Davis,2023,App,American Indian,131
+transfer,Davis,2024,App,American Indian,129
+transfer,Davis,2025,App,American Indian,153
+transfer,Davis,2017,App,Asian,4707
+transfer,Davis,2018,App,Asian,4793
+transfer,Davis,2019,App,Asian,4791
+transfer,Davis,2020,App,Asian,5126
+transfer,Davis,2021,App,Asian,5777
+transfer,Davis,2022,App,Asian,4959
+transfer,Davis,2023,App,Asian,4943
+transfer,Davis,2024,App,Asian,5483
+transfer,Davis,2025,App,Asian,5588
+transfer,Davis,2017,App,Hispanic/Latino(a),3514
+transfer,Davis,2018,App,Hispanic/Latino(a),3890
+transfer,Davis,2019,App,Hispanic/Latino(a),3792
+transfer,Davis,2020,App,Hispanic/Latino(a),4121
+transfer,Davis,2021,App,Hispanic/Latino(a),4404
+transfer,Davis,2022,App,Hispanic/Latino(a),3608
+transfer,Davis,2023,App,Hispanic/Latino(a),3335
+transfer,Davis,2024,App,Hispanic/Latino(a),3814
+transfer,Davis,2025,App,Hispanic/Latino(a),4053
+transfer,Davis,2017,App,Pacific Islander,63
+transfer,Davis,2018,App,Pacific Islander,70
+transfer,Davis,2019,App,Pacific Islander,60
+transfer,Davis,2020,App,Pacific Islander,72
+transfer,Davis,2021,App,Pacific Islander,61
+transfer,Davis,2022,App,Pacific Islander,68
+transfer,Davis,2023,App,Pacific Islander,41
+transfer,Davis,2024,App,Pacific Islander,57
+transfer,Davis,2025,App,Pacific Islander,48
+transfer,Davis,2017,App,White,4158
+transfer,Davis,2018,App,White,4460
+transfer,Davis,2019,App,White,4303
+transfer,Davis,2020,App,White,4188
+transfer,Davis,2021,App,White,4617
+transfer,Davis,2022,App,White,3906
+transfer,Davis,2023,App,White,3684
+transfer,Davis,2024,App,White,3903
+transfer,Davis,2025,App,White,3870
+transfer,Davis,2017,App,Unknown,454
+transfer,Davis,2018,App,Unknown,420
+transfer,Davis,2019,App,Unknown,364
+transfer,Davis,2020,App,Unknown,571
+transfer,Davis,2021,App,Unknown,365
+transfer,Davis,2022,App,Unknown,312
+transfer,Davis,2023,App,Unknown,370
+transfer,Davis,2024,App,Unknown,395
+transfer,Davis,2025,App,Unknown,399
+transfer,Davis,2017,App,International,2940
+transfer,Davis,2018,App,International,3021
+transfer,Davis,2019,App,International,2837
+transfer,Davis,2020,App,International,2813
+transfer,Davis,2021,App,International,2481
+transfer,Davis,2022,App,International,1739
+transfer,Davis,2023,App,International,1421
+transfer,Davis,2024,App,International,1783
+transfer,Davis,2025,App,International,2031
+transfer,Davis,2017,Adm,African American,407
+transfer,Davis,2018,Adm,African American,401
+transfer,Davis,2019,Adm,African American,384
+transfer,Davis,2020,Adm,African American,399
+transfer,Davis,2021,Adm,African American,397
+transfer,Davis,2022,Adm,African American,414
+transfer,Davis,2023,Adm,African American,447
+transfer,Davis,2024,Adm,African American,441
+transfer,Davis,2025,Adm,African American,434
+transfer,Davis,2017,Adm,American Indian,62
+transfer,Davis,2018,Adm,American Indian,47
+transfer,Davis,2019,Adm,American Indian,51
+transfer,Davis,2020,Adm,American Indian,51
+transfer,Davis,2021,Adm,American Indian,41
+transfer,Davis,2022,Adm,American Indian,62
+transfer,Davis,2023,Adm,American Indian,70
+transfer,Davis,2024,Adm,American Indian,72
+transfer,Davis,2025,Adm,American Indian,66
+transfer,Davis,2017,Adm,Asian,2884
+transfer,Davis,2018,Adm,Asian,2590
+transfer,Davis,2019,Adm,Asian,2692
+transfer,Davis,2020,Adm,Asian,2856
+transfer,Davis,2021,Adm,Asian,2977
+transfer,Davis,2022,Adm,Asian,3055
+transfer,Davis,2023,Adm,Asian,3261
+transfer,Davis,2024,Adm,Asian,3304
+transfer,Davis,2025,Adm,Asian,3200
+transfer,Davis,2017,Adm,Hispanic/Latino(a),2059
+transfer,Davis,2018,Adm,Hispanic/Latino(a),2020
+transfer,Davis,2019,Adm,Hispanic/Latino(a),2049
+transfer,Davis,2020,Adm,Hispanic/Latino(a),2144
+transfer,Davis,2021,Adm,Hispanic/Latino(a),2036
+transfer,Davis,2022,Adm,Hispanic/Latino(a),2122
+transfer,Davis,2023,Adm,Hispanic/Latino(a),2075
+transfer,Davis,2024,Adm,Hispanic/Latino(a),2178
+transfer,Davis,2025,Adm,Hispanic/Latino(a),2204
+transfer,Davis,2017,Adm,Pacific Islander,35
+transfer,Davis,2018,Adm,Pacific Islander,33
+transfer,Davis,2019,Adm,Pacific Islander,36
+transfer,Davis,2020,Adm,Pacific Islander,32
+transfer,Davis,2021,Adm,Pacific Islander,24
+transfer,Davis,2022,Adm,Pacific Islander,31
+transfer,Davis,2023,Adm,Pacific Islander,24
+transfer,Davis,2024,Adm,Pacific Islander,33
+transfer,Davis,2025,Adm,Pacific Islander,22
+transfer,Davis,2017,Adm,Unknown,273
+transfer,Davis,2018,Adm,Unknown,236
+transfer,Davis,2019,Adm,Unknown,217
+transfer,Davis,2020,Adm,Unknown,315
+transfer,Davis,2021,Adm,Unknown,180
+transfer,Davis,2022,Adm,Unknown,191
+transfer,Davis,2023,Adm,Unknown,261
+transfer,Davis,2024,Adm,Unknown,217
+transfer,Davis,2025,Adm,Unknown,214
+transfer,Davis,2017,Adm,White,2622
+transfer,Davis,2018,Adm,White,2553
+transfer,Davis,2019,Adm,White,2486
+transfer,Davis,2020,Adm,White,2355
+transfer,Davis,2021,Adm,White,2346
+transfer,Davis,2022,Adm,White,2312
+transfer,Davis,2023,Adm,White,2425
+transfer,Davis,2024,Adm,White,2367
+transfer,Davis,2025,Adm,White,2286
+transfer,Davis,2017,Adm,International,1902
+transfer,Davis,2018,Adm,International,1842
+transfer,Davis,2019,Adm,International,1818
+transfer,Davis,2020,Adm,International,1777
+transfer,Davis,2021,Adm,International,1453
+transfer,Davis,2022,Adm,International,858
+transfer,Davis,2023,Adm,International,926
+transfer,Davis,2024,Adm,International,994
+transfer,Davis,2025,Adm,International,1257
+transfer,Davis,2017,Enr,African American,150
+transfer,Davis,2018,Enr,African American,134
+transfer,Davis,2019,Enr,African American,147
+transfer,Davis,2020,Enr,African American,141
+transfer,Davis,2021,Enr,African American,139
+transfer,Davis,2022,Enr,African American,132
+transfer,Davis,2023,Enr,African American,124
+transfer,Davis,2024,Enr,African American,127
+transfer,Davis,2025,Enr,African American,148
+transfer,Davis,2017,Enr,American Indian,34
+transfer,Davis,2018,Enr,American Indian,16
+transfer,Davis,2019,Enr,American Indian,18
+transfer,Davis,2020,Enr,American Indian,10
+transfer,Davis,2021,Enr,American Indian,6
+transfer,Davis,2022,Enr,American Indian,16
+transfer,Davis,2023,Enr,American Indian,24
+transfer,Davis,2024,Enr,American Indian,27
+transfer,Davis,2025,Enr,American Indian,24
+transfer,Davis,2017,Enr,Asian,929
+transfer,Davis,2018,Enr,Asian,878
+transfer,Davis,2019,Enr,Asian,878
+transfer,Davis,2020,Enr,Asian,968
+transfer,Davis,2021,Enr,Asian,964
+transfer,Davis,2022,Enr,Asian,890
+transfer,Davis,2023,Enr,Asian,873
+transfer,Davis,2024,Enr,Asian,919
+transfer,Davis,2025,Enr,Asian,888
+transfer,Davis,2017,Enr,Hispanic/Latino(a),754
+transfer,Davis,2018,Enr,Hispanic/Latino(a),678
+transfer,Davis,2019,Enr,Hispanic/Latino(a),734
+transfer,Davis,2020,Enr,Hispanic/Latino(a),702
+transfer,Davis,2021,Enr,Hispanic/Latino(a),718
+transfer,Davis,2022,Enr,Hispanic/Latino(a),645
+transfer,Davis,2023,Enr,Hispanic/Latino(a),655
+transfer,Davis,2024,Enr,Hispanic/Latino(a),634
+transfer,Davis,2025,Enr,Hispanic/Latino(a),682
+transfer,Davis,2017,Enr,Pacific Islander,15
+transfer,Davis,2018,Enr,Pacific Islander,13
+transfer,Davis,2019,Enr,Pacific Islander,17
+transfer,Davis,2020,Enr,Pacific Islander,14
+transfer,Davis,2021,Enr,Pacific Islander,11
+transfer,Davis,2022,Enr,Pacific Islander,14
+transfer,Davis,2023,Enr,Pacific Islander,7
+transfer,Davis,2024,Enr,Pacific Islander,10
+transfer,Davis,2025,Enr,Pacific Islander,8
+transfer,Davis,2017,Enr,Unknown,76
+transfer,Davis,2018,Enr,Unknown,79
+transfer,Davis,2019,Enr,Unknown,58
+transfer,Davis,2020,Enr,Unknown,110
+transfer,Davis,2021,Enr,Unknown,64
+transfer,Davis,2022,Enr,Unknown,49
+transfer,Davis,2023,Enr,Unknown,60
+transfer,Davis,2024,Enr,Unknown,60
+transfer,Davis,2025,Enr,Unknown,53
+transfer,Davis,2017,Enr,White,977
+transfer,Davis,2018,Enr,White,898
+transfer,Davis,2019,Enr,White,858
+transfer,Davis,2020,Enr,White,831
+transfer,Davis,2021,Enr,White,771
+transfer,Davis,2022,Enr,White,782
+transfer,Davis,2023,Enr,White,717
+transfer,Davis,2024,Enr,White,700
+transfer,Davis,2025,Enr,White,709
+transfer,Davis,2017,Enr,International,386
+transfer,Davis,2018,Enr,International,390
+transfer,Davis,2019,Enr,International,358
+transfer,Davis,2020,Enr,International,255
+transfer,Davis,2021,Enr,International,144
+transfer,Davis,2022,Enr,International,86
+transfer,Davis,2023,Enr,International,98
+transfer,Davis,2024,Enr,International,120
+transfer,Davis,2025,Enr,International,101
+transfer,Irvine,2017,App,African American,846
+transfer,Irvine,2018,App,African American,983
+transfer,Irvine,2019,App,African American,970
+transfer,Irvine,2020,App,African American,1181
+transfer,Irvine,2021,App,African American,1218
+transfer,Irvine,2022,App,African American,1126
+transfer,Irvine,2023,App,African American,1175
+transfer,Irvine,2024,App,African American,1355
+transfer,Irvine,2025,App,African American,1285
+transfer,Irvine,2017,App,American Indian,97
+transfer,Irvine,2018,App,American Indian,95
+transfer,Irvine,2019,App,American Indian,88
+transfer,Irvine,2020,App,American Indian,124
+transfer,Irvine,2021,App,American Indian,87
+transfer,Irvine,2022,App,American Indian,127
+transfer,Irvine,2023,App,American Indian,155
+transfer,Irvine,2024,App,American Indian,162
+transfer,Irvine,2025,App,American Indian,158
+transfer,Irvine,2017,App,Asian,5971
+transfer,Irvine,2018,App,Asian,6271
+transfer,Irvine,2019,App,Asian,6532
+transfer,Irvine,2020,App,Asian,7321
+transfer,Irvine,2021,App,Asian,8314
+transfer,Irvine,2022,App,Asian,7805
+transfer,Irvine,2023,App,Asian,7693
+transfer,Irvine,2024,App,Asian,8709
+transfer,Irvine,2025,App,Asian,8885
+transfer,Irvine,2017,App,Hispanic/Latino(a),4346
+transfer,Irvine,2018,App,Hispanic/Latino(a),5099
+transfer,Irvine,2019,App,Hispanic/Latino(a),5074
+transfer,Irvine,2020,App,Hispanic/Latino(a),5991
+transfer,Irvine,2021,App,Hispanic/Latino(a),6681
+transfer,Irvine,2022,App,Hispanic/Latino(a),5732
+transfer,Irvine,2023,App,Hispanic/Latino(a),5493
+transfer,Irvine,2024,App,Hispanic/Latino(a),6428
+transfer,Irvine,2025,App,Hispanic/Latino(a),6529
+transfer,Irvine,2017,App,Pacific Islander,55
+transfer,Irvine,2018,App,Pacific Islander,52
+transfer,Irvine,2019,App,Pacific Islander,53
+transfer,Irvine,2020,App,Pacific Islander,59
+transfer,Irvine,2021,App,Pacific Islander,62
+transfer,Irvine,2022,App,Pacific Islander,68
+transfer,Irvine,2023,App,Pacific Islander,49
+transfer,Irvine,2024,App,Pacific Islander,67
+transfer,Irvine,2025,App,Pacific Islander,61
+transfer,Irvine,2017,App,White,4352
+transfer,Irvine,2018,App,White,4728
+transfer,Irvine,2019,App,White,4942
+transfer,Irvine,2020,App,White,5146
+transfer,Irvine,2021,App,White,5601
+transfer,Irvine,2022,App,White,5135
+transfer,Irvine,2023,App,White,4862
+transfer,Irvine,2024,App,White,5304
+transfer,Irvine,2025,App,White,5268
+transfer,Irvine,2017,App,Unknown,508
+transfer,Irvine,2018,App,Unknown,502
+transfer,Irvine,2019,App,Unknown,476
+transfer,Irvine,2020,App,Unknown,752
+transfer,Irvine,2021,App,Unknown,465
+transfer,Irvine,2022,App,Unknown,401
+transfer,Irvine,2023,App,Unknown,501
+transfer,Irvine,2024,App,Unknown,586
+transfer,Irvine,2025,App,Unknown,531
+transfer,Irvine,2017,App,International,3382
+transfer,Irvine,2018,App,International,3741
+transfer,Irvine,2019,App,International,3605
+transfer,Irvine,2020,App,International,3651
+transfer,Irvine,2021,App,International,3429
+transfer,Irvine,2022,App,International,2421
+transfer,Irvine,2023,App,International,2064
+transfer,Irvine,2024,App,International,2493
+transfer,Irvine,2025,App,International,2669
+transfer,Irvine,2017,Adm,African American,358
+transfer,Irvine,2018,Adm,African American,330
+transfer,Irvine,2019,Adm,African American,352
+transfer,Irvine,2020,Adm,African American,327
+transfer,Irvine,2021,Adm,African American,322
+transfer,Irvine,2022,Adm,African American,339
+transfer,Irvine,2023,Adm,African American,367
+transfer,Irvine,2024,Adm,African American,389
+transfer,Irvine,2025,Adm,African American,365
+transfer,Irvine,2017,Adm,American Indian,42
+transfer,Irvine,2018,Adm,American Indian,41
+transfer,Irvine,2019,Adm,American Indian,43
+transfer,Irvine,2020,Adm,American Indian,38
+transfer,Irvine,2021,Adm,American Indian,30
+transfer,Irvine,2022,Adm,American Indian,52
+transfer,Irvine,2023,Adm,American Indian,67
+transfer,Irvine,2024,Adm,American Indian,56
+transfer,Irvine,2025,Adm,American Indian,57
+transfer,Irvine,2017,Adm,Asian,3197
+transfer,Irvine,2018,Adm,Asian,2768
+transfer,Irvine,2019,Adm,Asian,2966
+transfer,Irvine,2020,Adm,Asian,2936
+transfer,Irvine,2021,Adm,Asian,3116
+transfer,Irvine,2022,Adm,Asian,3416
+transfer,Irvine,2023,Adm,Asian,3478
+transfer,Irvine,2024,Adm,Asian,3523
+transfer,Irvine,2025,Adm,Asian,3607
+transfer,Irvine,2017,Adm,Hispanic/Latino(a),2236
+transfer,Irvine,2018,Adm,Hispanic/Latino(a),2222
+transfer,Irvine,2019,Adm,Hispanic/Latino(a),2154
+transfer,Irvine,2020,Adm,Hispanic/Latino(a),2165
+transfer,Irvine,2021,Adm,Hispanic/Latino(a),2110
+transfer,Irvine,2022,Adm,Hispanic/Latino(a),2070
+transfer,Irvine,2023,Adm,Hispanic/Latino(a),2029
+transfer,Irvine,2024,Adm,Hispanic/Latino(a),2316
+transfer,Irvine,2025,Adm,Hispanic/Latino(a),2162
+transfer,Irvine,2017,Adm,Pacific Islander,26
+transfer,Irvine,2018,Adm,Pacific Islander,16
+transfer,Irvine,2019,Adm,Pacific Islander,20
+transfer,Irvine,2020,Adm,Pacific Islander,17
+transfer,Irvine,2021,Adm,Pacific Islander,17
+transfer,Irvine,2022,Adm,Pacific Islander,21
+transfer,Irvine,2023,Adm,Pacific Islander,15
+transfer,Irvine,2024,Adm,Pacific Islander,14
+transfer,Irvine,2025,Adm,Pacific Islander,20
+transfer,Irvine,2017,Adm,Unknown,273
+transfer,Irvine,2018,Adm,Unknown,220
+transfer,Irvine,2019,Adm,Unknown,220
+transfer,Irvine,2020,Adm,Unknown,324
+transfer,Irvine,2021,Adm,Unknown,197
+transfer,Irvine,2022,Adm,Unknown,171
+transfer,Irvine,2023,Adm,Unknown,247
+transfer,Irvine,2024,Adm,Unknown,250
+transfer,Irvine,2025,Adm,Unknown,234
+transfer,Irvine,2017,Adm,White,2469
+transfer,Irvine,2018,Adm,White,2223
+transfer,Irvine,2019,Adm,White,2312
+transfer,Irvine,2020,Adm,White,2306
+transfer,Irvine,2021,Adm,White,2188
+transfer,Irvine,2022,Adm,White,2120
+transfer,Irvine,2023,Adm,White,2145
+transfer,Irvine,2024,Adm,White,2235
+transfer,Irvine,2025,Adm,White,2186
+transfer,Irvine,2017,Adm,International,1707
+transfer,Irvine,2018,Adm,International,1104
+transfer,Irvine,2019,Adm,International,1485
+transfer,Irvine,2020,Adm,International,1696
+transfer,Irvine,2021,Adm,International,1694
+transfer,Irvine,2022,Adm,International,953
+transfer,Irvine,2023,Adm,International,1090
+transfer,Irvine,2024,Adm,International,1101
+transfer,Irvine,2025,Adm,International,1248
+transfer,Irvine,2017,Enr,African American,91
+transfer,Irvine,2018,Enr,African American,97
+transfer,Irvine,2019,Enr,African American,97
+transfer,Irvine,2020,Enr,African American,84
+transfer,Irvine,2021,Enr,African American,75
+transfer,Irvine,2022,Enr,African American,75
+transfer,Irvine,2023,Enr,African American,91
+transfer,Irvine,2024,Enr,African American,91
+transfer,Irvine,2025,Enr,African American,91
+transfer,Irvine,2017,Enr,American Indian,9
+transfer,Irvine,2018,Enr,American Indian,13
+transfer,Irvine,2019,Enr,American Indian,8
+transfer,Irvine,2022,Enr,American Indian,16
+transfer,Irvine,2023,Enr,American Indian,18
+transfer,Irvine,2025,Enr,American Indian,20
+transfer,Irvine,2017,Enr,Asian,1016
+transfer,Irvine,2018,Enr,Asian,925
+transfer,Irvine,2019,Enr,Asian,1037
+transfer,Irvine,2020,Enr,Asian,937
+transfer,Irvine,2021,Enr,Asian,1056
+transfer,Irvine,2022,Enr,Asian,1127
+transfer,Irvine,2023,Enr,Asian,1160
+transfer,Irvine,2024,Enr,Asian,1052
+transfer,Irvine,2025,Enr,Asian,1211
+transfer,Irvine,2017,Enr,Hispanic/Latino(a),672
+transfer,Irvine,2018,Enr,Hispanic/Latino(a),686
+transfer,Irvine,2019,Enr,Hispanic/Latino(a),714
+transfer,Irvine,2020,Enr,Hispanic/Latino(a),632
+transfer,Irvine,2021,Enr,Hispanic/Latino(a),638
+transfer,Irvine,2022,Enr,Hispanic/Latino(a),571
+transfer,Irvine,2023,Enr,Hispanic/Latino(a),658
+transfer,Irvine,2024,Enr,Hispanic/Latino(a),648
+transfer,Irvine,2025,Enr,Hispanic/Latino(a),610
+transfer,Irvine,2017,Enr,Pacific Islander,5
+transfer,Irvine,2018,Enr,Pacific Islander,6
+transfer,Irvine,2019,Enr,Pacific Islander,5
+transfer,Irvine,2022,Enr,Pacific Islander,6
+transfer,Irvine,2023,Enr,Pacific Islander,5
+transfer,Irvine,2025,Enr,Pacific Islander,8
+transfer,Irvine,2017,Enr,Unknown,85
+transfer,Irvine,2018,Enr,Unknown,53
+transfer,Irvine,2019,Enr,Unknown,65
+transfer,Irvine,2020,Enr,Unknown,70
+transfer,Irvine,2021,Enr,Unknown,42
+transfer,Irvine,2022,Enr,Unknown,33
+transfer,Irvine,2023,Enr,Unknown,66
+transfer,Irvine,2024,Enr,Unknown,67
+transfer,Irvine,2025,Enr,Unknown,64
+transfer,Irvine,2017,Enr,White,684
+transfer,Irvine,2018,Enr,White,596
+transfer,Irvine,2019,Enr,White,698
+transfer,Irvine,2020,Enr,White,570
+transfer,Irvine,2021,Enr,White,601
+transfer,Irvine,2022,Enr,White,530
+transfer,Irvine,2023,Enr,White,601
+transfer,Irvine,2024,Enr,White,592
+transfer,Irvine,2025,Enr,White,610
+transfer,Irvine,2017,Enr,International,413
+transfer,Irvine,2018,Enr,International,280
+transfer,Irvine,2019,Enr,International,466
+transfer,Irvine,2020,Enr,International,424
+transfer,Irvine,2021,Enr,International,442
+transfer,Irvine,2022,Enr,International,221
+transfer,Irvine,2023,Enr,International,272
+transfer,Irvine,2024,Enr,International,250
+transfer,Irvine,2025,Enr,International,183
+transfer,Los Angeles,2017,App,African American,1178
+transfer,Los Angeles,2018,App,African American,1306
+transfer,Los Angeles,2019,App,African American,1331
+transfer,Los Angeles,2020,App,African American,1499
+transfer,Los Angeles,2021,App,African American,1623
+transfer,Los Angeles,2022,App,African American,1503
+transfer,Los Angeles,2023,App,African American,1497
+transfer,Los Angeles,2024,App,African American,1635
+transfer,Los Angeles,2025,App,African American,1657
+transfer,Los Angeles,2017,App,American Indian,117
+transfer,Los Angeles,2018,App,American Indian,132
+transfer,Los Angeles,2019,App,American Indian,120
+transfer,Los Angeles,2020,App,American Indian,158
+transfer,Los Angeles,2021,App,American Indian,124
+transfer,Los Angeles,2022,App,American Indian,152
+transfer,Los Angeles,2023,App,American Indian,179
+transfer,Los Angeles,2024,App,American Indian,189
+transfer,Los Angeles,2025,App,American Indian,188
+transfer,Los Angeles,2017,App,Asian,5505
+transfer,Los Angeles,2018,App,Asian,5782
+transfer,Los Angeles,2019,App,Asian,6106
+transfer,Los Angeles,2020,App,Asian,6647
+transfer,Los Angeles,2021,App,Asian,7737
+transfer,Los Angeles,2022,App,Asian,7293
+transfer,Los Angeles,2023,App,Asian,7224
+transfer,Los Angeles,2024,App,Asian,8298
+transfer,Los Angeles,2025,App,Asian,8794
+transfer,Los Angeles,2017,App,Hispanic/Latino(a),4967
+transfer,Los Angeles,2018,App,Hispanic/Latino(a),5667
+transfer,Los Angeles,2019,App,Hispanic/Latino(a),5638
+transfer,Los Angeles,2020,App,Hispanic/Latino(a),6508
+transfer,Los Angeles,2021,App,Hispanic/Latino(a),7203
+transfer,Los Angeles,2022,App,Hispanic/Latino(a),6250
+transfer,Los Angeles,2023,App,Hispanic/Latino(a),5773
+transfer,Los Angeles,2024,App,Hispanic/Latino(a),6869
+transfer,Los Angeles,2025,App,Hispanic/Latino(a),7043
+transfer,Los Angeles,2017,App,Pacific Islander,75
+transfer,Los Angeles,2018,App,Pacific Islander,66
+transfer,Los Angeles,2019,App,Pacific Islander,63
+transfer,Los Angeles,2020,App,Pacific Islander,73
+transfer,Los Angeles,2021,App,Pacific Islander,79
+transfer,Los Angeles,2022,App,Pacific Islander,67
+transfer,Los Angeles,2023,App,Pacific Islander,54
+transfer,Los Angeles,2024,App,Pacific Islander,74
+transfer,Los Angeles,2025,App,Pacific Islander,68
+transfer,Los Angeles,2017,App,White,5582
+transfer,Los Angeles,2018,App,White,6116
+transfer,Los Angeles,2019,App,White,6312
+transfer,Los Angeles,2020,App,White,6248
+transfer,Los Angeles,2021,App,White,7103
+transfer,Los Angeles,2022,App,White,6312
+transfer,Los Angeles,2023,App,White,5935
+transfer,Los Angeles,2024,App,White,6365
+transfer,Los Angeles,2025,App,White,6554
+transfer,Los Angeles,2017,App,Unknown,592
+transfer,Los Angeles,2018,App,Unknown,573
+transfer,Los Angeles,2019,App,Unknown,594
+transfer,Los Angeles,2020,App,Unknown,839
+transfer,Los Angeles,2021,App,Unknown,520
+transfer,Los Angeles,2022,App,Unknown,473
+transfer,Los Angeles,2023,App,Unknown,593
+transfer,Los Angeles,2024,App,Unknown,690
+transfer,Los Angeles,2025,App,Unknown,646
+transfer,Los Angeles,2017,App,International,3855
+transfer,Los Angeles,2018,App,International,4116
+transfer,Los Angeles,2019,App,International,3950
+transfer,Los Angeles,2020,App,International,3989
+transfer,Los Angeles,2021,App,International,4075
+transfer,Los Angeles,2022,App,International,2893
+transfer,Los Angeles,2023,App,International,2724
+transfer,Los Angeles,2024,App,International,3058
+transfer,Los Angeles,2025,App,International,3351
+transfer,Los Angeles,2017,Adm,African American,277
+transfer,Los Angeles,2018,Adm,African American,281
+transfer,Los Angeles,2019,Adm,African American,281
+transfer,Los Angeles,2020,Adm,African American,305
+transfer,Los Angeles,2021,Adm,African American,304
+transfer,Los Angeles,2022,Adm,African American,348
+transfer,Los Angeles,2023,Adm,African American,358
+transfer,Los Angeles,2024,Adm,African American,357
+transfer,Los Angeles,2025,Adm,African American,298
+transfer,Los Angeles,2017,Adm,American Indian,29
+transfer,Los Angeles,2018,Adm,American Indian,29
+transfer,Los Angeles,2019,Adm,American Indian,26
+transfer,Los Angeles,2020,Adm,American Indian,48
+transfer,Los Angeles,2021,Adm,American Indian,42
+transfer,Los Angeles,2022,Adm,American Indian,42
+transfer,Los Angeles,2023,Adm,American Indian,60
+transfer,Los Angeles,2024,Adm,American Indian,38
+transfer,Los Angeles,2025,Adm,American Indian,44
+transfer,Los Angeles,2017,Adm,Asian,1374
+transfer,Los Angeles,2018,Adm,Asian,1322
+transfer,Los Angeles,2019,Adm,Asian,1276
+transfer,Los Angeles,2020,Adm,Asian,1606
+transfer,Los Angeles,2021,Adm,Asian,1414
+transfer,Los Angeles,2022,Adm,Asian,1785
+transfer,Los Angeles,2023,Adm,Asian,1983
+transfer,Los Angeles,2024,Adm,Asian,1904
+transfer,Los Angeles,2025,Adm,Asian,1902
+transfer,Los Angeles,2017,Adm,Hispanic/Latino(a),1215
+transfer,Los Angeles,2018,Adm,Hispanic/Latino(a),1262
+transfer,Los Angeles,2019,Adm,Hispanic/Latino(a),1163
+transfer,Los Angeles,2020,Adm,Hispanic/Latino(a),1392
+transfer,Los Angeles,2021,Adm,Hispanic/Latino(a),1290
+transfer,Los Angeles,2022,Adm,Hispanic/Latino(a),1467
+transfer,Los Angeles,2023,Adm,Hispanic/Latino(a),1499
+transfer,Los Angeles,2024,Adm,Hispanic/Latino(a),1594
+transfer,Los Angeles,2025,Adm,Hispanic/Latino(a),1500
+transfer,Los Angeles,2017,Adm,Pacific Islander,12
+transfer,Los Angeles,2018,Adm,Pacific Islander,8
+transfer,Los Angeles,2019,Adm,Pacific Islander,10
+transfer,Los Angeles,2020,Adm,Pacific Islander,11
+transfer,Los Angeles,2021,Adm,Pacific Islander,11
+transfer,Los Angeles,2022,Adm,Pacific Islander,14
+transfer,Los Angeles,2023,Adm,Pacific Islander,10
+transfer,Los Angeles,2024,Adm,Pacific Islander,11
+transfer,Los Angeles,2025,Adm,Pacific Islander,17
+transfer,Los Angeles,2017,Adm,Unknown,154
+transfer,Los Angeles,2018,Adm,Unknown,156
+transfer,Los Angeles,2019,Adm,Unknown,166
+transfer,Los Angeles,2020,Adm,Unknown,221
+transfer,Los Angeles,2021,Adm,Unknown,125
+transfer,Los Angeles,2022,Adm,Unknown,156
+transfer,Los Angeles,2023,Adm,Unknown,183
+transfer,Los Angeles,2024,Adm,Unknown,173
+transfer,Los Angeles,2025,Adm,Unknown,173
+transfer,Los Angeles,2017,Adm,White,1591
+transfer,Los Angeles,2018,Adm,White,1636
+transfer,Los Angeles,2019,Adm,White,1633
+transfer,Los Angeles,2020,Adm,White,1725
+transfer,Los Angeles,2021,Adm,White,1477
+transfer,Los Angeles,2022,Adm,White,1621
+transfer,Los Angeles,2023,Adm,White,1639
+transfer,Los Angeles,2024,Adm,White,1580
+transfer,Los Angeles,2025,Adm,White,1648
+transfer,Los Angeles,2017,Adm,International,879
+transfer,Los Angeles,2018,Adm,International,880
+transfer,Los Angeles,2019,Adm,International,779
+transfer,Los Angeles,2020,Adm,International,963
+transfer,Los Angeles,2021,Adm,International,772
+transfer,Los Angeles,2022,Adm,International,528
+transfer,Los Angeles,2023,Adm,International,458
+transfer,Los Angeles,2024,Adm,International,520
+transfer,Los Angeles,2025,Adm,International,884
+transfer,Los Angeles,2017,Enr,African American,176
+transfer,Los Angeles,2018,Enr,African American,183
+transfer,Los Angeles,2019,Enr,African American,172
+transfer,Los Angeles,2020,Enr,African American,201
+transfer,Los Angeles,2021,Enr,African American,197
+transfer,Los Angeles,2022,Enr,African American,218
+transfer,Los Angeles,2023,Enr,African American,221
+transfer,Los Angeles,2024,Enr,African American,231
+transfer,Los Angeles,2025,Enr,African American,202
+transfer,Los Angeles,2017,Enr,American Indian,16
+transfer,Los Angeles,2019,Enr,American Indian,14
+transfer,Los Angeles,2020,Enr,American Indian,25
+transfer,Los Angeles,2021,Enr,American Indian,23
+transfer,Los Angeles,2024,Enr,American Indian,23
+transfer,Los Angeles,2025,Enr,American Indian,25
+transfer,Los Angeles,2017,Enr,Asian,760
+transfer,Los Angeles,2018,Enr,Asian,791
+transfer,Los Angeles,2019,Enr,Asian,732
+transfer,Los Angeles,2020,Enr,Asian,937
+transfer,Los Angeles,2021,Enr,Asian,868
+transfer,Los Angeles,2022,Enr,Asian,1091
+transfer,Los Angeles,2023,Enr,Asian,1155
+transfer,Los Angeles,2024,Enr,Asian,1172
+transfer,Los Angeles,2025,Enr,Asian,1175
+transfer,Los Angeles,2017,Enr,Hispanic/Latino(a),710
+transfer,Los Angeles,2018,Enr,Hispanic/Latino(a),786
+transfer,Los Angeles,2019,Enr,Hispanic/Latino(a),712
+transfer,Los Angeles,2020,Enr,Hispanic/Latino(a),830
+transfer,Los Angeles,2021,Enr,Hispanic/Latino(a),823
+transfer,Los Angeles,2022,Enr,Hispanic/Latino(a),874
+transfer,Los Angeles,2023,Enr,Hispanic/Latino(a),921
+transfer,Los Angeles,2024,Enr,Hispanic/Latino(a),974
+transfer,Los Angeles,2025,Enr,Hispanic/Latino(a),896
+transfer,Los Angeles,2017,Enr,Pacific Islander,11
+transfer,Los Angeles,2019,Enr,Pacific Islander,7
+transfer,Los Angeles,2020,Enr,Pacific Islander,8
+transfer,Los Angeles,2021,Enr,Pacific Islander,7
+transfer,Los Angeles,2024,Enr,Pacific Islander,6
+transfer,Los Angeles,2025,Enr,Pacific Islander,9
+transfer,Los Angeles,2017,Enr,Unknown,84
+transfer,Los Angeles,2018,Enr,Unknown,75
+transfer,Los Angeles,2019,Enr,Unknown,101
+transfer,Los Angeles,2020,Enr,Unknown,122
+transfer,Los Angeles,2021,Enr,Unknown,80
+transfer,Los Angeles,2022,Enr,Unknown,98
+transfer,Los Angeles,2023,Enr,Unknown,99
+transfer,Los Angeles,2024,Enr,Unknown,105
+transfer,Los Angeles,2025,Enr,Unknown,95
+transfer,Los Angeles,2017,Enr,White,916
+transfer,Los Angeles,2018,Enr,White,1016
+transfer,Los Angeles,2019,Enr,White,1043
+transfer,Los Angeles,2020,Enr,White,1062
+transfer,Los Angeles,2021,Enr,White,967
+transfer,Los Angeles,2022,Enr,White,1035
+transfer,Los Angeles,2023,Enr,White,1003
+transfer,Los Angeles,2024,Enr,White,974
+transfer,Los Angeles,2025,Enr,White,1036
+transfer,Los Angeles,2017,Enr,International,493
+transfer,Los Angeles,2018,Enr,International,553
+transfer,Los Angeles,2019,Enr,International,501
+transfer,Los Angeles,2020,Enr,International,603
+transfer,Los Angeles,2021,Enr,International,469
+transfer,Los Angeles,2022,Enr,International,296
+transfer,Los Angeles,2023,Enr,International,266
+transfer,Los Angeles,2024,Enr,International,348
+transfer,Los Angeles,2025,Enr,International,495
+transfer,Merced,2017,App,African American,235
+transfer,Merced,2018,App,African American,233
+transfer,Merced,2019,App,African American,288
+transfer,Merced,2020,App,African American,274
+transfer,Merced,2021,App,African American,362
+transfer,Merced,2022,App,African American,293
+transfer,Merced,2023,App,African American,337
+transfer,Merced,2024,App,African American,298
+transfer,Merced,2025,App,African American,423
+transfer,Merced,2017,App,American Indian,20
+transfer,Merced,2018,App,American Indian,20
+transfer,Merced,2019,App,American Indian,22
+transfer,Merced,2020,App,American Indian,19
+transfer,Merced,2021,App,American Indian,19
+transfer,Merced,2022,App,American Indian,27
+transfer,Merced,2023,App,American Indian,41
+transfer,Merced,2024,App,American Indian,30
+transfer,Merced,2025,App,American Indian,55
+transfer,Merced,2017,App,Asian,970
+transfer,Merced,2018,App,Asian,963
+transfer,Merced,2019,App,Asian,980
+transfer,Merced,2020,App,Asian,1028
+transfer,Merced,2021,App,Asian,1283
+transfer,Merced,2022,App,Asian,1236
+transfer,Merced,2023,App,Asian,1122
+transfer,Merced,2024,App,Asian,1086
+transfer,Merced,2025,App,Asian,1421
+transfer,Merced,2017,App,Hispanic/Latino(a),1038
+transfer,Merced,2018,App,Hispanic/Latino(a),1258
+transfer,Merced,2019,App,Hispanic/Latino(a),1316
+transfer,Merced,2020,App,Hispanic/Latino(a),1435
+transfer,Merced,2021,App,Hispanic/Latino(a),1776
+transfer,Merced,2022,App,Hispanic/Latino(a),1367
+transfer,Merced,2023,App,Hispanic/Latino(a),1331
+transfer,Merced,2024,App,Hispanic/Latino(a),1283
+transfer,Merced,2025,App,Hispanic/Latino(a),1836
+transfer,Merced,2017,App,Pacific Islander,11
+transfer,Merced,2018,App,Pacific Islander,15
+transfer,Merced,2019,App,Pacific Islander,14
+transfer,Merced,2020,App,Pacific Islander,19
+transfer,Merced,2021,App,Pacific Islander,36
+transfer,Merced,2022,App,Pacific Islander,21
+transfer,Merced,2023,App,Pacific Islander,14
+transfer,Merced,2024,App,Pacific Islander,13
+transfer,Merced,2025,App,Pacific Islander,14
+transfer,Merced,2017,App,White,713
+transfer,Merced,2018,App,White,706
+transfer,Merced,2019,App,White,745
+transfer,Merced,2020,App,White,718
+transfer,Merced,2021,App,White,966
+transfer,Merced,2022,App,White,858
+transfer,Merced,2023,App,White,793
+transfer,Merced,2024,App,White,684
+transfer,Merced,2025,App,White,930
+transfer,Merced,2017,App,Unknown,97
+transfer,Merced,2018,App,Unknown,96
+transfer,Merced,2019,App,Unknown,81
+transfer,Merced,2020,App,Unknown,128
+transfer,Merced,2021,App,Unknown,96
+transfer,Merced,2022,App,Unknown,82
+transfer,Merced,2023,App,Unknown,88
+transfer,Merced,2024,App,Unknown,79
+transfer,Merced,2025,App,Unknown,103
+transfer,Merced,2017,App,International,389
+transfer,Merced,2018,App,International,405
+transfer,Merced,2019,App,International,503
+transfer,Merced,2020,App,International,373
+transfer,Merced,2021,App,International,424
+transfer,Merced,2022,App,International,342
+transfer,Merced,2023,App,International,320
+transfer,Merced,2024,App,International,313
+transfer,Merced,2025,App,International,400
+transfer,Merced,2017,Adm,African American,91
+transfer,Merced,2018,Adm,African American,108
+transfer,Merced,2019,Adm,African American,128
+transfer,Merced,2020,Adm,African American,120
+transfer,Merced,2021,Adm,African American,193
+transfer,Merced,2022,Adm,African American,161
+transfer,Merced,2023,Adm,African American,173
+transfer,Merced,2024,Adm,African American,156
+transfer,Merced,2025,Adm,African American,263
+transfer,Merced,2019,Adm,American Indian,14
+transfer,Merced,2020,Adm,American Indian,10
+transfer,Merced,2021,Adm,American Indian,10
+transfer,Merced,2022,Adm,American Indian,18
+transfer,Merced,2023,Adm,American Indian,25
+transfer,Merced,2025,Adm,American Indian,34
+transfer,Merced,2017,Adm,Asian,485
+transfer,Merced,2018,Adm,Asian,496
+transfer,Merced,2019,Adm,Asian,478
+transfer,Merced,2020,Adm,Asian,508
+transfer,Merced,2021,Adm,Asian,756
+transfer,Merced,2022,Adm,Asian,788
+transfer,Merced,2023,Adm,Asian,760
+transfer,Merced,2024,Adm,Asian,677
+transfer,Merced,2025,Adm,Asian,1044
+transfer,Merced,2017,Adm,Hispanic/Latino(a),562
+transfer,Merced,2018,Adm,Hispanic/Latino(a),726
+transfer,Merced,2019,Adm,Hispanic/Latino(a),744
+transfer,Merced,2020,Adm,Hispanic/Latino(a),837
+transfer,Merced,2021,Adm,Hispanic/Latino(a),1151
+transfer,Merced,2022,Adm,Hispanic/Latino(a),889
+transfer,Merced,2023,Adm,Hispanic/Latino(a),892
+transfer,Merced,2024,Adm,Hispanic/Latino(a),842
+transfer,Merced,2025,Adm,Hispanic/Latino(a),1335
+transfer,Merced,2019,Adm,Pacific Islander,8
+transfer,Merced,2020,Adm,Pacific Islander,7
+transfer,Merced,2021,Adm,Pacific Islander,22
+transfer,Merced,2022,Adm,Pacific Islander,10
+transfer,Merced,2025,Adm,Pacific Islander,7
+transfer,Merced,2017,Adm,Unknown,49
+transfer,Merced,2018,Adm,Unknown,52
+transfer,Merced,2019,Adm,Unknown,36
+transfer,Merced,2020,Adm,Unknown,58
+transfer,Merced,2021,Adm,Unknown,60
+transfer,Merced,2022,Adm,Unknown,55
+transfer,Merced,2023,Adm,Unknown,63
+transfer,Merced,2024,Adm,Unknown,61
+transfer,Merced,2025,Adm,Unknown,69
+transfer,Merced,2017,Adm,White,350
+transfer,Merced,2018,Adm,White,378
+transfer,Merced,2019,Adm,White,391
+transfer,Merced,2020,Adm,White,349
+transfer,Merced,2021,Adm,White,589
+transfer,Merced,2022,Adm,White,555
+transfer,Merced,2023,Adm,White,522
+transfer,Merced,2024,Adm,White,460
+transfer,Merced,2025,Adm,White,699
+transfer,Merced,2017,Adm,International,224
+transfer,Merced,2018,Adm,International,234
+transfer,Merced,2019,Adm,International,240
+transfer,Merced,2020,Adm,International,174
+transfer,Merced,2021,Adm,International,275
+transfer,Merced,2022,Adm,International,212
+transfer,Merced,2023,Adm,International,200
+transfer,Merced,2024,Adm,International,183
+transfer,Merced,2025,Adm,International,264
+transfer,Merced,2017,Enr,African American,9
+transfer,Merced,2018,Enr,African American,11
+transfer,Merced,2019,Enr,African American,8
+transfer,Merced,2020,Enr,African American,23
+transfer,Merced,2021,Enr,African American,13
+transfer,Merced,2022,Enr,African American,15
+transfer,Merced,2023,Enr,African American,15
+transfer,Merced,2024,Enr,African American,22
+transfer,Merced,2025,Enr,African American,24
+transfer,Merced,2017,Enr,Asian,29
+transfer,Merced,2018,Enr,Asian,29
+transfer,Merced,2019,Enr,Asian,18
+transfer,Merced,2020,Enr,Asian,26
+transfer,Merced,2021,Enr,Asian,67
+transfer,Merced,2022,Enr,Asian,47
+transfer,Merced,2023,Enr,Asian,46
+transfer,Merced,2024,Enr,Asian,41
+transfer,Merced,2025,Enr,Asian,49
+transfer,Merced,2017,Enr,Hispanic/Latino(a),74
+transfer,Merced,2018,Enr,Hispanic/Latino(a),96
+transfer,Merced,2019,Enr,Hispanic/Latino(a),102
+transfer,Merced,2020,Enr,Hispanic/Latino(a),117
+transfer,Merced,2021,Enr,Hispanic/Latino(a),133
+transfer,Merced,2022,Enr,Hispanic/Latino(a),102
+transfer,Merced,2023,Enr,Hispanic/Latino(a),103
+transfer,Merced,2024,Enr,Hispanic/Latino(a),96
+transfer,Merced,2025,Enr,Hispanic/Latino(a),134
+transfer,Merced,2017,Enr,Unknown,5
+transfer,Merced,2020,Enr,Unknown,11
+transfer,Merced,2024,Enr,Unknown,5
+transfer,Merced,2017,Enr,White,34
+transfer,Merced,2018,Enr,White,40
+transfer,Merced,2019,Enr,White,40
+transfer,Merced,2020,Enr,White,22
+transfer,Merced,2021,Enr,White,40
+transfer,Merced,2022,Enr,White,36
+transfer,Merced,2023,Enr,White,34
+transfer,Merced,2024,Enr,White,52
+transfer,Merced,2025,Enr,White,60
+transfer,Merced,2018,Enr,International,7
+transfer,Merced,2021,Enr,International,6
+transfer,Merced,2022,Enr,International,5
+transfer,Merced,2023,Enr,International,5
+transfer,Riverside,2017,App,African American,706
+transfer,Riverside,2018,App,African American,843
+transfer,Riverside,2019,App,African American,868
+transfer,Riverside,2020,App,African American,989
+transfer,Riverside,2021,App,African American,1012
+transfer,Riverside,2022,App,African American,911
+transfer,Riverside,2023,App,African American,930
+transfer,Riverside,2024,App,African American,970
+transfer,Riverside,2025,App,African American,1055
+transfer,Riverside,2017,App,American Indian,50
+transfer,Riverside,2018,App,American Indian,65
+transfer,Riverside,2019,App,American Indian,58
+transfer,Riverside,2020,App,American Indian,78
+transfer,Riverside,2021,App,American Indian,48
+transfer,Riverside,2022,App,American Indian,65
+transfer,Riverside,2023,App,American Indian,88
+transfer,Riverside,2024,App,American Indian,87
+transfer,Riverside,2025,App,American Indian,97
+transfer,Riverside,2017,App,Asian,2838
+transfer,Riverside,2018,App,Asian,3189
+transfer,Riverside,2019,App,Asian,3181
+transfer,Riverside,2020,App,Asian,3665
+transfer,Riverside,2021,App,Asian,4107
+transfer,Riverside,2022,App,Asian,3856
+transfer,Riverside,2023,App,Asian,3656
+transfer,Riverside,2024,App,Asian,3702
+transfer,Riverside,2025,App,Asian,3994
+transfer,Riverside,2017,App,Hispanic/Latino(a),3323
+transfer,Riverside,2018,App,Hispanic/Latino(a),4104
+transfer,Riverside,2019,App,Hispanic/Latino(a),4070
+transfer,Riverside,2020,App,Hispanic/Latino(a),4746
+transfer,Riverside,2021,App,Hispanic/Latino(a),5120
+transfer,Riverside,2022,App,Hispanic/Latino(a),4231
+transfer,Riverside,2023,App,Hispanic/Latino(a),3973
+transfer,Riverside,2024,App,Hispanic/Latino(a),4163
+transfer,Riverside,2025,App,Hispanic/Latino(a),4831
+transfer,Riverside,2017,App,Pacific Islander,41
+transfer,Riverside,2018,App,Pacific Islander,33
+transfer,Riverside,2019,App,Pacific Islander,33
+transfer,Riverside,2020,App,Pacific Islander,42
+transfer,Riverside,2021,App,Pacific Islander,37
+transfer,Riverside,2022,App,Pacific Islander,38
+transfer,Riverside,2023,App,Pacific Islander,26
+transfer,Riverside,2024,App,Pacific Islander,37
+transfer,Riverside,2025,App,Pacific Islander,48
+transfer,Riverside,2017,App,White,2100
+transfer,Riverside,2018,App,White,2358
+transfer,Riverside,2019,App,White,2439
+transfer,Riverside,2020,App,White,2557
+transfer,Riverside,2021,App,White,2842
+transfer,Riverside,2022,App,White,2529
+transfer,Riverside,2023,App,White,2330
+transfer,Riverside,2024,App,White,2252
+transfer,Riverside,2025,App,White,2555
+transfer,Riverside,2017,App,Unknown,278
+transfer,Riverside,2018,App,Unknown,305
+transfer,Riverside,2019,App,Unknown,255
+transfer,Riverside,2020,App,Unknown,429
+transfer,Riverside,2021,App,Unknown,227
+transfer,Riverside,2022,App,Unknown,216
+transfer,Riverside,2023,App,Unknown,241
+transfer,Riverside,2024,App,Unknown,227
+transfer,Riverside,2025,App,Unknown,266
+transfer,Riverside,2017,App,International,1290
+transfer,Riverside,2018,App,International,1412
+transfer,Riverside,2019,App,International,1639
+transfer,Riverside,2020,App,International,1515
+transfer,Riverside,2021,App,International,1347
+transfer,Riverside,2022,App,International,1091
+transfer,Riverside,2023,App,International,842
+transfer,Riverside,2024,App,International,830
+transfer,Riverside,2025,App,International,898
+transfer,Riverside,2017,Adm,African American,412
+transfer,Riverside,2018,Adm,African American,482
+transfer,Riverside,2019,Adm,African American,507
+transfer,Riverside,2020,Adm,African American,548
+transfer,Riverside,2021,Adm,African American,510
+transfer,Riverside,2022,Adm,African American,504
+transfer,Riverside,2023,Adm,African American,422
+transfer,Riverside,2024,Adm,African American,477
+transfer,Riverside,2025,Adm,African American,624
+transfer,Riverside,2017,Adm,American Indian,28
+transfer,Riverside,2018,Adm,American Indian,36
+transfer,Riverside,2019,Adm,American Indian,36
+transfer,Riverside,2020,Adm,American Indian,48
+transfer,Riverside,2021,Adm,American Indian,26
+transfer,Riverside,2022,Adm,American Indian,47
+transfer,Riverside,2023,Adm,American Indian,46
+transfer,Riverside,2024,Adm,American Indian,41
+transfer,Riverside,2025,Adm,American Indian,60
+transfer,Riverside,2017,Adm,Asian,1826
+transfer,Riverside,2018,Adm,Asian,2105
+transfer,Riverside,2019,Adm,Asian,2112
+transfer,Riverside,2020,Adm,Asian,2305
+transfer,Riverside,2021,Adm,Asian,2664
+transfer,Riverside,2022,Adm,Asian,2445
+transfer,Riverside,2023,Adm,Asian,2107
+transfer,Riverside,2024,Adm,Asian,2143
+transfer,Riverside,2025,Adm,Asian,2738
+transfer,Riverside,2017,Adm,Hispanic/Latino(a),2188
+transfer,Riverside,2018,Adm,Hispanic/Latino(a),2716
+transfer,Riverside,2019,Adm,Hispanic/Latino(a),2774
+transfer,Riverside,2020,Adm,Hispanic/Latino(a),3092
+transfer,Riverside,2021,Adm,Hispanic/Latino(a),3157
+transfer,Riverside,2022,Adm,Hispanic/Latino(a),2520
+transfer,Riverside,2023,Adm,Hispanic/Latino(a),2208
+transfer,Riverside,2024,Adm,Hispanic/Latino(a),2403
+transfer,Riverside,2025,Adm,Hispanic/Latino(a),3182
+transfer,Riverside,2017,Adm,Pacific Islander,27
+transfer,Riverside,2018,Adm,Pacific Islander,16
+transfer,Riverside,2019,Adm,Pacific Islander,20
+transfer,Riverside,2020,Adm,Pacific Islander,17
+transfer,Riverside,2021,Adm,Pacific Islander,21
+transfer,Riverside,2022,Adm,Pacific Islander,16
+transfer,Riverside,2023,Adm,Pacific Islander,14
+transfer,Riverside,2024,Adm,Pacific Islander,19
+transfer,Riverside,2025,Adm,Pacific Islander,33
+transfer,Riverside,2017,Adm,Unknown,163
+transfer,Riverside,2018,Adm,Unknown,176
+transfer,Riverside,2019,Adm,Unknown,162
+transfer,Riverside,2020,Adm,Unknown,262
+transfer,Riverside,2021,Adm,Unknown,134
+transfer,Riverside,2022,Adm,Unknown,128
+transfer,Riverside,2023,Adm,Unknown,142
+transfer,Riverside,2024,Adm,Unknown,126
+transfer,Riverside,2025,Adm,Unknown,191
+transfer,Riverside,2017,Adm,White,1342
+transfer,Riverside,2018,Adm,White,1505
+transfer,Riverside,2019,Adm,White,1612
+transfer,Riverside,2020,Adm,White,1634
+transfer,Riverside,2021,Adm,White,1745
+transfer,Riverside,2022,Adm,White,1495
+transfer,Riverside,2023,Adm,White,1351
+transfer,Riverside,2024,Adm,White,1312
+transfer,Riverside,2025,Adm,White,1793
+transfer,Riverside,2017,Adm,International,964
+transfer,Riverside,2018,Adm,International,1092
+transfer,Riverside,2019,Adm,International,1266
+transfer,Riverside,2020,Adm,International,1127
+transfer,Riverside,2021,Adm,International,977
+transfer,Riverside,2022,Adm,International,722
+transfer,Riverside,2023,Adm,International,513
+transfer,Riverside,2024,Adm,International,513
+transfer,Riverside,2025,Adm,International,624
+transfer,Riverside,2017,Enr,African American,98
+transfer,Riverside,2018,Enr,African American,142
+transfer,Riverside,2019,Enr,African American,144
+transfer,Riverside,2020,Enr,African American,174
+transfer,Riverside,2021,Enr,African American,134
+transfer,Riverside,2022,Enr,African American,119
+transfer,Riverside,2023,Enr,African American,99
+transfer,Riverside,2024,Enr,African American,113
+transfer,Riverside,2025,Enr,African American,143
+transfer,Riverside,2018,Enr,American Indian,14
+transfer,Riverside,2020,Enr,American Indian,11
+transfer,Riverside,2021,Enr,American Indian,6
+transfer,Riverside,2022,Enr,American Indian,15
+transfer,Riverside,2024,Enr,American Indian,13
+transfer,Riverside,2025,Enr,American Indian,10
+transfer,Riverside,2017,Enr,Asian,300
+transfer,Riverside,2018,Enr,Asian,394
+transfer,Riverside,2019,Enr,Asian,376
+transfer,Riverside,2020,Enr,Asian,470
+transfer,Riverside,2021,Enr,Asian,567
+transfer,Riverside,2022,Enr,Asian,369
+transfer,Riverside,2023,Enr,Asian,280
+transfer,Riverside,2024,Enr,Asian,275
+transfer,Riverside,2025,Enr,Asian,395
+transfer,Riverside,2017,Enr,Hispanic/Latino(a),584
+transfer,Riverside,2018,Enr,Hispanic/Latino(a),819
+transfer,Riverside,2019,Enr,Hispanic/Latino(a),870
+transfer,Riverside,2020,Enr,Hispanic/Latino(a),913
+transfer,Riverside,2021,Enr,Hispanic/Latino(a),858
+transfer,Riverside,2022,Enr,Hispanic/Latino(a),594
+transfer,Riverside,2023,Enr,Hispanic/Latino(a),563
+transfer,Riverside,2024,Enr,Hispanic/Latino(a),574
+transfer,Riverside,2025,Enr,Hispanic/Latino(a),690
+transfer,Riverside,2018,Enr,Pacific Islander,7
+transfer,Riverside,2020,Enr,Pacific Islander,5
+transfer,Riverside,2021,Enr,Pacific Islander,5
+transfer,Riverside,2024,Enr,Pacific Islander,5
+transfer,Riverside,2025,Enr,Pacific Islander,5
+transfer,Riverside,2017,Enr,Unknown,33
+transfer,Riverside,2018,Enr,Unknown,44
+transfer,Riverside,2019,Enr,Unknown,35
+transfer,Riverside,2020,Enr,Unknown,66
+transfer,Riverside,2021,Enr,Unknown,29
+transfer,Riverside,2022,Enr,Unknown,18
+transfer,Riverside,2023,Enr,Unknown,25
+transfer,Riverside,2024,Enr,Unknown,20
+transfer,Riverside,2025,Enr,Unknown,21
+transfer,Riverside,2017,Enr,White,213
+transfer,Riverside,2018,Enr,White,296
+transfer,Riverside,2019,Enr,White,325
+transfer,Riverside,2020,Enr,White,316
+transfer,Riverside,2021,Enr,White,351
+transfer,Riverside,2022,Enr,White,242
+transfer,Riverside,2023,Enr,White,223
+transfer,Riverside,2024,Enr,White,211
+transfer,Riverside,2025,Enr,White,276
+transfer,Riverside,2017,Enr,International,127
+transfer,Riverside,2018,Enr,International,203
+transfer,Riverside,2019,Enr,International,185
+transfer,Riverside,2020,Enr,International,133
+transfer,Riverside,2021,Enr,International,106
+transfer,Riverside,2022,Enr,International,104
+transfer,Riverside,2023,Enr,International,46
+transfer,Riverside,2024,Enr,International,60
+transfer,Riverside,2025,Enr,International,72
+transfer,San Diego,2017,App,African American,800
+transfer,San Diego,2018,App,African American,836
+transfer,San Diego,2019,App,African American,895
+transfer,San Diego,2020,App,African American,1044
+transfer,San Diego,2021,App,African American,1075
+transfer,San Diego,2022,App,African American,980
+transfer,San Diego,2023,App,African American,1056
+transfer,San Diego,2024,App,African American,1153
+transfer,San Diego,2025,App,African American,1193
+transfer,San Diego,2017,App,American Indian,93
+transfer,San Diego,2018,App,American Indian,106
+transfer,San Diego,2019,App,American Indian,101
+transfer,San Diego,2020,App,American Indian,129
+transfer,San Diego,2021,App,American Indian,104
+transfer,San Diego,2022,App,American Indian,120
+transfer,San Diego,2023,App,American Indian,177
+transfer,San Diego,2024,App,American Indian,165
+transfer,San Diego,2025,App,American Indian,168
+transfer,San Diego,2017,App,Asian,4858
+transfer,San Diego,2018,App,Asian,4954
+transfer,San Diego,2019,App,Asian,5155
+transfer,San Diego,2020,App,Asian,5709
+transfer,San Diego,2021,App,Asian,6609
+transfer,San Diego,2022,App,Asian,6070
+transfer,San Diego,2023,App,Asian,6301
+transfer,San Diego,2024,App,Asian,7295
+transfer,San Diego,2025,App,Asian,7665
+transfer,San Diego,2017,App,Hispanic/Latino(a),3563
+transfer,San Diego,2018,App,Hispanic/Latino(a),4053
+transfer,San Diego,2019,App,Hispanic/Latino(a),4128
+transfer,San Diego,2020,App,Hispanic/Latino(a),4819
+transfer,San Diego,2021,App,Hispanic/Latino(a),5211
+transfer,San Diego,2022,App,Hispanic/Latino(a),4579
+transfer,San Diego,2023,App,Hispanic/Latino(a),4571
+transfer,San Diego,2024,App,Hispanic/Latino(a),5330
+transfer,San Diego,2025,App,Hispanic/Latino(a),5478
+transfer,San Diego,2017,App,Pacific Islander,57
+transfer,San Diego,2018,App,Pacific Islander,53
+transfer,San Diego,2019,App,Pacific Islander,48
+transfer,San Diego,2020,App,Pacific Islander,58
+transfer,San Diego,2021,App,Pacific Islander,55
+transfer,San Diego,2022,App,Pacific Islander,59
+transfer,San Diego,2023,App,Pacific Islander,48
+transfer,San Diego,2024,App,Pacific Islander,64
+transfer,San Diego,2025,App,Pacific Islander,59
+transfer,San Diego,2017,App,White,4495
+transfer,San Diego,2018,App,White,4843
+transfer,San Diego,2019,App,White,4996
+transfer,San Diego,2020,App,White,5054
+transfer,San Diego,2021,App,White,5660
+transfer,San Diego,2022,App,White,5167
+transfer,San Diego,2023,App,White,5166
+transfer,San Diego,2024,App,White,5422
+transfer,San Diego,2025,App,White,5511
+transfer,San Diego,2017,App,Unknown,460
+transfer,San Diego,2018,App,Unknown,427
+transfer,San Diego,2019,App,Unknown,452
+transfer,San Diego,2020,App,Unknown,689
+transfer,San Diego,2021,App,Unknown,414
+transfer,San Diego,2022,App,Unknown,380
+transfer,San Diego,2023,App,Unknown,480
+transfer,San Diego,2024,App,Unknown,549
+transfer,San Diego,2025,App,Unknown,536
+transfer,San Diego,2017,App,International,3466
+transfer,San Diego,2018,App,International,3631
+transfer,San Diego,2019,App,International,3513
+transfer,San Diego,2020,App,International,3587
+transfer,San Diego,2021,App,International,3364
+transfer,San Diego,2022,App,International,2379
+transfer,San Diego,2023,App,International,2178
+transfer,San Diego,2024,App,International,2521
+transfer,San Diego,2025,App,International,2861
+transfer,San Diego,2017,Adm,African American,350
+transfer,San Diego,2018,Adm,African American,340
+transfer,San Diego,2019,Adm,African American,370
+transfer,San Diego,2020,Adm,African American,431
+transfer,San Diego,2021,Adm,African American,478
+transfer,San Diego,2022,Adm,African American,497
+transfer,San Diego,2023,Adm,African American,537
+transfer,San Diego,2024,Adm,African American,517
+transfer,San Diego,2025,Adm,African American,484
+transfer,San Diego,2017,Adm,American Indian,38
+transfer,San Diego,2018,Adm,American Indian,49
+transfer,San Diego,2019,Adm,American Indian,45
+transfer,San Diego,2020,Adm,American Indian,61
+transfer,San Diego,2021,Adm,American Indian,54
+transfer,San Diego,2022,Adm,American Indian,72
+transfer,San Diego,2023,Adm,American Indian,97
+transfer,San Diego,2024,Adm,American Indian,81
+transfer,San Diego,2025,Adm,American Indian,80
+transfer,San Diego,2017,Adm,Asian,2798
+transfer,San Diego,2018,Adm,Asian,2715
+transfer,San Diego,2019,Adm,Asian,2960
+transfer,San Diego,2020,Adm,Asian,3196
+transfer,San Diego,2021,Adm,Asian,3739
+transfer,San Diego,2022,Adm,Asian,3776
+transfer,San Diego,2023,Adm,Asian,4287
+transfer,San Diego,2024,Adm,Asian,4015
+transfer,San Diego,2025,Adm,Asian,4080
+transfer,San Diego,2017,Adm,Hispanic/Latino(a),1882
+transfer,San Diego,2018,Adm,Hispanic/Latino(a),1882
+transfer,San Diego,2019,Adm,Hispanic/Latino(a),2128
+transfer,San Diego,2020,Adm,Hispanic/Latino(a),2286
+transfer,San Diego,2021,Adm,Hispanic/Latino(a),2617
+transfer,San Diego,2022,Adm,Hispanic/Latino(a),2602
+transfer,San Diego,2023,Adm,Hispanic/Latino(a),2665
+transfer,San Diego,2024,Adm,Hispanic/Latino(a),2785
+transfer,San Diego,2025,Adm,Hispanic/Latino(a),2701
+transfer,San Diego,2017,Adm,Pacific Islander,31
+transfer,San Diego,2018,Adm,Pacific Islander,20
+transfer,San Diego,2019,Adm,Pacific Islander,27
+transfer,San Diego,2020,Adm,Pacific Islander,25
+transfer,San Diego,2021,Adm,Pacific Islander,24
+transfer,San Diego,2022,Adm,Pacific Islander,32
+transfer,San Diego,2023,Adm,Pacific Islander,29
+transfer,San Diego,2024,Adm,Pacific Islander,27
+transfer,San Diego,2025,Adm,Pacific Islander,33
+transfer,San Diego,2017,Adm,Unknown,262
+transfer,San Diego,2018,Adm,Unknown,221
+transfer,San Diego,2019,Adm,Unknown,250
+transfer,San Diego,2020,Adm,Unknown,370
+transfer,San Diego,2021,Adm,Unknown,232
+transfer,San Diego,2022,Adm,Unknown,240
+transfer,San Diego,2023,Adm,Unknown,318
+transfer,San Diego,2024,Adm,Unknown,293
+transfer,San Diego,2025,Adm,Unknown,278
+transfer,San Diego,2017,Adm,White,2647
+transfer,San Diego,2018,Adm,White,2543
+transfer,San Diego,2019,Adm,White,2845
+transfer,San Diego,2020,Adm,White,2857
+transfer,San Diego,2021,Adm,White,3107
+transfer,San Diego,2022,Adm,White,3169
+transfer,San Diego,2023,Adm,White,3238
+transfer,San Diego,2024,Adm,White,3034
+transfer,San Diego,2025,Adm,White,2972
+transfer,San Diego,2017,Adm,International,1548
+transfer,San Diego,2018,Adm,International,1451
+transfer,San Diego,2019,Adm,International,1738
+transfer,San Diego,2020,Adm,International,1999
+transfer,San Diego,2021,Adm,International,1924
+transfer,San Diego,2022,Adm,International,1042
+transfer,San Diego,2023,Adm,International,1093
+transfer,San Diego,2024,Adm,International,1438
+transfer,San Diego,2025,Adm,International,1558
+transfer,San Diego,2017,Enr,African American,105
+transfer,San Diego,2018,Enr,African American,115
+transfer,San Diego,2019,Enr,African American,105
+transfer,San Diego,2020,Enr,African American,117
+transfer,San Diego,2021,Enr,African American,114
+transfer,San Diego,2022,Enr,African American,128
+transfer,San Diego,2023,Enr,African American,148
+transfer,San Diego,2024,Enr,African American,140
+transfer,San Diego,2025,Enr,African American,147
+transfer,San Diego,2017,Enr,American Indian,17
+transfer,San Diego,2018,Enr,American Indian,18
+transfer,San Diego,2019,Enr,American Indian,13
+transfer,San Diego,2020,Enr,American Indian,23
+transfer,San Diego,2021,Enr,American Indian,16
+transfer,San Diego,2022,Enr,American Indian,15
+transfer,San Diego,2023,Enr,American Indian,19
+transfer,San Diego,2025,Enr,American Indian,19
+transfer,San Diego,2017,Enr,Asian,833
+transfer,San Diego,2018,Enr,Asian,930
+transfer,San Diego,2019,Enr,Asian,874
+transfer,San Diego,2020,Enr,Asian,998
+transfer,San Diego,2021,Enr,Asian,1144
+transfer,San Diego,2022,Enr,Asian,1096
+transfer,San Diego,2023,Enr,Asian,1197
+transfer,San Diego,2024,Enr,Asian,1368
+transfer,San Diego,2025,Enr,Asian,1342
+transfer,San Diego,2017,Enr,Hispanic/Latino(a),587
+transfer,San Diego,2018,Enr,Hispanic/Latino(a),628
+transfer,San Diego,2019,Enr,Hispanic/Latino(a),648
+transfer,San Diego,2020,Enr,Hispanic/Latino(a),652
+transfer,San Diego,2021,Enr,Hispanic/Latino(a),761
+transfer,San Diego,2022,Enr,Hispanic/Latino(a),701
+transfer,San Diego,2023,Enr,Hispanic/Latino(a),666
+transfer,San Diego,2024,Enr,Hispanic/Latino(a),767
+transfer,San Diego,2025,Enr,Hispanic/Latino(a),779
+transfer,San Diego,2017,Enr,Pacific Islander,10
+transfer,San Diego,2018,Enr,Pacific Islander,9
+transfer,San Diego,2019,Enr,Pacific Islander,9
+transfer,San Diego,2020,Enr,Pacific Islander,8
+transfer,San Diego,2021,Enr,Pacific Islander,11
+transfer,San Diego,2022,Enr,Pacific Islander,5
+transfer,San Diego,2023,Enr,Pacific Islander,9
+transfer,San Diego,2025,Enr,Pacific Islander,7
+transfer,San Diego,2017,Enr,Unknown,83
+transfer,San Diego,2018,Enr,Unknown,65
+transfer,San Diego,2019,Enr,Unknown,62
+transfer,San Diego,2020,Enr,Unknown,98
+transfer,San Diego,2021,Enr,Unknown,54
+transfer,San Diego,2022,Enr,Unknown,52
+transfer,San Diego,2023,Enr,Unknown,74
+transfer,San Diego,2024,Enr,Unknown,79
+transfer,San Diego,2025,Enr,Unknown,71
+transfer,San Diego,2017,Enr,White,765
+transfer,San Diego,2018,Enr,White,810
+transfer,San Diego,2019,Enr,White,792
+transfer,San Diego,2020,Enr,White,724
+transfer,San Diego,2021,Enr,White,815
+transfer,San Diego,2022,Enr,White,775
+transfer,San Diego,2023,Enr,White,786
+transfer,San Diego,2024,Enr,White,821
+transfer,San Diego,2025,Enr,White,789
+transfer,San Diego,2017,Enr,International,465
+transfer,San Diego,2018,Enr,International,546
+transfer,San Diego,2019,Enr,International,659
+transfer,San Diego,2020,Enr,International,716
+transfer,San Diego,2021,Enr,International,679
+transfer,San Diego,2022,Enr,International,297
+transfer,San Diego,2023,Enr,International,311
+transfer,San Diego,2024,Enr,International,550
+transfer,San Diego,2025,Enr,International,433
+transfer,Santa Barbara,2017,App,African American,752
+transfer,Santa Barbara,2018,App,African American,795
+transfer,Santa Barbara,2019,App,African American,816
+transfer,Santa Barbara,2020,App,African American,915
+transfer,Santa Barbara,2021,App,African American,981
+transfer,Santa Barbara,2022,App,African American,875
+transfer,Santa Barbara,2023,App,African American,915
+transfer,Santa Barbara,2024,App,African American,907
+transfer,Santa Barbara,2025,App,African American,988
+transfer,Santa Barbara,2017,App,American Indian,100
+transfer,Santa Barbara,2018,App,American Indian,89
+transfer,Santa Barbara,2019,App,American Indian,92
+transfer,Santa Barbara,2020,App,American Indian,121
+transfer,Santa Barbara,2021,App,American Indian,93
+transfer,Santa Barbara,2022,App,American Indian,126
+transfer,Santa Barbara,2023,App,American Indian,151
+transfer,Santa Barbara,2024,App,American Indian,151
+transfer,Santa Barbara,2025,App,American Indian,140
+transfer,Santa Barbara,2017,App,Asian,4048
+transfer,Santa Barbara,2018,App,Asian,4211
+transfer,Santa Barbara,2019,App,Asian,4440
+transfer,Santa Barbara,2020,App,Asian,4590
+transfer,Santa Barbara,2021,App,Asian,5310
+transfer,Santa Barbara,2022,App,Asian,4786
+transfer,Santa Barbara,2023,App,Asian,4718
+transfer,Santa Barbara,2024,App,Asian,5117
+transfer,Santa Barbara,2025,App,Asian,5222
+transfer,Santa Barbara,2017,App,Hispanic/Latino(a),3891
+transfer,Santa Barbara,2018,App,Hispanic/Latino(a),4163
+transfer,Santa Barbara,2019,App,Hispanic/Latino(a),4327
+transfer,Santa Barbara,2020,App,Hispanic/Latino(a),4716
+transfer,Santa Barbara,2021,App,Hispanic/Latino(a),5147
+transfer,Santa Barbara,2022,App,Hispanic/Latino(a),4303
+transfer,Santa Barbara,2023,App,Hispanic/Latino(a),4112
+transfer,Santa Barbara,2024,App,Hispanic/Latino(a),4564
+transfer,Santa Barbara,2025,App,Hispanic/Latino(a),4719
+transfer,Santa Barbara,2017,App,Pacific Islander,58
+transfer,Santa Barbara,2018,App,Pacific Islander,62
+transfer,Santa Barbara,2019,App,Pacific Islander,46
+transfer,Santa Barbara,2020,App,Pacific Islander,49
+transfer,Santa Barbara,2021,App,Pacific Islander,53
+transfer,Santa Barbara,2022,App,Pacific Islander,52
+transfer,Santa Barbara,2023,App,Pacific Islander,48
+transfer,Santa Barbara,2024,App,Pacific Islander,47
+transfer,Santa Barbara,2025,App,Pacific Islander,52
+transfer,Santa Barbara,2017,App,White,4728
+transfer,Santa Barbara,2018,App,White,5019
+transfer,Santa Barbara,2019,App,White,5209
+transfer,Santa Barbara,2020,App,White,5007
+transfer,Santa Barbara,2021,App,White,5859
+transfer,Santa Barbara,2022,App,White,5230
+transfer,Santa Barbara,2023,App,White,5040
+transfer,Santa Barbara,2024,App,White,5368
+transfer,Santa Barbara,2025,App,White,5316
+transfer,Santa Barbara,2017,App,Unknown,436
+transfer,Santa Barbara,2018,App,Unknown,414
+transfer,Santa Barbara,2019,App,Unknown,420
+transfer,Santa Barbara,2020,App,Unknown,637
+transfer,Santa Barbara,2021,App,Unknown,370
+transfer,Santa Barbara,2022,App,Unknown,341
+transfer,Santa Barbara,2023,App,Unknown,430
+transfer,Santa Barbara,2024,App,Unknown,454
+transfer,Santa Barbara,2025,App,Unknown,421
+transfer,Santa Barbara,2017,App,International,2833
+transfer,Santa Barbara,2018,App,International,3145
+transfer,Santa Barbara,2019,App,International,3110
+transfer,Santa Barbara,2020,App,International,2946
+transfer,Santa Barbara,2021,App,International,2760
+transfer,Santa Barbara,2022,App,International,1923
+transfer,Santa Barbara,2023,App,International,1663
+transfer,Santa Barbara,2024,App,International,1830
+transfer,Santa Barbara,2025,App,International,2001
+transfer,Santa Barbara,2017,Adm,African American,359
+transfer,Santa Barbara,2018,Adm,African American,396
+transfer,Santa Barbara,2019,Adm,African American,342
+transfer,Santa Barbara,2020,Adm,African American,432
+transfer,Santa Barbara,2021,Adm,African American,377
+transfer,Santa Barbara,2022,Adm,African American,404
+transfer,Santa Barbara,2023,Adm,African American,427
+transfer,Santa Barbara,2024,Adm,African American,474
+transfer,Santa Barbara,2025,Adm,African American,475
+transfer,Santa Barbara,2017,Adm,American Indian,55
+transfer,Santa Barbara,2018,Adm,American Indian,49
+transfer,Santa Barbara,2019,Adm,American Indian,56
+transfer,Santa Barbara,2020,Adm,American Indian,75
+transfer,Santa Barbara,2021,Adm,American Indian,47
+transfer,Santa Barbara,2022,Adm,American Indian,71
+transfer,Santa Barbara,2023,Adm,American Indian,76
+transfer,Santa Barbara,2024,Adm,American Indian,87
+transfer,Santa Barbara,2025,Adm,American Indian,74
+transfer,Santa Barbara,2017,Adm,Asian,2152
+transfer,Santa Barbara,2018,Adm,Asian,2269
+transfer,Santa Barbara,2019,Adm,Asian,2263
+transfer,Santa Barbara,2020,Adm,Asian,2757
+transfer,Santa Barbara,2021,Adm,Asian,2690
+transfer,Santa Barbara,2022,Adm,Asian,2852
+transfer,Santa Barbara,2023,Adm,Asian,2934
+transfer,Santa Barbara,2024,Adm,Asian,3210
+transfer,Santa Barbara,2025,Adm,Asian,3150
+transfer,Santa Barbara,2017,Adm,Hispanic/Latino(a),2057
+transfer,Santa Barbara,2018,Adm,Hispanic/Latino(a),2261
+transfer,Santa Barbara,2019,Adm,Hispanic/Latino(a),2082
+transfer,Santa Barbara,2020,Adm,Hispanic/Latino(a),2576
+transfer,Santa Barbara,2021,Adm,Hispanic/Latino(a),2007
+transfer,Santa Barbara,2022,Adm,Hispanic/Latino(a),2369
+transfer,Santa Barbara,2023,Adm,Hispanic/Latino(a),2295
+transfer,Santa Barbara,2024,Adm,Hispanic/Latino(a),2695
+transfer,Santa Barbara,2025,Adm,Hispanic/Latino(a),2541
+transfer,Santa Barbara,2017,Adm,Pacific Islander,28
+transfer,Santa Barbara,2018,Adm,Pacific Islander,27
+transfer,Santa Barbara,2019,Adm,Pacific Islander,20
+transfer,Santa Barbara,2020,Adm,Pacific Islander,26
+transfer,Santa Barbara,2021,Adm,Pacific Islander,18
+transfer,Santa Barbara,2022,Adm,Pacific Islander,23
+transfer,Santa Barbara,2023,Adm,Pacific Islander,26
+transfer,Santa Barbara,2024,Adm,Pacific Islander,24
+transfer,Santa Barbara,2025,Adm,Pacific Islander,28
+transfer,Santa Barbara,2017,Adm,Unknown,246
+transfer,Santa Barbara,2018,Adm,Unknown,244
+transfer,Santa Barbara,2019,Adm,Unknown,221
+transfer,Santa Barbara,2020,Adm,Unknown,395
+transfer,Santa Barbara,2021,Adm,Unknown,187
+transfer,Santa Barbara,2022,Adm,Unknown,204
+transfer,Santa Barbara,2023,Adm,Unknown,281
+transfer,Santa Barbara,2024,Adm,Unknown,271
+transfer,Santa Barbara,2025,Adm,Unknown,260
+transfer,Santa Barbara,2017,Adm,White,2795
+transfer,Santa Barbara,2018,Adm,White,2996
+transfer,Santa Barbara,2019,Adm,White,2918
+transfer,Santa Barbara,2020,Adm,White,3129
+transfer,Santa Barbara,2021,Adm,White,2918
+transfer,Santa Barbara,2022,Adm,White,3143
+transfer,Santa Barbara,2023,Adm,White,3240
+transfer,Santa Barbara,2024,Adm,White,3512
+transfer,Santa Barbara,2025,Adm,White,3305
+transfer,Santa Barbara,2017,Adm,International,1684
+transfer,Santa Barbara,2018,Adm,International,1895
+transfer,Santa Barbara,2019,Adm,International,1524
+transfer,Santa Barbara,2020,Adm,International,1860
+transfer,Santa Barbara,2021,Adm,International,1796
+transfer,Santa Barbara,2022,Adm,International,1179
+transfer,Santa Barbara,2023,Adm,International,999
+transfer,Santa Barbara,2024,Adm,International,1096
+transfer,Santa Barbara,2025,Adm,International,1305
+transfer,Santa Barbara,2017,Enr,African American,109
+transfer,Santa Barbara,2018,Enr,African American,103
+transfer,Santa Barbara,2019,Enr,African American,85
+transfer,Santa Barbara,2020,Enr,African American,92
+transfer,Santa Barbara,2021,Enr,African American,78
+transfer,Santa Barbara,2022,Enr,African American,87
+transfer,Santa Barbara,2023,Enr,African American,80
+transfer,Santa Barbara,2024,Enr,African American,81
+transfer,Santa Barbara,2025,Enr,African American,83
+transfer,Santa Barbara,2017,Enr,American Indian,20
+transfer,Santa Barbara,2018,Enr,American Indian,15
+transfer,Santa Barbara,2019,Enr,American Indian,25
+transfer,Santa Barbara,2020,Enr,American Indian,17
+transfer,Santa Barbara,2021,Enr,American Indian,10
+transfer,Santa Barbara,2022,Enr,American Indian,25
+transfer,Santa Barbara,2023,Enr,American Indian,18
+transfer,Santa Barbara,2024,Enr,American Indian,21
+transfer,Santa Barbara,2025,Enr,American Indian,14
+transfer,Santa Barbara,2017,Enr,Asian,385
+transfer,Santa Barbara,2018,Enr,Asian,373
+transfer,Santa Barbara,2019,Enr,Asian,398
+transfer,Santa Barbara,2020,Enr,Asian,532
+transfer,Santa Barbara,2021,Enr,Asian,441
+transfer,Santa Barbara,2022,Enr,Asian,393
+transfer,Santa Barbara,2023,Enr,Asian,338
+transfer,Santa Barbara,2024,Enr,Asian,429
+transfer,Santa Barbara,2025,Enr,Asian,406
+transfer,Santa Barbara,2017,Enr,Hispanic/Latino(a),569
+transfer,Santa Barbara,2018,Enr,Hispanic/Latino(a),621
+transfer,Santa Barbara,2019,Enr,Hispanic/Latino(a),535
+transfer,Santa Barbara,2020,Enr,Hispanic/Latino(a),608
+transfer,Santa Barbara,2021,Enr,Hispanic/Latino(a),499
+transfer,Santa Barbara,2022,Enr,Hispanic/Latino(a),557
+transfer,Santa Barbara,2023,Enr,Hispanic/Latino(a),501
+transfer,Santa Barbara,2024,Enr,Hispanic/Latino(a),581
+transfer,Santa Barbara,2025,Enr,Hispanic/Latino(a),547
+transfer,Santa Barbara,2017,Enr,Pacific Islander,8
+transfer,Santa Barbara,2018,Enr,Pacific Islander,8
+transfer,Santa Barbara,2019,Enr,Pacific Islander,5
+transfer,Santa Barbara,2020,Enr,Pacific Islander,7
+transfer,Santa Barbara,2021,Enr,Pacific Islander,7
+transfer,Santa Barbara,2022,Enr,Pacific Islander,9
+transfer,Santa Barbara,2023,Enr,Pacific Islander,6
+transfer,Santa Barbara,2024,Enr,Pacific Islander,9
+transfer,Santa Barbara,2025,Enr,Pacific Islander,6
+transfer,Santa Barbara,2017,Enr,Unknown,61
+transfer,Santa Barbara,2018,Enr,Unknown,56
+transfer,Santa Barbara,2019,Enr,Unknown,50
+transfer,Santa Barbara,2020,Enr,Unknown,106
+transfer,Santa Barbara,2021,Enr,Unknown,33
+transfer,Santa Barbara,2022,Enr,Unknown,39
+transfer,Santa Barbara,2023,Enr,Unknown,54
+transfer,Santa Barbara,2024,Enr,Unknown,41
+transfer,Santa Barbara,2025,Enr,Unknown,51
+transfer,Santa Barbara,2017,Enr,White,760
+transfer,Santa Barbara,2018,Enr,White,834
+transfer,Santa Barbara,2019,Enr,White,772
+transfer,Santa Barbara,2020,Enr,White,872
+transfer,Santa Barbara,2021,Enr,White,830
+transfer,Santa Barbara,2022,Enr,White,800
+transfer,Santa Barbara,2023,Enr,White,822
+transfer,Santa Barbara,2024,Enr,White,877
+transfer,Santa Barbara,2025,Enr,White,850
+transfer,Santa Barbara,2017,Enr,International,300
+transfer,Santa Barbara,2018,Enr,International,464
+transfer,Santa Barbara,2019,Enr,International,247
+transfer,Santa Barbara,2020,Enr,International,219
+transfer,Santa Barbara,2021,Enr,International,204
+transfer,Santa Barbara,2022,Enr,International,189
+transfer,Santa Barbara,2023,Enr,International,83
+transfer,Santa Barbara,2024,Enr,International,71
+transfer,Santa Barbara,2025,Enr,International,81
+transfer,Santa Cruz,2017,App,African American,491
+transfer,Santa Cruz,2018,App,African American,630
+transfer,Santa Cruz,2019,App,African American,616
+transfer,Santa Cruz,2020,App,African American,689
+transfer,Santa Cruz,2021,App,African American,746
+transfer,Santa Cruz,2022,App,African American,656
+transfer,Santa Cruz,2023,App,African American,705
+transfer,Santa Cruz,2024,App,African American,739
+transfer,Santa Cruz,2025,App,African American,787
+transfer,Santa Cruz,2017,App,American Indian,83
+transfer,Santa Cruz,2018,App,American Indian,93
+transfer,Santa Cruz,2019,App,American Indian,81
+transfer,Santa Cruz,2020,App,American Indian,103
+transfer,Santa Cruz,2021,App,American Indian,89
+transfer,Santa Cruz,2022,App,American Indian,103
+transfer,Santa Cruz,2023,App,American Indian,134
+transfer,Santa Cruz,2024,App,American Indian,135
+transfer,Santa Cruz,2025,App,American Indian,129
+transfer,Santa Cruz,2017,App,Asian,2450
+transfer,Santa Cruz,2018,App,Asian,2708
+transfer,Santa Cruz,2019,App,Asian,2829
+transfer,Santa Cruz,2020,App,Asian,2969
+transfer,Santa Cruz,2021,App,Asian,3321
+transfer,Santa Cruz,2022,App,Asian,2995
+transfer,Santa Cruz,2023,App,Asian,2892
+transfer,Santa Cruz,2024,App,Asian,3205
+transfer,Santa Cruz,2025,App,Asian,3332
+transfer,Santa Cruz,2017,App,Hispanic/Latino(a),2694
+transfer,Santa Cruz,2018,App,Hispanic/Latino(a),3277
+transfer,Santa Cruz,2019,App,Hispanic/Latino(a),3206
+transfer,Santa Cruz,2020,App,Hispanic/Latino(a),3574
+transfer,Santa Cruz,2021,App,Hispanic/Latino(a),3790
+transfer,Santa Cruz,2022,App,Hispanic/Latino(a),3314
+transfer,Santa Cruz,2023,App,Hispanic/Latino(a),3161
+transfer,Santa Cruz,2024,App,Hispanic/Latino(a),3574
+transfer,Santa Cruz,2025,App,Hispanic/Latino(a),4018
+transfer,Santa Cruz,2017,App,Pacific Islander,45
+transfer,Santa Cruz,2018,App,Pacific Islander,51
+transfer,Santa Cruz,2019,App,Pacific Islander,39
+transfer,Santa Cruz,2020,App,Pacific Islander,60
+transfer,Santa Cruz,2021,App,Pacific Islander,51
+transfer,Santa Cruz,2022,App,Pacific Islander,48
+transfer,Santa Cruz,2023,App,Pacific Islander,36
+transfer,Santa Cruz,2024,App,Pacific Islander,47
+transfer,Santa Cruz,2025,App,Pacific Islander,49
+transfer,Santa Cruz,2017,App,White,3030
+transfer,Santa Cruz,2018,App,White,3435
+transfer,Santa Cruz,2019,App,White,3338
+transfer,Santa Cruz,2020,App,White,3401
+transfer,Santa Cruz,2021,App,White,3882
+transfer,Santa Cruz,2022,App,White,3544
+transfer,Santa Cruz,2023,App,White,3331
+transfer,Santa Cruz,2024,App,White,3478
+transfer,Santa Cruz,2025,App,White,3530
+transfer,Santa Cruz,2017,App,Unknown,297
+transfer,Santa Cruz,2018,App,Unknown,337
+transfer,Santa Cruz,2019,App,Unknown,293
+transfer,Santa Cruz,2020,App,Unknown,462
+transfer,Santa Cruz,2021,App,Unknown,245
+transfer,Santa Cruz,2022,App,Unknown,220
+transfer,Santa Cruz,2023,App,Unknown,246
+transfer,Santa Cruz,2024,App,Unknown,274
+transfer,Santa Cruz,2025,App,Unknown,294
+transfer,Santa Cruz,2017,App,International,1036
+transfer,Santa Cruz,2018,App,International,1303
+transfer,Santa Cruz,2019,App,International,1393
+transfer,Santa Cruz,2020,App,International,1314
+transfer,Santa Cruz,2021,App,International,1113
+transfer,Santa Cruz,2022,App,International,839
+transfer,Santa Cruz,2023,App,International,663
+transfer,Santa Cruz,2024,App,International,670
+transfer,Santa Cruz,2025,App,International,704
+transfer,Santa Cruz,2017,Adm,African American,254
+transfer,Santa Cruz,2018,Adm,African American,353
+transfer,Santa Cruz,2019,Adm,African American,327
+transfer,Santa Cruz,2020,Adm,African American,380
+transfer,Santa Cruz,2021,Adm,African American,342
+transfer,Santa Cruz,2022,Adm,African American,333
+transfer,Santa Cruz,2023,Adm,African American,371
+transfer,Santa Cruz,2024,Adm,African American,375
+transfer,Santa Cruz,2025,Adm,African American,445
+transfer,Santa Cruz,2017,Adm,American Indian,47
+transfer,Santa Cruz,2018,Adm,American Indian,55
+transfer,Santa Cruz,2019,Adm,American Indian,44
+transfer,Santa Cruz,2020,Adm,American Indian,63
+transfer,Santa Cruz,2021,Adm,American Indian,47
+transfer,Santa Cruz,2022,Adm,American Indian,65
+transfer,Santa Cruz,2023,Adm,American Indian,76
+transfer,Santa Cruz,2024,Adm,American Indian,75
+transfer,Santa Cruz,2025,Adm,American Indian,66
+transfer,Santa Cruz,2017,Adm,Asian,1398
+transfer,Santa Cruz,2018,Adm,Asian,1797
+transfer,Santa Cruz,2019,Adm,Asian,1648
+transfer,Santa Cruz,2020,Adm,Asian,1874
+transfer,Santa Cruz,2021,Adm,Asian,1878
+transfer,Santa Cruz,2022,Adm,Asian,1810
+transfer,Santa Cruz,2023,Adm,Asian,1957
+transfer,Santa Cruz,2024,Adm,Asian,2134
+transfer,Santa Cruz,2025,Adm,Asian,2368
+transfer,Santa Cruz,2017,Adm,Hispanic/Latino(a),1614
+transfer,Santa Cruz,2018,Adm,Hispanic/Latino(a),2185
+transfer,Santa Cruz,2019,Adm,Hispanic/Latino(a),1965
+transfer,Santa Cruz,2020,Adm,Hispanic/Latino(a),2334
+transfer,Santa Cruz,2021,Adm,Hispanic/Latino(a),2220
+transfer,Santa Cruz,2022,Adm,Hispanic/Latino(a),2005
+transfer,Santa Cruz,2023,Adm,Hispanic/Latino(a),2001
+transfer,Santa Cruz,2024,Adm,Hispanic/Latino(a),2260
+transfer,Santa Cruz,2025,Adm,Hispanic/Latino(a),2754
+transfer,Santa Cruz,2017,Adm,Pacific Islander,28
+transfer,Santa Cruz,2018,Adm,Pacific Islander,25
+transfer,Santa Cruz,2019,Adm,Pacific Islander,28
+transfer,Santa Cruz,2020,Adm,Pacific Islander,32
+transfer,Santa Cruz,2021,Adm,Pacific Islander,36
+transfer,Santa Cruz,2022,Adm,Pacific Islander,21
+transfer,Santa Cruz,2023,Adm,Pacific Islander,16
+transfer,Santa Cruz,2024,Adm,Pacific Islander,29
+transfer,Santa Cruz,2025,Adm,Pacific Islander,33
+transfer,Santa Cruz,2017,Adm,Unknown,193
+transfer,Santa Cruz,2018,Adm,Unknown,213
+transfer,Santa Cruz,2019,Adm,Unknown,179
+transfer,Santa Cruz,2020,Adm,Unknown,281
+transfer,Santa Cruz,2021,Adm,Unknown,135
+transfer,Santa Cruz,2022,Adm,Unknown,134
+transfer,Santa Cruz,2023,Adm,Unknown,174
+transfer,Santa Cruz,2024,Adm,Unknown,168
+transfer,Santa Cruz,2025,Adm,Unknown,201
+transfer,Santa Cruz,2017,Adm,White,1900
+transfer,Santa Cruz,2018,Adm,White,2276
+transfer,Santa Cruz,2019,Adm,White,2107
+transfer,Santa Cruz,2020,Adm,White,2195
+transfer,Santa Cruz,2021,Adm,White,2327
+transfer,Santa Cruz,2022,Adm,White,2195
+transfer,Santa Cruz,2023,Adm,White,2160
+transfer,Santa Cruz,2024,Adm,White,2296
+transfer,Santa Cruz,2025,Adm,White,2464
+transfer,Santa Cruz,2017,Adm,International,580
+transfer,Santa Cruz,2018,Adm,International,821
+transfer,Santa Cruz,2019,Adm,International,759
+transfer,Santa Cruz,2020,Adm,International,761
+transfer,Santa Cruz,2021,Adm,International,659
+transfer,Santa Cruz,2022,Adm,International,536
+transfer,Santa Cruz,2023,Adm,International,407
+transfer,Santa Cruz,2024,Adm,International,395
+transfer,Santa Cruz,2025,Adm,International,439
+transfer,Santa Cruz,2017,Enr,African American,54
+transfer,Santa Cruz,2018,Enr,African American,86
+transfer,Santa Cruz,2019,Enr,African American,64
+transfer,Santa Cruz,2020,Enr,African American,84
+transfer,Santa Cruz,2021,Enr,African American,84
+transfer,Santa Cruz,2022,Enr,African American,46
+transfer,Santa Cruz,2023,Enr,African American,59
+transfer,Santa Cruz,2024,Enr,African American,68
+transfer,Santa Cruz,2025,Enr,African American,61
+transfer,Santa Cruz,2017,Enr,American Indian,7
+transfer,Santa Cruz,2018,Enr,American Indian,18
+transfer,Santa Cruz,2019,Enr,American Indian,16
+transfer,Santa Cruz,2020,Enr,American Indian,11
+transfer,Santa Cruz,2021,Enr,American Indian,10
+transfer,Santa Cruz,2025,Enr,American Indian,13
+transfer,Santa Cruz,2017,Enr,Asian,220
+transfer,Santa Cruz,2018,Enr,Asian,342
+transfer,Santa Cruz,2019,Enr,Asian,297
+transfer,Santa Cruz,2020,Enr,Asian,360
+transfer,Santa Cruz,2021,Enr,Asian,376
+transfer,Santa Cruz,2022,Enr,Asian,236
+transfer,Santa Cruz,2023,Enr,Asian,265
+transfer,Santa Cruz,2024,Enr,Asian,289
+transfer,Santa Cruz,2025,Enr,Asian,302
+transfer,Santa Cruz,2017,Enr,Hispanic/Latino(a),368
+transfer,Santa Cruz,2018,Enr,Hispanic/Latino(a),598
+transfer,Santa Cruz,2019,Enr,Hispanic/Latino(a),433
+transfer,Santa Cruz,2020,Enr,Hispanic/Latino(a),504
+transfer,Santa Cruz,2021,Enr,Hispanic/Latino(a),513
+transfer,Santa Cruz,2022,Enr,Hispanic/Latino(a),359
+transfer,Santa Cruz,2023,Enr,Hispanic/Latino(a),303
+transfer,Santa Cruz,2024,Enr,Hispanic/Latino(a),351
+transfer,Santa Cruz,2025,Enr,Hispanic/Latino(a),431
+transfer,Santa Cruz,2017,Enr,Pacific Islander,6
+transfer,Santa Cruz,2018,Enr,Pacific Islander,7
+transfer,Santa Cruz,2019,Enr,Pacific Islander,9
+transfer,Santa Cruz,2020,Enr,Pacific Islander,5
+transfer,Santa Cruz,2021,Enr,Pacific Islander,9
+transfer,Santa Cruz,2025,Enr,Pacific Islander,6
+transfer,Santa Cruz,2017,Enr,Unknown,41
+transfer,Santa Cruz,2018,Enr,Unknown,58
+transfer,Santa Cruz,2019,Enr,Unknown,34
+transfer,Santa Cruz,2020,Enr,Unknown,72
+transfer,Santa Cruz,2021,Enr,Unknown,33
+transfer,Santa Cruz,2022,Enr,Unknown,22
+transfer,Santa Cruz,2023,Enr,Unknown,19
+transfer,Santa Cruz,2024,Enr,Unknown,25
+transfer,Santa Cruz,2025,Enr,Unknown,22
+transfer,Santa Cruz,2017,Enr,White,478
+transfer,Santa Cruz,2018,Enr,White,605
+transfer,Santa Cruz,2019,Enr,White,536
+transfer,Santa Cruz,2020,Enr,White,541
+transfer,Santa Cruz,2021,Enr,White,640
+transfer,Santa Cruz,2022,Enr,White,481
+transfer,Santa Cruz,2023,Enr,White,424
+transfer,Santa Cruz,2024,Enr,White,499
+transfer,Santa Cruz,2025,Enr,White,452
+transfer,Santa Cruz,2017,Enr,International,60
+transfer,Santa Cruz,2018,Enr,International,99
+transfer,Santa Cruz,2019,Enr,International,73
+transfer,Santa Cruz,2020,Enr,International,64
+transfer,Santa Cruz,2021,Enr,International,63
+transfer,Santa Cruz,2022,Enr,International,54
+transfer,Santa Cruz,2023,Enr,International,23
+transfer,Santa Cruz,2024,Enr,International,23
+transfer,Santa Cruz,2025,Enr,International,34
